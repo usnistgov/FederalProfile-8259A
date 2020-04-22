@@ -1,0 +1,37 @@
+pdf:
+  - basedir: ""
+    filename: FederalBaseLine
+    template: _pdftemplate/template.tex
+    workdir: _pdf
+    graphics: 
+      - _FederalBaseLine/images/
+      - _pdftemplate/images/
+    sections:
+        - name: body
+          parts:
+              - _FederalBaseLine/identity.md
+              - _FederalBaseLine/configuration.md
+              - _FederalBaseLine/protection.md
+              - _FederalBaseLine/logical.md
+              - _FederalBaseLine/update.md
+              - _FederalBaseLine/event.md
+              - _FederalBaseLine/security.md
+          part_template: _pdftemplate/sectionpart.tex
+          section_template: _pdftemplate/section.tex
+        - name: appendix
+          parts:
+              - _Appendix/glossary.md
+              - _Appendix/references.md
+          part_template: _pdftemplate/sectionpart.tex
+          section_template: _pdftemplate/section.tex
+    doi_url: None
+    issued_date: December 2020
+    doc_number: 201-3
+    doc_short_title: FederalBaseLine
+    page_doc_number: FederalBaseLine
+    page_title: FederalBaseLine
+    doc_title: FederalBaseLine
+    pdf_title: 'FederalBaseLine'
+    lineno: true
+    category: Information Security
+    
