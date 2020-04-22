@@ -52,7 +52,7 @@ The capability to configure the IOT device to meet the baseline configurations s
   - The ability to establish IOT device configuration settings to enforce software installation policies and restrictions defined by the user/organization.
   - Ability to configure IOT device communications settings. (7)
   - Ability to establish requirements for remote access to the device and/or device interface including usage restrictions, configuration and connection requirements.
-  - Ability to modify IOT device configuration settings to automatically terminate the IOT device network connection(s) when nonlocal maintenance is completed. (Relates to NIST SP 800-53 Rev4 AC-12)&quot; (DC:PM, LAI:AIM)
+  - Ability to modify IOT device configuration settings to automatically terminate the IOT device network connection(s) when nonlocal maintenance is completed. (Relates to NIST SP 800-53 Rev4 AC-12)" (DC:PM, LAI:AIM)
   - Ability for the organization/user to establish the circumstances within IOT device settings for when information sharing from the IOT device and/or through the IOT device interface will be allowed and prohibited.
   - Ability to be configure the IOT device settings to disallow established types of connections even if a physical port is present (e.g., disallow a flash drive to be connected even if a USB port is present).
   - The capability to configure the IOT device as strict as possible while still meeting the operational requirements of the organization. (CM-6)
@@ -65,8 +65,8 @@ The capability to configure the IOT device to meet the baseline configurations s
 **Adaptable Configuration**
 
 - Ability to support different modes of IOT device operation with more restrictive access, for example:
-  - &quot;travel mode&quot; for transit
-  - &quot;safe mode&quot; for operation when some or all network security is unavailable
+  - "travel mode" for transit
+  - "safe mode" for operation when some or all network security is unavailable
   - [TBD]
-- Ability to support &quot;alternative security mechanisms&quot; within the IOT device when primary mechanisms (e.g., login protocol, encryption, etc.) are compromised.
+- Ability to support "alternative security mechanisms" within the IOT device when primary mechanisms (e.g., login protocol, encryption, etc.) are compromised.
 

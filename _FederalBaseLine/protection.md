@@ -39,7 +39,7 @@ permalink: /protection/
   - Ability for the IoT device to utilize separate partitions for system and user data (5)
   - Ability for the IoT device to utilize ROM for disk image/software (34)
 
-- Ability for the IOT device to &quot;sanitize&quot; or &quot;purge&quot; specific or all data within the device.
+- Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
 - Ability to restrict physical access to removable storage on IOT devices.
 - Ability to create audit logs showing the usage of the IOT device including access to stored data.
 - Ability to support IOT device/media labeling/marking to support distribution, handling or types of information limitations (e.g., controlled information).
