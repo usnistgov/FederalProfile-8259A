@@ -1,0 +1,9 @@
+_site/
+Gemfile
+Gemfile.lock
+*.pdf
+.sass-cache/
+.jekyll-metadata
+*.css.map
+*~
+_pdf/
