@@ -8,39 +8,7 @@ permalink: /security/
 
 # Device Security
 
-- Ability to keep an accurate internal system time
-- Ability to perform security compliance checks on system components.
-- Ability to define various operational states. (7,24)
-- Ability to operate in various operational states
-- Ability to define differing failure types. (24)
 - Ability to scan files for unacceptable content. (18)
-- Ability to require the IOT device to fail in a secure state (7, 24)
-- Ability to disable the IOT device in the event of security violations.
-- Ability to establish setting to protect the execution of code on the IOT device.
-- Ability to support IOT device shared system resources. (4)
-  - Ability to release resources from the IOT device back to the associated system. (4)
-  - Ability to separate user and process resources use. (4)
-- Ability to enforce IOT device configuration execution policies. (18)
-
-  _Requires some or all of the following depending on implementation:_
-
-  - Ability for the IOT device to execute code in confined virtual environments. (18)
-  - Ability to separate IOT device processes into separate execution domains. (39,44)
-  - Ability to manage IOT device memory address space assigned to processes. (39)
-  - Ability to enforce access by the IOT device to memory space through kernel. (39)
-  - Ability to prevent an IOT device process from accessing memory space of another process. (39)
-  - Ability to enforce configured IOT device disk quotas. (5)
-- Ability to establish sufficient resources to store IOT device operating environment in ROM. (34)
-- Ability to established sufficient code space in IOT device memory. (34)
-- Ability to enforce through the IOT device configuration settings traffic flow policies. (7)
-- Ability to utilize standardized protocols within the IOT device. (7)
-- Ability for the IOT device to establish network connections. (10)
-- Ability for the IOT device to terminate network connections (10)
-- Ability for the IOT device to de-allocate TCP/IP address/port pairings. (10)
-- Ability for the IOT device to establish communications paths. (11,23)
-- Ability for the IOT device to secure the communication paths. (11,23)
-- Ability for the IOT device to interface with DNS/DNSSEC. (20)
-
 
 (From here down from Kevin identified under Device Security in an earlier version:)
 
