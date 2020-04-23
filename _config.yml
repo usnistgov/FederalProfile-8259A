@@ -1,7 +1,7 @@
 # Site settings
-title: Federal Baseline
-description: Federal Baseline
-baseurl: "/FederalBaseLine" # the subpath of your site, e.g. /blog
+title: Recommendations for IoT Device Manufacturers
+description: "Recommendations for IoT Device Manufacturers: Catalog of Features and Mitigations"
+baseurl: "/8259-Catalog" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
@@ -27,9 +27,9 @@ navigation:
 - text: Frontmatter
   url: /
   collection: Frontmatter
-- text: Federal Base Line
+- text: Catalog
   url: /identity/
-  collection: FederalBaseLine
+  collection: 8259-Catalog
 - text: Appendix
   url: /references/
   collection: Appendix 
@@ -37,7 +37,7 @@ navigation:
 collections:
   Frontmatter:
     output: true
-  FederalBaseLine:
+  8259-Catalog:
     output: true
   Appendix:
     output: true
