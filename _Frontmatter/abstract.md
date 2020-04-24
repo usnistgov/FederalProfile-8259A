@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Federal Base Line"
-description: "Federal Base Line"
+title: "Recommendations for IoT Device Manufacturers"
 navOrder: 1
 navTitle: Abstract
 permalink: /
