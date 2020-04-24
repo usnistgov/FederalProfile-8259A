@@ -1,6 +1,6 @@
 # 8259 Catalog
 
-This repository is for development of _Recommendations for IoT Device Manufacturers: Catalog of Features and Mitigations_.
+This repository is for development of _Recommendations for IoT Device Manufacturers: Catalog of Device Capabilities_.
 
 ## Editing
 
