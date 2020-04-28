@@ -16,7 +16,7 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 ## Authentication and Identity Management
 
-- Ability for the IOT device to support and require appropriate authentication **.** (2,3)
+- Ability for the IOT device to support and require appropriate authentication **.**
   - Ability for the IOT device to require authentication prior to connecting to the device. (DI:DAS)
   - Ability for the IOT device to support a second, or more, authentication method through an out of band path such as:
     - temporary passwords or other one-use logon credentials.
@@ -44,12 +44,12 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 ## Role Support and Management
 
-- Ability to assign and identify unique IOT device user accounts. (2)
+- Ability to assign and identify unique IOT device user accounts.
 
 - Ability to support a hierarchy of logical access privileges for the IOT device based on roles (e.g., admin, emergency, user, local, temporary, etc.)
   - Ability for the IOT device to establish and administer through logical access privileged user accounts to support role-based access.
   - Ability for the IOT device to use organizationally defined roles to define each user&#39;s access and range of permitted actions to a device.
-  - Ability to support multiple levels of user/process account functionality and roles for the IOT device. (2,3,4)
+  - Ability to support multiple levels of user/process account functionality and roles for the IOT device.
 
 - Ability to apply least privilege through the IOT device interfaces, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions. (LAI:AC-LP)
   - Ability to create additional processes, roles, and accounts as necessary, to achieve least privilege. (LAI:AC-LP)
