@@ -1,21 +1,21 @@
 pdf:
   - basedir: ""
-    filename: FederalBaseLine
+    filename: 8259-Catalog
     template: _pdftemplate/template.tex
     workdir: _pdf
     graphics: 
-      - _FederalBaseLine/images/
+      - _8259-Catalog/images/
       - _pdftemplate/images/
     sections:
         - name: body
           parts:
-              - _FederalBaseLine/identity.md
-              - _FederalBaseLine/configuration.md
-              - _FederalBaseLine/protection.md
-              - _FederalBaseLine/logical.md
-              - _FederalBaseLine/update.md
-              - _FederalBaseLine/event.md
-              - _FederalBaseLine/security.md
+              - _8259-Catalog/identity.md
+              - _8259-Catalog/configuration.md
+              - _8259-Catalog/protection.md
+              - _8259-Catalog/logical.md
+              - _8259-Catalog/update.md
+              - _8259-Catalog/event.md
+              - _8259-Catalog/security.md
           part_template: _pdftemplate/sectionpart.tex
           section_template: _pdftemplate/section.tex
         - name: appendix
@@ -26,12 +26,12 @@ pdf:
           section_template: _pdftemplate/section.tex
     doi_url: None
     issued_date: December 2020
-    doc_number: 201-3
-    doc_short_title: FederalBaseLine
-    page_doc_number: FederalBaseLine
-    page_title: FederalBaseLine
-    doc_title: FederalBaseLine
-    pdf_title: 'FederalBaseLine'
+    doc_number: 8259-Catalog
+    doc_short_title: 8259-Catalog
+    page_doc_number: 8259-Catalog
+    page_title: Recommendations for IoT Device Manufacturers
+    doc_title: Recommendations for IoT Device Manufacturers
+    pdf_title: 'Recommendations for IoT Device Manufacturers'
     lineno: true
-    category: Information Security
+    category: Devices
     
