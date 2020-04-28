@@ -12,7 +12,7 @@ permalink: /identity/
 
 - Ability to uniquely identify the IOT device physically. [Source: NIST IR 8259]
 - Ability to uniquely identify the IOT device logically. [Source: NIST IR 8259]
-  - Ability to uniquely identify a remote IOT device. (23)
+  - Ability to uniquely identify a remote IOT device.
 - Ability for the IOT device to support a unique device ID that can be linked to the person or process assigned to use the IOT device.
 
 ## Actions Based on Device Identity
@@ -28,5 +28,5 @@ permalink: /identity/
 
 - Ability for the IOT device to authenticate itself as an authorized entity to other devices.
 
-- Ability to remotely authenticate the IOT device. (23)
+- Ability to remotely authenticate the IOT device.
 
