@@ -13,7 +13,6 @@ permalink: /event/
 - Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time) to provide the organization.
 
 - Ability to preserve system state information.
-- Ability to provide IOT device settings to allow local and remote access to audit data, to and through the device interfaces. **(CEA:AS and LAI:EC. Possibly also LAI:IC)**
 - Ability to provide IOT device settings to allow the user to assign audit controls access to specific roles or organization-define personnel. (LAI:RSM)
 - Ability for the IOT device to identify unique users interacting with it to allow for user session monitoring.
 
@@ -82,9 +81,4 @@ Event Monitoring and Response (from Kevin earlier version)
 
 - Ability to support an audit generation process for the information system by providing the information it needs (either by completing an audit generation of its own or by exposing its audit logs to an external process).Ability to support an alternate auditing process in the event that the primary auditing process fails.
 - Ability to protect the audit information it provides to the information system according to organizational policy (e.g., the device may need to support encryption and data signing of its auditing files if necessary, as well as other access control protections).
-
-## Event Identification Support (From Kevin in an earlier version)
-
-- Ability to provide IOT device settings to allow for audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) logged within the device. **(CEA:AEI, CEA:EIS, CEA:EMR)**
-- Ability to provide IOT device settings to allow to for audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) logged through device interfaces. **(CEA:AS)**
 
