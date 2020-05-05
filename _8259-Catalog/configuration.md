@@ -34,8 +34,8 @@ The capability to configure the IOT device to meet the baseline configurations s
 ## Interface Configuration
 
 - Ability for only authorized entities to configure via a network process and/or logical interface aspects related to the device&#39;s interfaces, such as:
-  - IOT device execution policy settings (18)
-  - IOT device services. (e.g., VoIP) (19)
+  - IOT device execution policy settings
+  - IOT device services. (e.g., VoIP)
   - IOT device logical interface(s)
 - Ability to control the IOT device&#39;s logical interface through that network process.
 
@@ -48,17 +48,17 @@ The capability to configure the IOT device to meet the baseline configurations s
 ## Device Configuration
 
 - Ability to configure and change the IoT device&#39;s settings and software configurations, and
-- the ability to restrict changes to the IoT device&#39;s settings and software configurations to authorized entities only. [Source: NIST IR 8259] (7) Aspects to be configured include, but are not limited to:
+- the ability to restrict changes to the IoT device&#39;s settings and software configurations to authorized entities only. [Source: NIST IR 8259] Aspects to be configured include, but are not limited to:
   - The ability to establish IOT device configuration settings to enforce software installation policies and restrictions defined by the user/organization.
-  - Ability to configure IOT device communications settings. (7)
+  - Ability to configure IOT device communications settings.
   - Ability to establish requirements for remote access to the device and/or device interface including usage restrictions, configuration and connection requirements.
   - Ability to modify IOT device configuration settings to automatically terminate the IOT device network connection(s) when nonlocal maintenance is completed. (Relates to NIST SP 800-53 Rev4 AC-12)" (DC:PM, LAI:AIM)
   - Ability for the organization/user to establish the circumstances within IOT device settings for when information sharing from the IOT device and/or through the IOT device interface will be allowed and prohibited.
   - Ability to be configure the IOT device settings to disallow established types of connections even if a physical port is present (e.g., disallow a flash drive to be connected even if a USB port is present).
   - The capability to configure the IOT device as strict as possible while still meeting the operational requirements of the organization. (CM-6)
   - The capability to establish IOT device configuration settings to allow only the necessary functionality and be able to restrict components of the IOT device (e.g., ports, functions, protocols, services, etc.) as applicable. (CM-7)
-  - Ability to disable individual IOT device system services. (25)
-  - Ability to uninstall IOT device system software. (25)
+  - Ability to disable individual IOT device system services.
+  - Ability to uninstall IOT device system software.
 - The ability to configure parameters of the IOT device system.
 - Ability for the IOT device to detect unauthorized hardware and software components, and to take action when unauthorized components are detected as defined by the user. (CM-8 (3))
 
