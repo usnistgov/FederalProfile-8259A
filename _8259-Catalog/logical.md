@@ -60,6 +60,7 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 - Ability to support organization-defined actions for the IOT device.
   - Ability to dynamically create through IOT device interfaces organization-defined accounts that support privileged roles assignment expirations.
   - Ability to establish organization-defined user actions for the device, or to access IOT device interfaces.
+  - Ability to allow the user to assign audit controls access to specific roles or organization-define personnel.
   - Ability to establish and administer, logically and remotely, organization pre-defined conditions for the IOT device for establishing shared/group accounts.
   - Ability to restrict the use of shared/group accounts that meet the conditions established for the IOT device.
 
