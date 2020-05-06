@@ -14,7 +14,6 @@ permalink: /event/
 
 - Ability to preserve system state information.
 - Ability to provide IOT device settings to allow the user to assign audit controls access to specific roles or organization-define personnel. (LAI:RSM)
-- Ability for the IOT device to identify unique users interacting with it to allow for user session monitoring.
 
 ## Event Identification and Monitoring
 
@@ -22,6 +21,7 @@ permalink: /event/
 
 - Ability to support a comprehensive list of events that are identified as necessary for a comprehensive auditing process by the organizational auditing policy.
 - Ability to monitor for organizationally defined cybersecurity events
+- Ability for the IOT device to identify unique users interacting with it to allow for user session monitoring.
 - Ability to support a monitoring process to check for disclosure of organizational information to unauthorized entities. (The device may be able to perform this check itself or provide the information necessary for an external process to check).
 - Ability to monitor communications traffic.
 - Ability to detect remote activation attempts.
@@ -39,21 +39,15 @@ permalink: /event/
   - Ability to provide a physical indicator of sensor use.
   - In the event of an auditing failure, the IOT device needs to be able to respond appropriately according to the alert that was issued (either by the device or and external auditing process that interacts with the device)
 
-Event Monitoring and Response (from Kevin earlier version)
-
-- Ability for the IOT device to identify and log user logout.
-
-##
-
 ## Audit Support
 
 - The device can generate audit logs for organizationally defined events
   - Ability to identify and capture the organizational/user defined events using a persistent method that can be reexamined later.
   - Ability to provide information related to specified cybersecurity events (e.g., cybersecurity state, timestamp) to the organization through organizationally defined means (e.g., logs).
   - Ability to create audit logs within the device for organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications).
-  - Ability to audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) that are logged through device interfaces.
+  - Ability to audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) that are logged within the device and through device interfaces.
 - The device can capture required information in audit logs
-  - Ability to track users interacting with the device, the time they interacted with the device, and to list this information in an audit log
+  - Ability to track users interacting with the device, the time they interacted with the device, the time the user logged out of the device, and to list this information in an audit log
   - Ability to identify where organizationally defined events occurred, to support locating the source of the event, the time the event occurred, and the outcome of the event if there is one.
   - Ability to log information pertaining to: The type of event that occurred, The time that the event occurred, Where the event occurred, The source of the event, The outcome of the event, Identity of users/processes associated with the event.
   - Ability to support auditing of configuration actions (CM-5 (1), CM-5(2))
