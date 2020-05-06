@@ -13,7 +13,6 @@ permalink: /event/
 - Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time) to provide the organization.
 
 - Ability to preserve system state information.
-- Ability to provide IOT device settings to allow the user to assign audit controls access to specific roles or organization-define personnel. (LAI:RSM)
 
 ## Event Identification and Monitoring
 
