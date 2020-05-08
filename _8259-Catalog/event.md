@@ -17,7 +17,6 @@ permalink: /event/
 ## Event Identification and Monitoring
 
 - The device can identify and monitor for organizationally defined cybersecurity events (e.g., expected state change) that may occur on or involving the IOT device.
-
 - Ability to support a comprehensive list of events that are identified as necessary for a comprehensive auditing process by the organizational auditing policy.
 - Ability to monitor for organizationally defined cybersecurity events
 - Ability for the IOT device to identify unique users interacting with it to allow for user session monitoring.
@@ -29,8 +28,7 @@ permalink: /event/
 
 ## Event Response
 
-- The device can respond to organizationally defined cybersecurity events in an organizationally defined way
-
+- The device can respond to organizationally defined cybersecurity events in an organizationally defined way.
   - Ability to generate alerts for events of interest (e.g., capacity thresholds).
   - Ability to respond to alerts according to the predefined responses dictated by the auditing policies of the organization.
   - Ability to alert connected information systems of potential issues found during the auditing process or provide information to an external process that will issue these alerts.
@@ -49,8 +47,8 @@ permalink: /event/
   - Ability to track users interacting with the device, the time they interacted with the device, the time the user logged out of the device, and to list this information in an audit log
   - Ability to identify where organizationally defined events occurred, to support locating the source of the event, the time the event occurred, and the outcome of the event if there is one.
   - Ability to log information pertaining to: The type of event that occurred, The time that the event occurred, Where the event occurred, The source of the event, The outcome of the event, Identity of users/processes associated with the event.
-  - Ability to support auditing of configuration actions (CM-5 (1), CM-5(2))
-  - Ability to provide adequate information as to why it captured a particular event or set of events,
+  - Ability to support auditing of configuration actions.
+  - Ability to provide adequate information as to why it captured a particular event or set of events.
   - Ability to provide as much information as necessary for examination of security incidents.
 - The device can maintain audit logs in accordance with organization policy.
   - Ability to store persistent audit logs up to a predefined size established by the user/organization.
@@ -64,14 +62,13 @@ permalink: /event/
   - Ability to record timestamps that can be translated to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) to support a standardized representation of timing.
 - The device can provide information related to cybersecurity events through organizationally defined means.
 
-- Ability to report on its cybersecurity state. [Source: NIST IR 8259]
+- Ability to report on its cybersecurity state.
 - the ability to provide the appropriate audit information to the information system or organization to report on the state of the IOT device security.
 - Ability to run an internal audit (automated or otherwise) to provide the information requested for an external process to audit the device.
 
 - Ability to coordinate with other organizational entities that may be participating in the auditing process. It could possibly need to be able to reveal the results of its own event captures to an external auditing process by another device.
-- Ability to provide the appropriate audit information to an (potentially automated) audit reduction process, where its auditing information can be checked to allow for review, analysis, and reporting
+- Ability to provide the appropriate audit information to an (potentially automated) audit reduction process, where its auditing information can be checked to allow for review, analysis, and reporting.
   - If the IOT device cannot support an audit reduction process itself, the IOT device must be able to provide this information to an external process in a way that provides all possible requested information.
 
 - Ability to support an audit generation process for the information system by providing the information it needs (either by completing an audit generation of its own or by exposing its audit logs to an external process).Ability to support an alternate auditing process in the event that the primary auditing process fails.
 - Ability to protect the audit information it provides to the information system according to organizational policy (e.g., the device may need to support encryption and data signing of its auditing files if necessary, as well as other access control protections).
-

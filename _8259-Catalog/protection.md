@@ -30,7 +30,7 @@ permalink: /protection/
 
 ## Secure Storage
 
-- The IoT device can protect the data it stores from unauthorized access and modification. [Source: NIST IR 8259] (_alternate wording:_ Ability to secure data stored within the IOT device.)
+- The IoT device can protect the data it stores from unauthorized access and modification. (_alternate wording:_ Ability to secure data stored within the IOT device.)
 
 	_Requires some or all of the following depending on implementation:_
 
@@ -46,7 +46,7 @@ permalink: /protection/
 
 ## Secure Transmission
 
-- The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification. [Source: NIST IR 8259]
+- The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 
 	_Requires some or all of the following depending on implementation_
 
