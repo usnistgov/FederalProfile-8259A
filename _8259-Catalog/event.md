@@ -68,7 +68,7 @@ permalink: /event/
   - Ability to record timestamps that can be translated to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) to support a standardized representation of timing.
 - The device can provide information related to cybersecurity events through organizationally defined means.
 
-- Ability to report on its cybersecurity state
+- Ability to report on its cybersecurity state.
 - the ability to provide the appropriate audit information to the information system or organization to report on the state of the IOT device security.
 - Ability to run an internal audit (automated or otherwise) to provide the information requested for an external process to audit the device.
 
@@ -83,4 +83,3 @@ permalink: /event/
 
 - Ability to provide IOT device settings to allow for audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) logged within the device. 
 - Ability to provide IOT device settings to allow to for audit organization-defined and auditable events (e.g. account creation, modification, enabling, disabling, and removal actions and notifications) logged through device interfaces. 
-

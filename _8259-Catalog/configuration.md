@@ -12,7 +12,7 @@ The capability to configure the IOT device to meet the baseline configurations s
 
 ## Privilege Configuration
 
-- Ability to apply least privilege settings within the IOT device, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions., including the ability to create within the IOT device additional processes, roles, and accounts as necessary, to achieve least privilege. ***Additional configurations that may be necessary:
+- Ability to apply least privilege settings within the IOT device, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions., including the ability to create within the IOT device additional processes, roles, and accounts as necessary, to achieve least privilege. Additional configurations that may be necessary:
   - Ability to establish least privilege IOT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire. 
   - Ability for the IOT device user to use IOT device settings to establish access privileges through IOT device interfaces or within the IOT device.
   - Ability to establish a defined list within the IOT device to control logical access privileges (e.g., admin, emergency, temporary, etc.).
@@ -69,4 +69,3 @@ The capability to configure the IOT device to meet the baseline configurations s
   - "safe mode" for operation when some or all network security is unavailable
   - [TBD]
 - Ability to support "alternative security mechanisms" within the IOT device when primary mechanisms (e.g., login protocol, encryption, etc.) are compromised.
-
