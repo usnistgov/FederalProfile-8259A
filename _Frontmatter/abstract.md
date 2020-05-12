@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Recommendations for IoT Device Manufacturers"
-navOrder: 1
+navOrder: 2
 navTitle: Abstract
-permalink: /
+permalink: /abstract/
 ---
 
 # ABSTRACT
