@@ -3,7 +3,7 @@ layout: default
 title: Logical Access to Interfaces
 navOrder: 4
 navTitle: Logical
-permalink: /logical/
+permalink: /technical/logical/
 ---
 
 # Logical Access to Interfaces

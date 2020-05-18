@@ -3,7 +3,7 @@ layout: default
 title: Data Protection
 navOrder: 3
 navTitle: Protection
-permalink: /protection/
+permalink: /technical/protection/
 ---
 
 # Data Protection

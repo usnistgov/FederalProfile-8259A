@@ -3,7 +3,7 @@ layout: default
 title: Cybersecurity Event Awareness
 navOrder: 6
 navTitle: Event
-permalink: /event/
+permalink: /technical/event/
 ---
 
 # Cybersecurity Event Awareness

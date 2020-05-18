@@ -3,7 +3,7 @@ layout: default
 title: Software Update
 navOrder: 5
 navTitle: Update
-permalink: /update/
+permalink: /technical/update/
 ---
 
 # Software Update

@@ -3,7 +3,7 @@ layout: default
 title: Device Security
 navOrder: 7
 navTitle: Security
-permalink: /security/
+permalink: /technical/security/
 ---
 
 # Device Security

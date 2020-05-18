@@ -3,7 +3,7 @@ layout: default
 title: Device Configuration
 navOrder: 2
 navTitle: Configuration
-permalink: /configuration/
+permalink: /technical/configuration/
 ---
 
 # Device Configuration

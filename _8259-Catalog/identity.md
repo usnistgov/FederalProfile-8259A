@@ -3,7 +3,7 @@ layout: default
 title: Device Identity
 navOrder: 1
 navTitle: Identity
-permalink: /identity/
+permalink: /technical/identity/
 ---
 
 # Device Identity
