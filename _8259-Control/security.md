@@ -8,6 +8,8 @@ permalink: /nontechnical/security/
 
 ## Device Security
 
+_See also the [technical counterpart to this section](../_8259-Catalog/security.md)_
+
 **Maintenance**
 
 ## Policies and procedures govern the approval and monitoring of onsite and offsite IOT device maintenance activities.

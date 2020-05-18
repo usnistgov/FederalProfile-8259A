@@ -8,6 +8,8 @@ permalink: /nontechnical/configuration/
 
 # Device Configuration
 
+_See also the [technical counterpart to this section](../_8259-Catalog/configuration.md)_
+
 ## Policies and procedures establish the minimum requirements for IOT device configuration settings.
 
 **Manufacturer:**

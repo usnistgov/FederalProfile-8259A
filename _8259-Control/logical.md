@@ -8,6 +8,8 @@ permalink: /nontechnical/logical/
 
 # Logical Access to Interfaces
 
+_See also the [technical counterpart to this section](../_8259-Catalog/logical.md)_
+
 **Organizational Policies and Procedures**
 
 ## Policies &amp; procedures govern the implementation of the organizational access control requirements on IOT devices.

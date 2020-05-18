@@ -8,6 +8,8 @@ permalink: /technical/security/
 
 # Device Security
 
+_See also the [non-technical counterpart to this section](../_8259-Control/security.md)_
+
 - Ability to scan files for unacceptable content.
 
 (From here down from Kevin identified under Device Security in an earlier version:)

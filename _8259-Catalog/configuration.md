@@ -8,6 +8,8 @@ permalink: /technical/configuration/
 
 # Device Configuration
 
+_See also the [non-technical counterpart to this section](../_8259-Control/configuration.md)_
+
 The capability to configure the IOT device to meet the baseline configurations set by the organization and to update the baseline configuration requirements of the IOT device as established by the user/organization.
 
 ## Privilege Configuration

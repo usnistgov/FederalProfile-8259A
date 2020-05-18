@@ -8,6 +8,8 @@ permalink: /nontechnical/identity/
 
 # Device Identity
 
+_See also the [technical counterpart to this section](../_8259-Catalog/identity.md)_
+
 **Organizational Security Policies and Procedures**
 
 ## Policies and procedures allowing only the use of IOT devices within the organization system that are on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems, as applicable to the use and purpose for each IOT device unless [put the types of situations here.].

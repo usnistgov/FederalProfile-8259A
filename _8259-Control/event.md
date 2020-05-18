@@ -8,6 +8,8 @@ permalink: /nontechnical/event/
 
 # Cybersecurity Event Awareness
 
+_See also the [technical counterpart to this section](../_8259-Catalog/event.md)_
+
 **Malicious Code Protection**
 
 ## Policies and procedures require IOT device, and associated systems, malicious code protection mechanisms at IOT device and related systems entry and exit points to detect and eradicate malicious code.

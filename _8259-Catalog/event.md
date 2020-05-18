@@ -8,6 +8,8 @@ permalink: /technical/event/
 
 # Cybersecurity Event Awareness
 
+_See also the [non-technical counterpart to this section](../_8259-Control/event.md)_
+
 ## Access to Event Information
 
 - Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time) to provide the organization.

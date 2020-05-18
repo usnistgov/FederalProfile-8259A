@@ -9,6 +9,8 @@ permalink: /nontechnical/protection/
 
 # Data Protection
 
+_See also the [technical counterpart to this section](../_8259-Catalog/protection.md)_
+
 **IOT Device System and Information Integrity**
 
 ## The organization develops policies and procedures to establish roles and responsibilities for IOT device security.

@@ -8,6 +8,8 @@ permalink: /technical/identity/
 
 # Device Identity
 
+_See also the [non-technical counterpart to this section](../_8259-Control/identity.md)_
+
 ## Asset Identifier Support
 
 - Ability to uniquely identify the IOT device physically.

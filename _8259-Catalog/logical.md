@@ -8,6 +8,8 @@ permalink: /technical/logical/
 
 # Logical Access to Interfaces
 
+_See also the [non-technical counterpart to this section](../_8259-Control/logical.md)_
+
 Previously identified by Jeff in an earlier version under Access Control (need to identify where goes in new structure below):
 
 - Ability to control local and remote access to IOT device audit data, to and through the device interfaces.

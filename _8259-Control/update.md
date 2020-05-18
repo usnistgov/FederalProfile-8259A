@@ -8,6 +8,8 @@ permalink: /nontechnical/update/
 
 # Software and Firmware Update
 
+_See also the [technical counterpart to this section](../_8259-Catalog/update.md)_
+
 ## Policies and procedures establish how to identify, report, and correct IOT device system flaws.
 
 **Manufacturer:**
