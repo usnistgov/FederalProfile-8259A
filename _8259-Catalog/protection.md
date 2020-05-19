@@ -10,26 +10,6 @@ permalink: /technical/protection/
 
 _See also the [non-technical counterpart to this section](../_8259-Control/protection.md)_
 
-## Secure Execution
-
-- Ability to establish setting to protect the execution of code on the IOT device.
-- Ability to support IOT device shared system resources.
-  - Ability to release resources from the IOT device back to the associated system.
-  - Ability to separate user and process resources use.
-- Ability to enforce IOT device configuration execution policies.
- 
-  _Requires some or all of the following depending on implementation:_
-
-  - Ability for the IOT device to execute code in confined virtual environments.
-  - Ability to separate IOT device processes into separate execution domains.
-  - Ability to manage IOT device memory address space assigned to processes.
-  - Ability to enforce access by the IOT device to memory space through kernel.
-  - Ability to prevent an IOT device process from accessing memory space of another process.
-  - Ability to enforce configured IOT device disk quotas.
-
-- Ability to establish sufficient resources to store IOT device operating environment in ROM.
-- Ability to established sufficient code space in IOT device memory.
-
 ## Secure Storage
 
 - The IoT device can protect the data it stores from unauthorized access and modification. (_alternate wording:_ Ability to secure data stored within the IOT device.)
