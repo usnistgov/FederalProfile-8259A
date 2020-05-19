@@ -30,6 +30,9 @@ permalink: /protection/
 
 ## Secure Storage
 
+- Ability for the IOT device to support encryption of data at rest.
+  - Ability for the IOT device to cryptographically store passwords at rest, as well as other authentication data.
+  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in device storage at rest.
 - The IoT device can protect the data it stores from unauthorized access and modification. (_alternate wording:_ Ability to secure data stored within the IOT device.)
 
 	_Requires some or all of the following depending on implementation:_
@@ -81,10 +84,6 @@ permalink: /protection/
     - Ability for the IOT device to generate key pairs
     - Ability for the IOT device to store encryption keys securely
     - Ability for the IoT device to change keys securely
-
-- Ability for the IOT device to support encryption of data at rest.
-  - Ability for the IOT device to cryptographically store passwords at rest, as well as other authentication data.
-  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in device storage at rest.
 
 - Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
   - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
