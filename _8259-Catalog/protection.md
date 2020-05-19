@@ -46,7 +46,7 @@ permalink: /protection/
 
 ## Secure Transmission
 
-- The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
+- The IoT device can utilize cryptographic mechanisms to protect the data it transmits from unauthorized access and modification.
 
 	_Requires some or all of the following depending on implementation_
 
