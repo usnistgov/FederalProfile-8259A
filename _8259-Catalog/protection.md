@@ -37,7 +37,6 @@ permalink: /protection/
   - Ability to secure IOT device data stored in remote storage areas (e.g., cloud, server, etc.).
   - Ability for the IoT device to utilize file compression technologies
   - Ability for the IoT device to utilize separate partitions for system and user data
-  - Ability for the IoT device to utilize ROM for disk image/software
 
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
 - Ability to restrict physical access to removable storage on IOT devices.
