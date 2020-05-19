@@ -46,6 +46,9 @@ permalink: /protection/
 
 ## Secure Transmission
 
+- Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
+  - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
+  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in transit.
 - The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 
 	_Requires some or all of the following depending on implementation_
@@ -86,7 +89,4 @@ permalink: /protection/
   - Ability for the IOT device to cryptographically store passwords at rest, as well as other authentication data.
   - Ability for the IOT device to support data encryption and signing to prevent data from being altered in device storage at rest.
 
-- Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
-  - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
-  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in transit.
 
