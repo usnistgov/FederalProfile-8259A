@@ -3,10 +3,12 @@ layout: default
 title: Software Update
 navOrder: 5
 navTitle: Update
-permalink: /update/
+permalink: /technical/update/
 ---
 
 # Software Update
+
+_See also the [non-technical counterpart to this section](../_8259-Control/update.md)_
 
 - Ability for the IoT device&#39;s software to be updated by authorized entities only using a secure and configurable mechanism.
 - Ability for the IOT device to identify the current version of the organizational audit policies and procedures to ensure that it is not following an outdated version.
