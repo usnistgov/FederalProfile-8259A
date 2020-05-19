@@ -68,24 +68,24 @@ Previously identified by Jeff in an earlier version under Access Control (need t
   - run time access control decisions facilitated by dynamic privilege management.
   - rganization-defined actions to access/use device.
 
-- Ability to provide IOT device settings to allow information sharing capabilities based upon the type of user that is attempting to share the information. 
+- Ability to allow information sharing capabilities based upon the type of user that is attempting to share the information. 
 - Ability to enable automation and reporting of account management activities through IOT device interfaces.
-- Ability to provide IOT device settings to establish pre-defined restrictions for information searches within the device or through device interfaces.
+- Ability to establish pre-defined restrictions for information searches within the device or through device interfaces.
 
 ## External Connections
 
-- Ability to provide IOT device settings to securely interact with external, third-party systems.
-- Ability to provide IOT device settings to allow for the user/organization to establish the circumstances within device settings for when information sharing from the device and/or through the device interface will be allowed and prohibited.
-- Ability to provide IOT device settings to establish automated information sharing to identified parties/entities.
-- Ability to provide IOT device settings to authorize external users, groups, roles, etc. to identify when the external user&#39;s system meets the required security requirements.
+- Ability to securely interact with external, third-party systems.
+- Ability to allow for the user/organization to establish the circumstances within device settings for when information sharing from the device and/or through the device interface will be allowed and prohibited.
+- Ability to establish automated information sharing to identified parties/entities.
+- Ability to authorize external users, groups, roles, etc. to identify when the external user&#39;s system meets the required security requirements.
 
 ## Interface Control
 
 - Ability to establish requirements for remote access to the IOT device and/or IOT device interface including usage restrictions, configuration and connection requirements.
   - Ability to enforce the established interface local and remote access requirements within the IOT device or through the IOT device interfaces.
-- Ability to provide IOT device settings to update logical interface configuration through a network process and control the device&#39;s logical interface through that process.
-- Ability to provide IOT device settings to control device responses to input and the form of output from the device.
-- Ability to provide IOT device settings and capabilities to support wireless technologies, such as microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth, etc.
+- Ability to update logical interface configuration through a network process and control the device&#39;s logical interface through that process.
+- Ability to control device responses to input and the form of output from the device.
+- Ability to support wireless technologies, such as microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth, etc.
   - Ability for user to establish and configure wireless settings within the IOT device for wireless technologies.
   - Ability to prohibit wireless access to the IOT device and/or device interfaces until after successful authorization.
 
