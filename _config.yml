@@ -27,8 +27,11 @@ navigation:
 - text: Frontmatter
   url: /
   collection: Frontmatter
+- text: Control
+  url: /nontechnical/
+  collection: 8259-Control
 - text: Catalog
-  url: /identity/
+  url: /technical/identity/
   collection: 8259-Catalog
 - text: Appendix
   url: /references/
@@ -36,6 +39,8 @@ navigation:
   
 collections:
   Frontmatter:
+    output: true
+  8259-Control:
     output: true
   8259-Catalog:
     output: true

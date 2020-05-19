@@ -3,16 +3,18 @@ layout: default
 title: Device Configuration
 navOrder: 2
 navTitle: Configuration
-permalink: /configuration/
+permalink: /technical/configuration/
 ---
 
 # Device Configuration
+
+_See also the [non-technical counterpart to this section](../_8259-Control/configuration.md)_
 
 The capability to configure the IOT device to meet the baseline configurations set by the organization and to update the baseline configuration requirements of the IOT device as established by the user/organization.
 
 ## Privilege Configuration
 
-- Ability to apply least privilege settings within the IOT device, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions., including the ability to create within the IOT device additional processes, roles, and accounts as necessary, to achieve least privilege. Additional configurations that may be necessary:
+Ability to apply least privilege settings within the IOT device, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions., including the ability to create within the IOT device additional processes, roles, and accounts as necessary, to achieve least privilege. Additional configurations that may be necessary:
   - Ability to establish least privilege IOT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire. 
   - Ability for the IOT device user to use IOT device settings to establish access privileges through IOT device interfaces or within the IOT device.
   - Ability to establish a defined list within the IOT device to control logical access privileges (e.g., admin, emergency, temporary, etc.).
