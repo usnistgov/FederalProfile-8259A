@@ -13,7 +13,6 @@ _See also the [technical counterpart to this section](../_8259-Catalog/identity.
 **Organizational Security Policies and Procedures**
 
 ## Policies and procedures allowing only the use of IOT devices within the organization system that are on the FIPS 201-approved products list for Personal Identity Verification (PIV) capability implemented within organizational information systems, as applicable to the use and purpose for each IOT device unless [put the types of situations here.].
- This would be the responsibility of the Manufacturer/End user/Both?
 
 
 **Manufacturer:**
@@ -35,7 +34,7 @@ _See also the [technical counterpart to this section](../_8259-Catalog/identity.
 
 **Manufacturer:**
 
-- Provides capabilities within IOT devise to allow for unique identification of each IOT device.
+- Provides capabilities within IOT device to allow for unique identification of each IOT device.
 - Provides instructions for implementing and using the unique IOT identifiers.
 - Provides training videos showing how to implement unique identifiers for their IOT device.
 
