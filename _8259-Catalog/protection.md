@@ -50,6 +50,9 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 ## Secure Transmission
 
+- Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
+  - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
+  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in transit.
 - The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 
 	_Requires some or all of the following depending on implementation_
@@ -65,8 +68,4 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 - Ability for the IOT device to use cryptographic means to validate integrity of data transmitted
 - Ability for the organization/user to establish through the IOT device interface the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
   - The device needs to be able to expose this information in a secure way to authorized entities or processes.
-
-- Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
-  - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
-  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in transit.
 
