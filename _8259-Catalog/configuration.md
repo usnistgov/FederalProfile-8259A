@@ -21,7 +21,7 @@ Ability to apply least privilege settings within the IOT device, ensuring that t
 
 ## Authentication and Authorization Configuration
 
-- Ability to configure IOT device authentication policies and limitations., such as:
+Ability to configure IOT device authentication policies and limitations, such as:
 - Ability to use IOT device-based authentication controls to set and change authentication configurations, policies and limitations settings.
 - Ability to modify IOT device configuration settings to automatically terminate the IOT device user&#39;s session
 - Ability to set and change IOT device settings for wireless authentication protocols (e.g., EAP/TLS, PEAP).
