@@ -3,10 +3,12 @@ layout: default
 title: Device Security
 navOrder: 7
 navTitle: Security
-permalink: /security/
+permalink: /technical/security/
 ---
 
 # Device Security
+
+_See also the [non-technical counterpart to this section](../_8259-Control/security.md)_
 
 - Ability to scan files for unacceptable content.
 
@@ -57,6 +59,7 @@ Device Integrity – the device protects against unauthorized changes to hardwar
 
 - Ability to perform security compliance checks on system components.
 - Ability to establish sufficient resources to store IOT device operating environment in ROM.
+- Ability for the IoT device to utilize ROM for disk image/software
 - Ability for the IOT device to restrict access to its software, hardware, and data based on organizationally defined roles, used with proper authentication of the identity of the user to determine type of authorization.
 - Ability within the IOT device settings to prevent external access to management interface.
 - Ability within the IOT device settings to detect unauthorized hardware and software components and must be able to take action when unauthorized components are detected that is defined by the organization.
