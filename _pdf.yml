@@ -34,4 +34,40 @@ pdf:
     pdf_title: 'Recommendations for IoT Device Manufacturers'
     lineno: true
     category: Devices
+  - basedir: ""
+    filename: 8259-Control
+    template: _pdftemplate/template.tex
+    workdir: _pdf
+    graphics: 
+      - _8259-Control/images/
+      - _pdftemplate/images/
+    sections:
+        - name: body
+          parts:
+              - _8259-Control/introduction.md
+              - _8259-Control/identity.md
+              - _8259-Control/configuration.md
+              - _8259-Control/protection.md
+              - _8259-Control/logical.md
+              - _8259-Control/update.md
+              - _8259-Control/event.md
+              - _8259-Control/security.md
+          part_template: _pdftemplate/sectionpart.tex
+          section_template: _pdftemplate/section.tex
+        - name: appendix
+          parts:
+              - _Appendix/glossary.md
+              - _Appendix/references.md
+          part_template: _pdftemplate/sectionpart.tex
+          section_template: _pdftemplate/section.tex
+    doi_url: None
+    issued_date: December 2020
+    doc_number: 8259-Control
+    doc_short_title: 8259-Control
+    page_doc_number: 8259-Control
+    page_title: Recommendations for IoT Device Manufacturers
+    doc_title: Recommendations for IoT Device Manufacturers
+    pdf_title: 'Recommendations for IoT Device Manufacturers'
+    lineno: true
+    category: Devices
     
