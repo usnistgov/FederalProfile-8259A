@@ -40,7 +40,6 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 	_Requires some or all of the following depending on implementation:_
 
   - Ability to secure IOT device data stored in remote storage areas (e.g., cloud, server, etc.).
-  - Ability for the IoT device to utilize file compression technologies
   - Ability for the IoT device to utilize separate partitions for system and user data
 
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
