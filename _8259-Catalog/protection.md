@@ -46,7 +46,6 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
 - Ability to restrict physical access to removable storage on IOT devices.
 - Ability to create audit logs showing the usage of the IOT device including access to stored data.
-- Ability to support IOT device/media labeling/marking to support distribution, handling or types of information limitations (e.g., controlled information).
 
 ## Secure Transmission
 
