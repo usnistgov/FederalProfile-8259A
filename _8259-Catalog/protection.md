@@ -46,24 +46,12 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
 - Ability to restrict physical access to removable storage on IOT devices.
 - Ability to create audit logs showing the usage of the IOT device including access to stored data.
-- Ability to support IOT device/media labeling/marking to support distribution, handling or types of information limitations (e.g., controlled information).
 
 ## Secure Transmission
 
-- The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
-
-	_Requires some or all of the following depending on implementation_
-
-  - Ability to enforce through the IOT device configuration settings traffic flow policies.
-  - Ability to utilize standardized protocols within the IOT device.
-  - Ability for the IOT device to establish network connections.
-  - Ability for the IOT device to terminate network connections
-  - Ability for the IOT device to de-allocate TCP/IP address/port pairings.
-  - Ability for the IOT device to establish communications paths.
-  - Ability for the IOT device to secure the communication paths.
-  - Ability for the IOT device to interface with DNS/DNSSEC.
-- Ability for the IOT device to use cryptographic means to validate integrity of data transmitted
 - Ability for the IOT device to configure the cryptographic algorithm to protect data in transit.
   - Ability for the IOT device to support trusted data exchange with a specified minimum strength cryptography algorithm.
   - Ability for the IOT device to support data encryption and signing to prevent data from being altered in transit.
+- The IoT device can utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
+- Ability for the IOT device to use cryptographic means to validate integrity of data transmitted
 
