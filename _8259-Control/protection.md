@@ -73,7 +73,7 @@ _See also the [technical counterpart to this section](../_8259-Catalog/protectio
 
 - Implement policies and procedures establishing the requirements for
   - Securely handling IOT devices to prevents loss, theft and damage;
-  - Implement policies and procedures pertaining to physical access to the device and what roles or repsonsibilities allow for removable storage to be inserted into the device if applicable.  
+  - Physical access to the device and what roles or repsonsibilities allow for removable storage to be inserted into the device if applicable.  
   - How to securely retain IOT devices, and associated systems, after they are no longer used, along with associated retention time requirements.
   - How to securely retain IOT device data within the associated information systems, and information output from the IOT device, in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.
 - Implement policies and procedures for secure disposal of IOT device hardware, software and data following expiration of the established retention period.
