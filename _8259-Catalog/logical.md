@@ -85,6 +85,7 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 - Ability to establish requirements for remote access to the IOT device and/or IOT device interface including usage restrictions, configuration and connection requirements.
   - Ability to enforce the established interface local and remote access requirements within the IOT device or through the IOT device interfaces.
+  - Ability to prevent external access to management interface.
 - Ability to update logical interface configuration through a network process and control the device&#39;s logical interface through that process.
 - Ability to control device responses to input and the form of output from the device.
 - Ability to support wireless technologies, such as microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth, etc.
