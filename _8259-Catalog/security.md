@@ -53,6 +53,7 @@ Secure Resource Usage – the device can securely utilize system resources, incl
 Device Integrity – the device protects against unauthorized changes to hardware and software
 
 - Ability to perform security compliance checks on system components.
+- Ability for the IoT device to utilize file compression technologies
 - Ability to detect unauthorized hardware and software components 
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
 - Ability for the IoT device to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., ROM).
@@ -65,7 +66,6 @@ Secure Device Operation – the device can operate securely and safely
 - Ability to define differing failure types.
 - Ability to require the IOT device to fail in a secure state
 - Ability to disable the IOT device in the event of security violations.
-
 - Ability for the IOT device to sense the environment and interface with various device components including:
 
   - emergency shutoff mechanism.
