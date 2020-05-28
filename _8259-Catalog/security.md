@@ -63,13 +63,6 @@ Device Integrity – the device protects against unauthorized changes to hardwar
 - Ability for the IOT device to restrict access to its software, hardware, and data based on organizationally defined roles, used with proper authentication of the identity of the user to determine type of authorization.
 - Ability within the IOT device settings to prevent external access to management interface.
 - Ability within the IOT device settings to detect unauthorized hardware and software components and must be able to take action when unauthorized components are detected that is defined by the organization.
-- Ability for the IOT device to sense the environment and interface with various device components including:
-
-  - emergency shutoff mechanism.
-  - emergency lighting mechanism.
-  - fire protection mechanism.
-  - temperature and humidity mechanism.
-  - water damage protection mechanism.
 
 Secure Device Operation – the device can operate securely and safely
 
