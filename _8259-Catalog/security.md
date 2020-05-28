@@ -53,6 +53,7 @@ Secure Resource Usage – the device can securely utilize system resources, incl
 - Ability to enforce access by the IOT device to memory space through kernel.
 - Ability to prevent an IOT device process from accessing memory space of another process.
 - Ability to enforce configured IOT device disk quotas.
+- IOT Device has sufficient resources to store and run the operating environment
 
 Device Integrity – the device protects against unauthorized changes to hardware and software
 
