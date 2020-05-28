@@ -72,7 +72,13 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 - Ability to allow information sharing capabilities based upon the type of user that is attempting to share the information. 
 - Ability to enable automation and reporting of account management activities through IOT device interfaces.
+- Ability for the IOT device to restrict access to its software, hardware, and data based on organizationally defined roles, used with proper authentication of the identity of the user to determine type of authorization.
+
+## Limitations on Device Usage
+
 - Ability to establish pre-defined restrictions for information searches within the device or through device interfaces.
+- Ability for the IOT device settings to be used to establish limits on concurrent sessions for accounts, users, roles, groups, etc., with authorized access to the device and/or interfaces with the device.
+- Ability for the IOT device settings to be used to establish time, location, and other limits on concurrent sessions to the device.
 
 ## External Connections
 
@@ -85,6 +91,7 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 - Ability to establish requirements for remote access to the IOT device and/or IOT device interface including usage restrictions, configuration and connection requirements.
   - Ability to enforce the established interface local and remote access requirements within the IOT device or through the IOT device interfaces.
+  - Ability to prevent external access to management interface.
 - Ability to update logical interface configuration through a network process and control the device&#39;s logical interface through that process.
 - Ability to control device responses to input and the form of output from the device.
 - Ability to support wireless technologies, such as microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth, etc.
