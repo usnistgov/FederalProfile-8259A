@@ -60,6 +60,7 @@ Device Integrity – the device protects against unauthorized changes to hardwar
 - Ability to perform security compliance checks on system components.
 - Ability to establish sufficient resources to store IOT device operating environment in ROM.
 - Ability for the IoT device to utilize ROM for disk image/software
+- Ability for the IoT device to utilize file compression technologies
 - Ability for the IOT device to restrict access to its software, hardware, and data based on organizationally defined roles, used with proper authentication of the identity of the user to determine type of authorization.
 - Ability within the IOT device settings to prevent external access to management interface.
 - Ability within the IOT device settings to detect unauthorized hardware and software components and must be able to take action when unauthorized components are detected that is defined by the organization.
@@ -80,11 +81,3 @@ Secure Device Operation – the device can operate securely and safely
 - Ability to require the IOT device to fail in a secure state
 - Ability to disable the IOT device in the event of security violations.
 
-- Ability for the IOT device to sense the environment and interface with various device components including:
-
-  - emergency shutoff mechanism.
-  - emergency lighting mechanism.
-  - fire protection mechanism.
-  - temperature and humidity mechanism.
-
-- water damage protection mechanism.
