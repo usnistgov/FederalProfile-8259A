@@ -44,7 +44,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
   - Ability for the IoT device to utilize separate partitions for system and user data
 
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
-- Ability to restrict physical access to removable storage on IOT devices.
+
 
 ## Secure Transmission
 
