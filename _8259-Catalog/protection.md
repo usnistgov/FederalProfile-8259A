@@ -39,11 +39,12 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 	_Requires some or all of the following depending on implementation:_
 
-  - Ability to secure IOT device data stored locally and in remote storage areas (e.g., cloud, server, etc.).
+  - Ability to secure IOT device data stored locally on the device
+  - Ability to secure IOT device data stored in remote storage areas (e.g., cloud, server, etc.).
   - Ability for the IoT device to utilize separate partitions for system and user data
 
 - Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
-- Ability to create audit logs showing the usage of the IOT device including access to stored data.
+
 
 ## Secure Transmission
 

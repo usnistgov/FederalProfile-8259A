@@ -12,7 +12,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 
 ## Access to Event Information
 
-- Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time) to provide the organization.
+- Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time).
 
 - Ability to preserve system state information.
 
@@ -27,6 +27,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 - Ability to detect remote activation attempts.
 - Ability to detect remote activation of collaborative computing device.
 - Ability to detect remote activation of sensors.
+- Ability within the IOT device settings to prevent download of unacceptable content.
 
 ## Event Response
 
@@ -52,6 +53,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
   - Ability to support auditing of configuration actions.
   - Ability to provide adequate information as to why it captured a particular event or set of events.
   - Ability to provide as much information as necessary for examination of security incidents.
+  - Ability to record IOT device stored data access and usage.
 - The device can maintain audit logs in accordance with organization policy.
   - Ability to store persistent audit logs up to a predefined size established by the user/organization.
   - Ability to establish the storage capacity for retaining audit logs that supports the predefined amount of time.
