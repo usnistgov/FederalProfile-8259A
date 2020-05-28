@@ -82,7 +82,7 @@ Ability to configure and change the IoT device's settings and software configura
   - Ability for the IOT device to detect unauthorized hardware and software components
   - Ability for the IOT device to take action when unauthorized components are detected as defined by the user.
 
-**Adaptable Configuration**
+## Adaptable Configuration
 Ability to establish adaptable configurations on the IOT device. Configurations that may be necessary: 
   - Ability to support different modes of IOT device operation with more restrictive access.
       -- "travel mode" for transit.
