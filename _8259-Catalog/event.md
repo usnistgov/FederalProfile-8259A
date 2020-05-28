@@ -27,6 +27,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 - Ability to detect remote activation attempts.
 - Ability to detect remote activation of collaborative computing device.
 - Ability to detect remote activation of sensors.
+- Ability within the IOT device settings to prevent download of unacceptable content.
 
 ## Event Response
 
