@@ -61,13 +61,6 @@ Device Integrity – the device protects against unauthorized changes to hardwar
 - Ability to detect unauthorized hardware and software components 
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
 - Ability for the IoT device to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., ROM).
-- Ability for the IOT device to sense the environment and interface with various device components including:
-
-  - emergency shutoff mechanism.
-  - emergency lighting mechanism.
-  - fire protection mechanism.
-  - temperature and humidity mechanism.
-  - water damage protection mechanism.
 
 Secure Device Operation – the device can operate securely and safely
 
@@ -84,5 +77,4 @@ Secure Device Operation – the device can operate securely and safely
   - emergency lighting mechanism.
   - fire protection mechanism.
   - temperature and humidity mechanism.
-
-- water damage protection mechanism.
+  - water damage protection mechanism.
