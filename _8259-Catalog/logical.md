@@ -72,7 +72,12 @@ Previously identified by Jeff in an earlier version under Access Control (need t
 
 - Ability to allow information sharing capabilities based upon the type of user that is attempting to share the information. 
 - Ability to enable automation and reporting of account management activities through IOT device interfaces.
+
+## Limitations on Device Usage
+
 - Ability to establish pre-defined restrictions for information searches within the device or through device interfaces.
+- Ability for the IOT device settings to be used to establish limits on concurrent sessions for accounts, users, roles, groups, etc., with authorized access to the device and/or interfaces with the device.
+- Ability for the IOT device settings to be used to establish time, location, and other limits on concurrent sessions to the device.
 
 ## External Connections
 
