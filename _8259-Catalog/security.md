@@ -79,12 +79,10 @@ Secure Device Operation – the device can operate securely and safely
 - Ability to define differing failure types.
 - Ability to require the IOT device to fail in a secure state
 - Ability to disable the IOT device in the event of security violations.
-
 - Ability for the IOT device to sense the environment and interface with various device components including:
 
   - emergency shutoff mechanism.
   - emergency lighting mechanism.
   - fire protection mechanism.
   - temperature and humidity mechanism.
-
-- water damage protection mechanism.
+  - water damage protection mechanism.
