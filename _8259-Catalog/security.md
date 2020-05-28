@@ -25,10 +25,7 @@ Secure Execution – the device can protect the execution of code on the device
   - Ability to separate IOT device processes into separate execution domains.
 - Ability to separate the levels of IOT device user functionality.
 - Ability to authorize various levels of IOT device functionality.
-- Ability for the IOT device settings to be used to establish limits on concurrent sessions for accounts, users, roles, groups, etc., with authorized access to the device and/or interfaces with the device.
-- Ability for the IOT device settings to be used to establish time, location, and other limits on concurrent sessions to the device.
 - Ability within the IOT device settings to prevent download of unacceptable content.
--
 
 Secure Communication – the device can securely initiate and terminate communications with other devices
 
