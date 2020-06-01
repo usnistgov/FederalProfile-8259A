@@ -18,16 +18,19 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 
 ## Event Identification and Monitoring
 
-- The device can identify and monitor for organizationally defined cybersecurity events (e.g., expected state change) that may occur on or involving the IOT device.
-- Ability to support a comprehensive list of events that are identified as necessary for a comprehensive auditing process by the organizational auditing policy.
-- Ability to monitor for organizationally defined cybersecurity events
-- Ability for the IOT device to identify unique users interacting with it to allow for user session monitoring.
+Ability for device to provide event identification and monitoring capabilities and/or support interfaced event identification and monitoring tools interfacing with the device, and take specific actions based upon specific types of events. Configurations that may be necessary: 
+- The device can identify organizationally defined cybersecurity events (e.g., expected state change) that may occur on or involving the IOT device.
+- The device can monitor for organizationally defined cybersecurity events (e.g., expected state change) that may occur on or involving the IOT device.
+- Ability to support a list of events that are necessary for auditing purposes (to support the organizational auditing policy).
+- Ability to monitor for organizationally defined cybersecurity events.
+- Ability for the IOT device to identify unique users interacting with the device (to allow for user session monitoring).
 - Ability to support a monitoring process to check for disclosure of organizational information to unauthorized entities. (The device may be able to perform this check itself or provide the information necessary for an external process to check).
 - Ability to monitor communications traffic.
 - Ability to detect remote activation attempts.
-- Ability to detect remote activation of collaborative computing device.
+- Ability to detect remote activation of a collaborative computing device.
 - Ability to detect remote activation of sensors.
-- Ability within the IOT device settings to prevent download of unacceptable content.
+- Ability to define the characteristics of unacceptable content.
+- Ability to prevent download of unacceptable content.
 
 ## Event Response
 
