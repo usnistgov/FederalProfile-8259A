@@ -12,10 +12,11 @@ _See also the [non-technical counterpart to this section](../_8259-Control/ident
 
 ## Asset Identifier Support
 
+Ability for device identification. Configurations that may be necessary: 
 - Ability to uniquely identify the IOT device physically.
 - Ability to uniquely identify the IOT device logically.
 - Ability to uniquely identify a remote IOT device.
-- Ability for the IOT device to support a unique device ID that can be linked to the person or process assigned to use the IOT device.
+- Ability for the IOT device to support a unique device ID (e.g. to allow it to be linked to the person or process assigned to use the IOT device).
 
 ## Actions Based on Device Identity
 
