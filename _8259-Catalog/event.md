@@ -77,6 +77,7 @@ Ability for the device, or an interfaced system, to generate, store, retain, del
   - Ability to support specified granularity in device timing measurements as predefined by the IOT device user.
   - Ability to use synchronization with a verified time source to determine the validity of a timestamp.
   - Ability to record timestamps that can be translated to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) to support a standardized representation of timing.
+  - Ability to log timing measurements that go beyond a set threshold value enabling alerts if the device's system time is too far out of sync to be reliable.
 - Ability for the device can provide information related to cybersecurity events (using organizationally defined means).
 - Ability to report on device cybersecurity state.
 - Ability to provide the specifically chosen audit information to the information system.
