@@ -91,4 +91,5 @@ Ability for the device, or an interfaced system, to generate, store, retain, del
 - Ability to protect the audit information provided to the information system through the use of:
   - Encryption
   - Data signing audit files
+  - Ability of the device to send its audit files to another device securely
   - Other access control protections created by the device manufacturer
