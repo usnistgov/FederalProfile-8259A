@@ -85,12 +85,25 @@ _See also the [non-technical counterpart to this section](../_8259-Control/logic
 
 ## Interface Control
 
-- Ability to establish requirements for remote access to the IOT device and/or IOT device interface including usage restrictions, configuration and connection requirements.
-  - Ability to enforce the established interface local and remote access requirements within the IOT device or through the IOT device interfaces.
-  - Ability to prevent external access to management interface.
-- Ability to update logical interface configuration through a network process and control the device&#39;s logical interface through that process.
-- Ability to control device responses to input and the form of output from the device.
-- Ability to support wireless technologies, such as microwave, packet radio (UHF/VHF), 802.11x, and Bluetooth, etc.
-  - Ability for user to establish and configure wireless settings within the IOT device for wireless technologies.
-  - Ability to prohibit wireless access to the IOT device and/or device interfaces until after successful authorization.
+Ability to establish controls for the connections made to the IOT device. Configurations that may be necessary: 
+- Ability to establish requirements for remote access to the IOT device and/or IOT device interface including
+  - Usage restrictions.
+  - Configuration requirements.
+  - Connection requirements.
+  - Manufacturer established requirement.
+- Ability to enforce the established interface local and remote access requirements within the IOT device.
+- Ability to enforce the established interface local and remote access requirements through the IOT device interfaces.
+- Ability to prevent external access to the IOT device management interface.
+- Ability to update logical interface configuration through a network interface.
+- Ability to control access to the device's network interface .
+- Ability to control device responses to device input.
+- Ability to control output from the device.
+- Ability to support wireless technologie.s
+  - Microwave.
+  - Packet radio (UHF/VHF).
+  - 802.11x.
+  - Bluetooth
+  - Manufacturer defined.
+- Ability to establish and configure wireless settings within the IOT device for wireless technologies.
+- Ability to prohibit wireless access to the IOT device and/or device interfaces until after successful authorization.
 
