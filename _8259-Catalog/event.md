@@ -34,13 +34,14 @@ Ability for device to provide event identification and monitoring capabilities a
 
 ## Event Response
 
-- The device can respond to organizationally defined cybersecurity events in an organizationally defined way.
-  - Ability to generate alerts for events of interest (e.g., capacity thresholds).
-  - Ability to respond to alerts according to the predefined responses dictated by the auditing policies of the organization.
-  - Ability to alert connected information systems of potential issues found during the auditing process or provide information to an external process that will issue these alerts.
+The device can respond to organizationally defined cybersecurity events in an organizationally defined way. Configurations that may be necessary:
+  - Ability to generate alerts for specific events (e.g., capacity thresholds).
+  - Ability to respond to alerts according to predefined responses (e.g., such as those dictated by the auditing policies of the organization).
+  - Ability to alert connected information systems of potential issues found during the auditing process.
+  - Ability to provide information to an external process that will issue auditing process alerts.
   - Ability to notify users of activation of the collaborative computing device.
   - Ability to provide a physical indicator of sensor use.
-  - In the event of an auditing failure, the IOT device needs to be able to respond appropriately according to the alert that was issued (either by the device or and external auditing process that interacts with the device)
+  - Ability to respond following an auditing failure according to the alert that was issued (either by the device or and external auditing process that interacts with the device).
 
 ## Audit Support
 
