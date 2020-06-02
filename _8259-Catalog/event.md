@@ -74,5 +74,6 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 - Ability to provide the appropriate audit information to an (potentially automated) audit reduction process, where its auditing information can be checked to allow for review, analysis, and reporting.
   - If the IOT device cannot support an audit reduction process itself, the IOT device must be able to provide this information to an external process in a way that provides all possible requested information.
 
-- Ability to support an audit generation process for the information system by providing the information it needs (either by completing an audit generation of its own or by exposing its audit logs to an external process).Ability to support an alternate auditing process in the event that the primary auditing process fails.
+- Ability to support an audit generation process for the information system it needs (either by completing an audit generation of its own or by exposing its audit logs to an external process).
+  - Ability to support an alternate auditing process in the event that the primary auditing process fails.
 - Ability to protect the audit information it provides to the information system according to organizational policy (e.g., the device may need to support encryption and data signing of its auditing files if necessary, as well as other access control protections).
