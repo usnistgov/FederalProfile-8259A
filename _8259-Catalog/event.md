@@ -73,8 +73,7 @@ The device can respond to organizationally defined cybersecurity events in an or
 - Ability to report on its cybersecurity state.
 - the ability to provide the appropriate audit information to the information system or organization to report on the state of the IOT device security.
 - Ability to run an internal audit (automated or otherwise) to provide the information requested for an external process to audit the device.
-
-- Ability to coordinate with other organizational entities that may be participating in the auditing process. It could possibly need to be able to reveal the results of its own event captures to an external auditing process by another device.
+   - Abiilty to coordinate with other entities in the information system during the auditing process. The device may need to be able to reveal the results of its own event captures to an external auditing process by another device.
 - Ability to provide the appropriate audit information to an (potentially automated) audit reduction process, where its auditing information can be checked to allow for review, analysis, and reporting.
   - If the IOT device cannot support an audit reduction process itself, the IOT device must be able to provide this information to an external process in a way that provides all possible requested information.
 
