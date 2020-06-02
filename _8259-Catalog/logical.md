@@ -55,19 +55,18 @@ _See also the [non-technical counterpart to this section](../_8259-Control/logic
 
 - Ability to support organization-defined actions for the IOT device.
   - Ability to dynamically create through IOT device interfaces organization-defined accounts that support privileged roles assignment expirations.
-  - Ability to establish organization-defined user actions for the device, or to access IOT device interfaces.
-  - Ability to allow the user to assign audit controls access to specific roles or organization-define personnel.
-  - Ability to establish and administer, logically and remotely, organization pre-defined conditions for the IOT device for establishing shared/group accounts.
+  - Ability to establish organization-defined IOT device user actions or device interface access.
+  - Ability to enable automation and reporting of account management activities through IOT device interfaces.
+    - Ability to assign IOT device audit controls access to specific roles or organization-define personnel.
+    - Ability to control local and remote access to IOT device audit data.
+    - Ability to identify the user, process or device requesting the audit/ accountability information to ensure that only    authorized user or device has access to internal information that the audit could require.
+   - Ability to establish and administer, logically and remotely, organization pre-defined conditions for the IOT device for establishing shared/group accounts.
   - Ability to restrict the use of shared/group accounts that meet the conditions established for the IOT device.
 
 - Ability to implement within the IOT device dynamic access control approaches (e.g., service-oriented architectures) that rely on:
   - run time access control decisions facilitated by dynamic privilege management.
-  - rganization-defined actions to access/use device.
+  - organization-defined actions to access/use device.
 
-- Ability to enable automation and reporting of account management activities through IOT device interfaces.
-  - Ability to control local and remote access to IOT device audit data, to and through the device interfaces.
-  - Ability to assign IOT device audit controls access to specific roles or organization-define personnel.
-  - Ability to identify the user, process or device requesting the audit/ accountability information to ensure that only    authorized user or device has access to internal information that the audit could require.
 - Ability to allow information sharing capabilities based upon the type of user that is attempting to share the information. 
 - Ability for the IOT device to restrict access to its software, hardware, and data based on organizationally defined roles, used with proper authentication of the identity of the user to determine type of authorization.
 
