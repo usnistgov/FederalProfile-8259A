@@ -64,6 +64,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
   - Ability to support specified granularity in its timing measurements as predefined by the IOT device user.
   - Ability to use synchronization with a verified time source to determine the validity of a timestamp.
   - Ability to record timestamps that can be translated to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) to support a standardized representation of timing.
+  - Ability to log timing measurements that go beyond a set threshold value enabling alerts if the device's system time is too far out of sync to be reliable.
 - The device can provide information related to cybersecurity events through organizationally defined means.
 
 - Ability to report on its cybersecurity state.
