@@ -12,8 +12,8 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 
 ## Access to Event Information
 
+Ability to access IOT device state information.  Configurations that may be necessary: 
 - Ability to access information about the IOT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time).
-
 - Ability to preserve system state information.
 
 ## Event Identification and Monitoring
