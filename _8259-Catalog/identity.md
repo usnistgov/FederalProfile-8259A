@@ -19,11 +19,12 @@ _See also the [non-technical counterpart to this section](../_8259-Control/ident
 
 ## Actions Based on Device Identity
 
+Actions that can occur based on or using the identity of the device. Configurations that may be necessary:  
 - Ability to configure IOT device access control policies using IOT device identity.
   - Ability to hide IoT device identity from non-authorized entities.
   - Ability for the IoT device to differentiate between authorized and unauthorized remote users.
   - Ability for the IoT device to differentiate between authorized and authorized physical device users.
-- Ability to monitor chosen actions based on IOT device identity.
+- Ability to monitor specific actions based on IOT device identity.
 - Ability to identify software loaded on IOT device based on IOT device identity.
 
 ## Device Authentication Support
