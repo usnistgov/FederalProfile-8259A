@@ -28,6 +28,7 @@ Ability to access IOT device state information.  Configurations that may be nece
 - Ability to detect remote activation of collaborative computing device.
 - Ability to detect remote activation of sensors.
 - Ability within the IOT device settings to prevent download of unacceptable content.
+- Ability to scan files for unacceptable content.
 
 ## Event Response
 
