@@ -64,7 +64,14 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
   - Ability to support specified granularity in its timing measurements as predefined by the IOT device user.
   - Ability to use synchronization with a verified time source to determine the validity of a timestamp.
   - Ability to record timestamps that can be translated to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) to support a standardized representation of timing.
-- The device can provide information related to cybersecurity events through organizationally defined means.
+- The device can provide information related to cybersecurity events through organizationally defined means:
+  - Ability to report on its cybersecurity state.
+  - Ability to provide the appropriate audit information to the information system or organization to report on the state of the IOT device security.
+  - Ability to run an internal audit (automated or otherwise) to provide the information requested for an external process to audit the device.
+  - Ability to coordinate with other organizational entities that may be participating in the auditing process. It could possibly need to be able to reveal the results of its own event captures to an external auditing process by another device.
+  - Ability to provide the appropriate audit information to an (potentially automated) audit reduction process, where its auditing information can be checked to allow for review, analysis, and reporting.
+  - If the IOT device cannot support an audit reduction process itself, the IOT device must be able to provide this information to an external process in a way that provides all possible requested information.
+  - Ability to support an audit generation process for the information system by providing the information it needs (either by completing an audit generation of its own or by exposing its audit logs to an external process).Ability to support an alternate auditing process in the event that the primary auditing process fails.
 
 - Ability to report on its cybersecurity state.
 - the ability to provide the appropriate audit information to the information system or organization to report on the state of the IOT device security.
