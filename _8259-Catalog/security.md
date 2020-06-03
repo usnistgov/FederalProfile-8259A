@@ -10,18 +10,17 @@ permalink: /technical/security/
 
 _See also the [non-technical counterpart to this section](../_8259-Control/security.md)_
 
+## Unacceptable Content
+Ability to detect and remove unacceptable content. Configurations that may be necessary:
 - Ability to scan files for unacceptable content.
+- Ability to delete unacceptable content.
 
-(From here down from Kevin identified under Device Security in an earlier version:)
+## Secure Execution 
 
-Secure Execution – the device can protect the execution of code on the device
-
-- Ability to establish setting to protect the execution of code on the IOT device.
+Ability to protect the execution of code on the device. Configurations that may be necessary:
+- Ability to protect the execution of code on the IOT device.
 - Ability to enforce IOT device configuration _depending_ execution policies.
-
-  _Requires some or all of the following on implementation:_
-
-  - Ability for the IOT device to execute code in confined virtual environments.
+  - Ability to execute code in confined virtual environments.
   - Ability to separate IOT device processes into separate execution domains.
 - Ability to separate the levels of IOT device user functionality.
 - Ability to authorize various levels of IOT device functionality.
