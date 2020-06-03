@@ -44,11 +44,12 @@ Ability for the device to securely utilize system resources and memory. Configur
 - Ability to enforce configured IOT device disk quotas.
 - Provide sufficient resources to store and run the operating environment.
 
-Device Integrity – the device protects against unauthorized changes to hardware and software
+## Device Integrity 
 
+Ability for the device to protect against unauthorized changes to hardware and software. Configurations that may be necessary:
 - Ability to perform security compliance checks on system components.
-- Ability for the IoT device to utilize file compression technologies
-- Ability to detect unauthorized hardware and software components 
+- Ability to utilize file compression technologies.
+- Ability to detect unauthorized hardware and software components. 
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
 - Ability for the IoT device to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., ROM).
 
