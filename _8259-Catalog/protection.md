@@ -32,8 +32,8 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 ## Secure Storage
 
-Ability for the IOT device, or tools used through the IOT device interface, to securely the device storage.
-- Ability to support encryption of data at rest.
+Ability for the IOT device, or tools used through the IOT device interface, to enable secure device storage. Configurations that may be necessary:
+- Ability to support encryption of data at rest. 
   - Ability to cryptographically store passwords at rest, as well as other authentication data.
   - Ability to support data encryption and signing to prevent data from being altered in device storage.
 - Ability to secure data in device storage. 
