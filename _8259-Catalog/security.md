@@ -50,7 +50,7 @@ Secure Resource Usage – the device can securely utilize system resources, incl
 - Ability to enforce configured IOT device disk quotas.
 - IOT Device has sufficient resources to store and run the operating environment
 
-# Device Integrity 
+## Device Integrity 
 
 Ability for the device to protect against unauthorized changes to hardware and software. Configurations that may be necessary:
 - Ability to perform security compliance checks on system components.
