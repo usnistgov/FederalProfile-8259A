@@ -75,9 +75,17 @@ Ability to establish unique, privileged, organization-wide, and other types of r
 
 ## Limitations on Device Usage
 
-- Ability to establish pre-defined restrictions for information searches within the device or through device interfaces.
-- Ability for the IOT device settings to be used to establish limits on concurrent sessions for accounts, users, roles, groups, etc., with authorized access to the device and/or interfaces with the device.
-- Ability for the IOT device settings to be used to establish time, location, and other limits on concurrent sessions to the device.
+Ability establish restrictions for how the device can be used. Configurations that may be necessary: 
+- Ability to establish pre-defined restrictions for information searches within the device.
+- Ability to establish pre-defined restrictions for information searches in the device through device interfaces.
+- Ability to establish limits on authorized concurrent device sessions for:
+  - User accounts
+  - Roles
+  - Groups
+  - Dates
+  - Times
+  - Locations
+  - Manufacturer established parameters
 
 ## External Connections
 
