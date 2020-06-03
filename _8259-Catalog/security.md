@@ -53,18 +53,18 @@ Ability for the device to protect against unauthorized changes to hardware and s
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
 - Ability for the IoT device to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., ROM).
 
-Secure Device Operation – the device can operate securely and safely
-
-- Ability to keep an accurate internal system time
+## Secure Device Operation
+Ability to operate the device ecurely and safely. Configurations that may be necessary: 
+- Ability to keep an accurate internal system time.
 - Ability to define various operational states.
-- Ability to operate in various operational states
+- Ability to operate in various operational states.
 - Ability to define differing failure types.
-- Ability to require the IOT device to fail in a secure state
+- Ability to require the IOT device to fail in a secure state.
 - Ability to disable the IOT device in the event of security violations.
-- Ability for the IOT device to sense the environment and interface with various device components including:
-
-  - emergency shutoff mechanism.
-  - emergency lighting mechanism.
-  - fire protection mechanism.
-  - temperature and humidity mechanism.
-  - water damage protection mechanism.
+- Ability to sense the environment and interface with various device components. Possible capabilities include:
+  - Emergency shutoff mechanism.
+  - Emergency lighting mechanism.
+  - Fire protection mechanism.
+  - Temperature and humidity mechanism.
+  - Water damage protection mechanism.
+  - Manufacturer defined capability.
