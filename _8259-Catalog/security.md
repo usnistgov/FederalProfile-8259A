@@ -10,11 +10,6 @@ permalink: /technical/security/
 
 _See also the [non-technical counterpart to this section](../_8259-Control/security.md)_
 
-## Unacceptable Content
-Ability to detect and remove unacceptable content. Configurations that may be necessary:
-- Ability to scan files for unacceptable content.
-- Ability to delete unacceptable content.
-
 ## Secure Execution 
 
 Ability to protect the execution of code on the device. Configurations that may be necessary:
