@@ -32,6 +32,7 @@ Ability for device to provide event identification and monitoring capabilities a
 - Ability to define the characteristics of unacceptable content.
 - Ability to scan files for unacceptable content.
 - Ability to prevent download of unacceptable content.
+- Ability to delete unacceptable content.
 
 ## Event Response
 
