@@ -30,6 +30,8 @@ Actions that can occur based on or using the identity of the device. Configurati
 
 ## Device Authentication Support
 
+Actions to support local or interfaced device authentication. Configurations that may be necessary:
 - Ability for the IOT device to authenticate itself as an authorized entity to other devices.
-- Ability to remotely authenticate the IOT device.
+- Ability to remotely authenticate to the IOT device.
+- Ability to locally authenticate to the IOT device.
 

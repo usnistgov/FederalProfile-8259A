@@ -12,28 +12,34 @@ _See also the [non-technical counterpart to this section](../_8259-Control/logic
 
 ## Authentication and Identity Management
 
+Ability to require, or not require, authentication to, and/or identification of, the IOT device, and to establish authentication and identification configuration and display requirements. Configurations that may be necessary: 
+
 - Ability for the IOT device to support and require appropriate authentication.
   - Ability for the IOT device to require authentication prior to connecting to the device.
-  - Ability for the IOT device to support a second, or more, authentication method through an out of band path such as:
+  - Ability for the IOT device to support a second, or more, authentication method(s) through an out of band path such as:
     - temporary passwords or other one-use logon credentials.
     - third-party credential checks.
-    - Biometric
-    - Text message
-    - Hard Token
-  - Ability for the IOT device to hide authentication information during authentication process
-- Ability for the IOT device to set and change authentication configurations, policies and limitations settings.
-  - Ability for the IOT device to set the time period for how long the device will remain locked after an established configurable limit of unsuccessful login attempts has been met.
-  - Ability for the IOT device to prohibit access to the device after an established pre-defined or user-configurable number of unsuccessful login authentication attempts.
-  - Ability for the IOT device to log and view previous date and time of last successful login following successful login authentication.
-  - Ability to support automatic disabling of inactive accounts for the IOT device.
+    - Biometrics.
+    - Text messages.
+    - Hard Tokens.
+    - Manufacturer proprietary method.
+  - Ability for the IOT device to hide or mask authentication information during authentication process
+- Ability to set and change authentication configurations, policies and limitations settings for the IOT device .
+  - Ability to set the time period for how long the device will remain locked after an established configurable limit of unsuccessful login attempts has been met.
+  - Ability to disable or lock access to the device after an established pre-defined or user-configurable number of unsuccessful login authentication attempts.
+  - Ability to log successful and unsuccessful login authentications.
+  - Ability to display and/or report the previous date and time of the last successful login following successful login authentication.
+  - Ability to automatically disable accounts for the IOT device after an establish period of inactivity.
     - Ability to support automatic logout of inactive accounts for the IOT device after a configurable established time period.
-    - Ability to support automatic removal of temporary, emergency and other special use accounts from the IOT device.
-- Ability to display to IOT device users an organization-defined system use notification message or banner prior to successful IOT device authentication.
-  - The message or banner would provide privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
-  - The device should have the ability to keep the notification message or banner on screen until the device user actively acknowledges and agrees to the usage conditions.
-- Ability for the IOT device to be able to identify authorized users and processes and restrict all unauthorized interactions.
-  - The device should have the ability to remotely differentiate through the logical interface between authorized and unauthorized users (physical and remote).
-- Ability to establish access to the IOT device or through IOT device interfaces to perform organization-defined user actions without identification or authentication.
+    - Ability to support automatic removal of temporary, emergency and other special use accounts from the IOT device after an established time period.
+- Ability to display to IOT device users an organization-defined system use notification message or banner prior to successful IOT device authentication. (e.g., the message or banner would provide privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.)
+  - Ability to create an organization-defined system use notification message or banner to be displayed on the IOT device.
+  - Ability to keep the notification message or banner on the device screen until the device user actively acknowledges and agrees to the usage conditions.
+- Ability for the IOT device to be able to restrict all unauthorized interactions.
+  - Ability for the IOT device to be able to identify authorized users and processes.
+  - Ability to remotely differentiate through the logical interface between authorized and unauthorized users (physical and remote).
+- Ability to establish access to the IOT device to perform organization-defined user actions without identification or authentication.
+- Ability to establish access through the IOT device interface to perform organization-defined user actions without identification or authentication.
 
 ## Role Support and Management
 
