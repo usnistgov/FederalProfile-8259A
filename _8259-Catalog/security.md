@@ -39,7 +39,7 @@ Secure Communication – the device can securely initiate and terminate communic
 - Ability within the IOT device settings to store/process session identifiers.
 - Ability to identify and track sessions with identifiers
 
-# Secure Resource Usage 
+## Secure Resource Usage 
 Ability for the device to securely utilize system resources and memory. Configurations that may be necessary:
 - Ability to support IOT device shared system resources.
   - Ability to release resources from the IOT device back to the associated system.
