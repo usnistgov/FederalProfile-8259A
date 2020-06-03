@@ -12,23 +12,17 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 ## Cryptography Capabilities and Support
 
-- Ability for the IOT device to use cryptography for data protection.
-
-	_Requires some or all of the following depending on implementation:_
-
-  - Ability for the IOT device to utilize sufficient resources to employ cryptographic mechanisms.
-  - Ability for the IOT device to obtain and validate certificates.
-  - Ability for the IOT device to verify digital signatures.
-  - Ability for the IOT device to run hashing algorithms.
-  - Ability for the IOT device to compute and compare hashes.
-  - Ability for the IOT device to change keys securely.
-  - Ability for the IOT device to manage cryptographic keys securely.
-
-    _Requires some or all of the following depending on implementation:_
-
-    - Ability for the IOT device to generate key pairs
-    - Ability for the IOT device to store encryption keys securely
-    - Ability for the IoT device to change keys securely
+Ability for the IOT device to use cryptography for data protection. Configurations that may be necessary: 
+- Ability to utilize sufficient resources to employ cryptographic mechanisms.
+- Ability to obtain and validate certificates.
+- Ability to verify digital signatures.
+- Ability to run hashing algorithms.
+- Ability to compute and compare hashes.
+- Ability to change keys securely.
+- Ability to manage cryptographic keys securely.
+  - Ability to generate key pairs.
+  - Ability to store encryption keys securely.
+  - Ability to change keys securely.
 
 ## Secure Storage
 
