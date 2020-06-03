@@ -39,16 +39,16 @@ Secure Communication – the device can securely initiate and terminate communic
 - Ability within the IOT device settings to store/process session identifiers.
 - Ability to identify and track sessions with identifiers
 
-Secure Resource Usage – the device can securely utilize system resources, including memory
-
+# Secure Resource Usage 
+Ability for the device to securely utilize system resources and memory. Configurations that may be necessary:
 - Ability to support IOT device shared system resources.
   - Ability to release resources from the IOT device back to the associated system.
   - Ability to separate user and process resources use.
 - Ability to manage IOT device memory address space assigned to processes.
-- Ability to enforce access by the IOT device to memory space through kernel.
+- Ability to enforce access by the IOT device to memory space through the kernel.
 - Ability to prevent an IOT device process from accessing memory space of another process.
 - Ability to enforce configured IOT device disk quotas.
-- IOT Device has sufficient resources to store and run the operating environment
+- Provide sufficient resources to store and run the operating environment.
 
 Device Integrity – the device protects against unauthorized changes to hardware and software
 
