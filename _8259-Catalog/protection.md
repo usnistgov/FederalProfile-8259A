@@ -32,18 +32,15 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 ## Secure Storage
 
-- Ability for the IOT device to support encryption of data at rest.
-  - Ability for the IOT device to cryptographically store passwords at rest, as well as other authentication data.
-  - Ability for the IOT device to support data encryption and signing to prevent data from being altered in device storage at rest.
-- The IoT device can protect the data it stores from unauthorized access and modification. (_alternate wording:_ Ability to secure data stored within the IOT device.)
-
-	_Requires some or all of the following depending on implementation:_
-
-  - Ability to secure IOT device data stored locally on the device
-  - Ability to secure IOT device data stored in remote storage areas (e.g., cloud, server, etc.).
-  - Ability for the IoT device to utilize separate partitions for system and user data
-
-- Ability for the IOT device to "sanitize" or "purge" specific or all data within the device.
+Ability for the IOT device, or tools used through the IOT device interface, to securely the device storage.
+- Ability to support encryption of data at rest.
+  - Ability to cryptographically store passwords at rest, as well as other authentication data.
+  - Ability to support data encryption and signing to prevent data from being altered in device storage.
+- Ability to secure data in device storage. 
+  - Ability to secure data stored locally on the device.
+  - Ability to secure data stored in remote storage areas (e.g., cloud, server, etc.).
+  - Ability to utilize separate storage partitions for system and user data.
+- Ability to "sanitize" or "purge" specific or all data within the device.
 
 
 ## Secure Transmission
