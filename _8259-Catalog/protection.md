@@ -12,7 +12,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/prote
 
 ## Cryptography Capabilities and Support
 
-Ability for the IOT device to use cryptography for data protection. Configurations that may be necessary: 
+Ability for the IoT device to use cryptography for data protection. Capabilities that may be necessary: 
 - Ability to utilize sufficient resources to employ cryptographic mechanisms.
 - Ability to obtain and validate certificates.
 - Ability to verify digital signatures.
@@ -26,7 +26,7 @@ Ability for the IOT device to use cryptography for data protection. Configuratio
 
 ## Secure Storage
 
-Ability for the IOT device, or tools used through the IOT device interface, to enable secure device storage. Configurations that may be necessary:
+Ability for the IoT device, or tools used through the IoT device interface, to enable secure device storage. Capabilities that may be necessary:
 - Ability to support encryption of data at rest. 
   - Ability to cryptographically store passwords at rest, as well as other authentication data.
   - Ability to support data encryption and signing to prevent data from being altered in device storage.
@@ -39,7 +39,7 @@ Ability for the IOT device, or tools used through the IOT device interface, to e
 
 ## Secure Transmission
 
-Ability to secure data transmissions sent to and from the IOT device. Configurations that may be necessary:
+Ability to secure data transmissions sent to and from the IoT device. Capabilities that may be necessary:
 - Ability to configure the cryptographic algorithm to protect data in transit.
   - Ability to support trusted data exchange with a specified minimum strength cryptography algorithm.
   - Ability to support data encryption and signing to prevent data from being altered in transit.
