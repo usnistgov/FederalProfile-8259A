@@ -95,7 +95,7 @@ Ability to support external connections. Capabilities that may be necessary:
 ## Interface Control
 
 Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary: 
-- Ability to establish requirements for remote access to the IoT device and/or IoT device interface including
+- Ability to establish requirements for remote access to the IoT device and/or IoT device interface including:
   - Usage restrictions
   - Configuration requirements
   - Connection requirements
@@ -106,7 +106,7 @@ Ability to establish controls for the connections made to the IoT device. Capabi
 - Ability to control access to the device's network interface.
 - Ability to control device responses to device input.
 - Ability to control output from the device.
-- Ability to support wireless technologies
+- Ability to support wireless technologies:
   - Microwave
   - Packet radio (UHF/VHF)
   - 802.11x
