@@ -44,5 +44,5 @@ Ability to secure data transmissions sent to and from the IOT device. Configurat
   - Ability to support trusted data exchange with a specified minimum strength cryptography algorithm.
   - Ability to support data encryption and signing to prevent data from being altered in transit.
 - Ability to utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
-- Ability to use cryptographic means to validate integrity of data transmitted.
+- Ability to use cryptographic means to validate the integrity of data transmitted.
 
