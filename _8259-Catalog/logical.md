@@ -96,10 +96,10 @@ Ability to support external connections. Capabilities that may be necessary:
 
 Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary: 
 - Ability to establish requirements for remote access to the IoT device and/or IoT device interface including
-  - Usage restrictions.
-  - Configuration requirements.
-  - Connection requirements.
-  - Manufacturer established requirement.
+  - Usage restrictions
+  - Configuration requirements
+  - Connection requirements
+  - Manufacturer established requirement
 - Ability to enforce the established local and remote access requirements.
 - Ability to prevent external access to the IoT device management interface.
 - Ability to update logical interface configuration through a network interface.
