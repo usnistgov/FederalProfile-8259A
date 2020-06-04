@@ -39,7 +39,7 @@ Ability to require, or not require, authentication to, and/or identification of,
   - Ability to differentiate between authorized and unauthorized users (physical and remote).
 - Ability to establish access to the IoT device to perform organization-defined user actions without identification or authentication.
 
-## Account Support and Management
+## Role Support and Management
 
 Ability to establish unique, privileged, organization-wide, and other types of IoT device user accounts. Capabilities that may be necessary: 
 - Ability to create unique IoT device user accounts.
