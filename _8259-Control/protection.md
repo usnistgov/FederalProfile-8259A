@@ -11,6 +11,9 @@ permalink: /nontechnical/protection/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/protection.md)_
 
+The administrative and physical controls to support securing IOT device data. Controls that may be necessary:
+
+
 **IOT Device System and Information Integrity**
 
 ## The organization develops policies and procedures to establish roles and responsibilities for IOT device security.
