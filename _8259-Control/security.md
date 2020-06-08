@@ -10,6 +10,8 @@ permalink: /nontechnical/security/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/security.md)_
 
+The administrative and physical controls to support IOT device security. Controls that may be necessary:
+
 **Maintenance**
 
 ## Policies and procedures govern the approval and monitoring of onsite and offsite IOT device maintenance activities.
