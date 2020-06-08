@@ -10,6 +10,8 @@ permalink: /nontechnical/logical/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/logical.md)_
 
+The administrative and physical controls to support secure IOT device interface capabilities. Controls that may be necessary:
+
 **Organizational Policies and Procedures**
 
 ## Policies &amp; procedures govern the implementation of the organizational access control requirements on IOT devices.
