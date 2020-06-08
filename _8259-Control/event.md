@@ -10,6 +10,8 @@ permalink: /nontechnical/event/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/event.md)_
 
+The administrative and physical controls to support security for events within the system where the IOT device is used. Controls that may be necessary:
+
 **Malicious Code Protection**
 
 ## Policies and procedures require IOT device, and associated systems, malicious code protection mechanisms at IOT device and related systems entry and exit points to detect and eradicate malicious code.
@@ -72,7 +74,7 @@ If the IOT device manufacturer provides anti-malware for the associated IOT devi
 
 **Information System Monitoring**
 
-## The organization establishes policies and procedures to monitor the IOT device and associated systems.
+## Policies and procedures establish how to monitor the IOT device and associated systems.
 
 **Manufacturer:**
 
