@@ -10,6 +10,8 @@ permalink: /nontechnical/update/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/update.md)_
 
+The administrative and physical controls to support secure IOT device software updates. Controls that may be necessary:
+
 ## Policies and procedures establish how to identify, report, and correct IOT device system flaws.
 
 **Manufacturer:**
