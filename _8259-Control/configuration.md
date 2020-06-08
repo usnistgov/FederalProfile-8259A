@@ -10,6 +10,8 @@ permalink: /nontechnical/configuration/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/configuration.md)_
 
+The administrative and physical controls to support the capabilities to configure the IOT device to meet the baseline configurations set by the organization and to update the baseline configuration requirements of the IOT device as established by the user/organization. 
+
 ## Policies and procedures establish the minimum requirements for IOT device configuration settings.
 
 **Manufacturer:**
