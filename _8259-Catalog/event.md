@@ -26,7 +26,7 @@ Ability to provide event identification and monitoring capabilities and/or suppo
 - Ability to support a monitoring process to check for disclosure of organizational information to unauthorized entities. (The device may be able to perform this check itself or provide the information necessary for an external process to check).
 - Ability to monitor communications traffic.
 - Ability to detect remote activation attempts.
-- Ability to detect remote activation of a collaborative computing device/component.
+- Ability to detect remote activation of a collaborative computing device/component (e.g., microphone, camera, etc.).
 - Ability to detect remote activation of sensors.
 - Ability to define the characteristics of unacceptable content.
 - Ability to scan files for unacceptable content.
@@ -54,12 +54,12 @@ Ability for the device, or an interfaced system, to generate, store, retain, del
 - The device can capture required information in audit logs
   - Ability to track users interacting with the device, the time they interacted with the device, the time the user logged out of the device, and to list this information in an audit log
    - Ability to log information pertaining to: 
-      - The type of event that occurred, 
-      - The time that the event occurred, 
-      - Where the event occurred, 
-      - The source of the event, 
-      - The outcome of the event, 
-      - Identity of users/processes associated with the event.
+      - The type of event that occurred 
+      - The time that the event occurred 
+      - Where the event occurred 
+      - The source of the event 
+      - The outcome of the event 
+      - Identity of users/processes associated with the event
   - Ability to support auditing of configuration actions.
   - Ability to provide information as to why the device captured a particular event or set of events.
   - Ability to capture organization defined information to support examination of security incidents. 
