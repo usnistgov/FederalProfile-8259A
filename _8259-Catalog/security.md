@@ -12,7 +12,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/secur
 
 ## Secure Execution 
 
-Ability for the IoT device to protect the execution of code on the device. Capabilities that may be necessary:
+Ability to protect the execution of code on the device. Capabilities that may be necessary:
 - Ability to enforce organization defined execution policies.
   - Ability to execute code in confined virtual environments.
   - Ability to separate IoT device processes into separate execution domains.
@@ -21,7 +21,7 @@ Ability for the IoT device to protect the execution of code on the device. Capab
 
 ## Secure Communication 
 
-Ability for the IoT device to securely initiate and terminate communications with other devices.  Capabilities that may be necessary:
+Ability to securely initiate and terminate communications with other devices.  Capabilities that may be necessary:
 - Ability to enforce traffic flow policies.
 - Ability to utilize standardized protocols.
 - Ability to establish network connections.
@@ -35,7 +35,7 @@ Ability for the IoT device to securely initiate and terminate communications wit
 
 ## Secure Resource Usage 
 
-Ability for the IoT device to securely utilize system resources and memory. Capabilities that may be necessary:
+Ability to securely utilize system resources and memory. Capabilities that may be necessary:
 - Ability to support shared system resources.
   - Ability to release resources back to the system.
   - Ability to separate user and process resources use.
@@ -48,7 +48,7 @@ Ability for the IoT device to securely utilize system resources and memory. Capa
 
 ## Device Integrity 
 
-Ability for the IoT device to protect against unauthorized changes to hardware and software. Capabilities that may be necessary:
+Ability to protect against unauthorized changes to hardware and software. Capabilities that may be necessary:
 - Ability to perform security compliance checks on system components.
 - Ability to detect unauthorized hardware and software components. 
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
@@ -56,7 +56,7 @@ Ability for the IoT device to protect against unauthorized changes to hardware a
 
 ## Secure Device Operation
 
-Ability for the IoT device to operate securely and safely. Capabilities that may be necessary: 
+Ability to operate securely and safely. Capabilities that may be necessary: 
 - Ability to keep an accurate internal system time.
 - Ability to define various operational states.
 - Ability to operate in various operational states.
