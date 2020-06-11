@@ -25,7 +25,7 @@ Ability to securely initiate and terminate communications with other devices.  C
 - Ability to enforce traffic flow policies.
 - Ability to utilize standardized protocols.
 - Ability to establish network connections.
-- Ability to terminate network connections.
+- Ability to terminate network connections (e.g., automatically based on organization-defined parameters).
 - Ability to de-allocate TCP/IP address/port pairings.
 - Ability to establish communications paths.
 - Ability to secure the communication paths.
@@ -51,18 +51,22 @@ Ability to securely utilize system resources and memory. Capabilities that may b
 Ability to protect against unauthorized changes to hardware and software. Capabilities that may be necessary:
 - Ability to perform security compliance checks on system components.
 - Ability to detect unauthorized hardware and software components. 
-- Ability to take organizationally-defined actions when unauthorized hardware and software components are detected.
-- Ability to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., ROM).
+- Ability to take organizationally-defined actions when unauthorized hardware and software components are detected (e.g., disallow a flash drive to be connected even if a USB port is present).
+- Ability to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., Read Only Memory).
 
 ## Secure Device Operation
 
 Ability to operate securely and safely. Capabilities that may be necessary: 
 - Ability to keep an accurate internal system time.
 - Ability to define various operational states.
-- Ability to operate in various operational states.
+- Ability to support various modes of IoT device operation with more restrictive operational states.
+      - "travel mode" for transit.
+      - "safe mode" for operation when some or all network security is unavailable.
+      - Others as determined necessary based on the purpose and goals for the IoT device.
 - Ability to define differing failure types.
 - Ability to fail in a secure state.
 - Ability to disable operations and/or functionality in the event of security violations.
+- Ability to restrict components/features of the IoT device (e.g., ports, functions, protocols, services, etc.) in accordance with organization defined policies.
 - Ability to sense the environment and interface with various device components. Possible capabilities include:
   - Emergency shutoff mechanism
   - Emergency lighting mechanism
