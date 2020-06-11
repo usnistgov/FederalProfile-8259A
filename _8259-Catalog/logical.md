@@ -93,7 +93,7 @@ Ability to support external connections. Capabilities that may be necessary:
 - Ability to securely interact with external, third-party systems.
 - Ability to allow for the user/organization to establish the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
 - Ability to establish automated information sharing to identified parties/entities.
-- Ability to identify when the external user&#39;s system meets the required security requirements for a connection.
+- Ability to identify when the external user's system meets the required security requirements for a connection.
 
 ## Interface Control
 
@@ -103,6 +103,8 @@ Ability to establish controls for the connections made to the IoT device. Capabi
   - Configuration requirements
   - Connection requirements
   - Manufacturer established requirement
+- Ability to restrict use of IOT device components (e.g., ports, functions, protocols, services, microphones, video, etc.).
+- Ability to restrict use of IOT device services.
 - Ability for only authorized entities to enforce the established local and remote access requirements.
 - Ability for only authorized entities to prevent external access to the IoT device management interface.
 - Ability for only authorized entities to control access to the device's network interface.
