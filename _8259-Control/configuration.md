@@ -10,13 +10,15 @@ permalink: /nontechnical/configuration/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/configuration.md)_
 
-The administrative and physical controls to support the capabilities to configure the IOT device to meet the baseline configurations set by the organization and to update the baseline configuration requirements of the IOT device as established by the user/organization. 
+The management and operational controls to support the capabilities to configure the IOT device according to the requirements established by the organization. 
 
 ## Policies and procedures establish the minimum requirements for IOT device configuration settings.
 
+Policies and procedures detail the necessary management and operational controls to support configuration of the IoT device’s software, to ensure the configuration can be securely changed, and to ensure such changes can be performed only by authorized entities. Controls that may be necessary:
+
 **Manufacturer:**
 
-- Provide documentation detailing the minimum configuration settings available within the IOT devices, and how to change those settings, to meet their customers&#39; needs and requirements.
+- Provide documentation detailing the minimum configuration settings available within the IOT devices, and how to change those settings, to meet their customers' needs and requirements.
 - Provide a process by which customers can contact the manufacturer to ask questions or obtain help related to the minimum requirements for IOT device configuration settings.
 
 **Agency:**
@@ -25,6 +27,8 @@ The administrative and physical controls to support the capabilities to configur
 - Assign roles and responsibilities for ensuring IOT devices are configured with the appropriate configuration settings before implementation within the system. For example, ensuring default passwords are changed before implementing the device into production.
 
 ## Training is provided to workers covering the IOT device configuration requirements.
+
+Policies and procedures establish the training necessary for individuals responsible for implementing the policies and procedures to establish the minimum requirements for IOT device configuration settings. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -37,6 +41,8 @@ The administrative and physical controls to support the capabilities to configur
 - Ensure the personnel responsible for configuring the IOT devices are provided with training covering how to appropriately configure the devices.
 
 ## Data on approved IOT devices are backed up according to established IOT device backup and recovery policies and procedures.
+
+Backup and recovery policies and procedures detail how to make backups of IoT device data, and software as applicable. Controls that may be necessary:
 
 **Manufacturer:**
 
