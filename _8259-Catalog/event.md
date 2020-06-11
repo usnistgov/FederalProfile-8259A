@@ -43,6 +43,7 @@ The device can respond to organizationally defined cybersecurity events in an or
   - Ability to respond following an auditing failure (either by the device or an external auditing process that interacts with the device).
   - Ability to prevent download of unacceptable content.
   - Ability to delete unacceptable content.
+  - Ability to support "alternative security mechanisms" within the IoT device when primary mechanisms (e.g., login protocol, encryption, etc.) are compromised.
 
 ## Audit Support
 
