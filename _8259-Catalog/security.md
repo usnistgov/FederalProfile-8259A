@@ -13,7 +13,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/secur
 ## Secure Execution 
 
 Ability to protect the execution of code on the device. Capabilities that may be necessary:
-- Ability to enforce organization defined execution policies.
+- Ability to enforce organizationally-defined execution policies.
   - Ability to execute code in confined virtual environments.
   - Ability to separate IoT device processes into separate execution domains.
 - Ability to separate the levels of IoT device user functionality.
@@ -25,7 +25,7 @@ Ability to securely initiate and terminate communications with other devices.  C
 - Ability to enforce traffic flow policies.
 - Ability to utilize standardized protocols.
 - Ability to establish network connections.
-- Ability to terminate network connections (e.g., automatically based on organization-defined parameters).
+- Ability to terminate network connections (e.g., automatically based on organizationally-defined parameters).
 - Ability to de-allocate TCP/IP address/port pairings.
 - Ability to establish communications paths.
 - Ability to secure the communication paths.
@@ -60,14 +60,14 @@ Ability to operate securely and safely. Capabilities that may be necessary:
 - Ability to keep an accurate internal system time.
 - Ability to define various operational states.
 - Ability to support various modes of IoT device operation with more restrictive operational states.
-      - "travel mode" for transit.
-      - "safe mode" for operation when some or all network security is unavailable.
-      - Others as determined necessary based on the purpose and goals for the IoT device.
+  - "travel mode" for transit.
+  - "safe mode" for operation when some or all network security is unavailable.
+  - Others as determined necessary based on the purpose and goals for the IoT device.
 - Ability to define differing failure types.
 - Ability to fail in a secure state.
 - Ability to disable operations and/or functionality in the event of security violations.
-- Ability to restrict components/features of the IoT device (e.g., ports, functions, protocols, services, etc.) in accordance with organization defined policies.
-- Ability to sense the environment and interface with various device components. Possible capabilities include:
+- Ability to restrict components/features of the IoT device (e.g., ports, functions, protocols, services, etc.) in accordance with organizationally-defined policies.
+- Ability to sense the environment and interface with various device components.
   - Emergency shutoff mechanism
   - Emergency lighting mechanism
   - Fire protection mechanism
