@@ -33,6 +33,8 @@ Ability to require, or not require, authentication to, and/or identification of,
     - Ability to support automatic removal of temporary, emergency and other special use accounts from the IoT device after an established time period.
 - Ability to display to IoT device users an organization-defined system use notification message or banner prior to successful IoT device authentication. (e.g., the message or banner would provide privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.)
   - Ability to create an organization-defined system use notification message or banner to be displayed on the IoT device.
+    - Ability to edit an existing IOT device display.
+    - Ability to establish the maximum size (in characters, bytes, etc.) of the available device display.
   - Ability to keep the notification message or banner on the device screen until the device user actively acknowledges and agrees to the usage conditions.
 - Ability to restrict all unauthorized interactions.
   - Ability to identify authorized users and processes.
@@ -51,10 +53,11 @@ Ability to establish unique, privileged, organization-wide, and other types of I
   - Ability to use organizationally defined roles to define each user account's access and permitted device actions.
   - Ability to support multiple levels of user/process account functionality and roles for the IoT device.
 - Ability to apply least privilege to user accounts (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions). 
-  - Ability to create additional processes, roles, and accounts as necessary to achieve least privilege.
+  - Ability to create additional processes, roles (e.g., admin, emergency, temporary, etc.) and accounts as necessary to achieve least privilege.
   - Ability to apply least privilege settings within the device (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions).
-  - Ability to limit access to privileged device settings that are used to establish and administer authorization requirements.
+  - Ability to limit access (e.g., through IoT device interfaces, within the device, etc.) to privileged device settings that are used to establish and administer authorization requirements.
   - Ability for authorized users to access privileged settings.
+  - Ability to establish least privilege IoT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire.
 - Ability to support organization-defined actions for the IoT device.
   - Ability to create organization-defined accounts that support privileged roles with assignment expirations.
   - Ability to establish organization-defined user actions for accessing the IoT device and/or device interface.
@@ -95,23 +98,29 @@ Ability to support external connections. Capabilities that may be necessary:
 ## Interface Control
 
 Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary: 
-- Ability to establish requirements for remote access to the IoT device and/or IoT device interface including:
+- Ability for only authorized entities to establish requirements for remote access to the IoT device and/or IoT device interface including:
   - Usage restrictions
   - Configuration requirements
   - Connection requirements
   - Manufacturer established requirement
-- Ability to enforce the established local and remote access requirements.
-- Ability to prevent external access to the IoT device management interface.
-- Ability to update logical interface configuration through a network interface.
-- Ability to control access to the device's network interface.
-- Ability to control device responses to device input.
-- Ability to control output from the device.
-- Ability to support wireless technologies:
+- Ability for only authorized entities to enforce the established local and remote access requirements.
+- Ability for only authorized entities to prevent external access to the IoT device management interface.
+- Ability for only authorized entities to control access to the device's network interface.
+- Ability for only authorized entities to control the IoT device's logical interface through network processes.
+- Ability for only authorized entities to change IoT device logical interface(s).
+- Ability for only authorized entities to control device responses to device input.
+- Ability for only authorized entities to control output from the device.
+- Ability for only authorized entities to support wireless technologies:
   - Microwave
   - Packet radio (UHF/VHF)
   - 802.11x
   - Bluetooth
   - Manufacturer defined
-- Ability to establish and configure IoT device settings for wireless technologies.
-- Ability to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
+- Ability for only authorized entities to establish and configure IoT device settings for wireless technologies.
+- Ability for only authorized entities to set and change IOT device settings for wireless authentication protocols (e.g., EAP/TLS, PEAP).
+- Ability for only authorized entities to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
+- Ability for only authorized entities to change IoT device execution policy settings.
+- Ability for only authorized entities to change IoT device services (e.g., VoIP, video-over-IP).
+
+
 
