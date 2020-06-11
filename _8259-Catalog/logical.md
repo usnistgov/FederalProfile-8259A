@@ -55,7 +55,7 @@ Ability to establish unique, privileged, organization-wide, and other types of I
 - Ability to apply least privilege to user accounts (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions). 
   - Ability to create additional processes, roles (e.g., admin, emergency, temporary, etc.) and accounts as necessary to achieve least privilege.
   - Ability to apply least privilege settings within the device (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions).
-  - Ability to limit access (e.g., through IoT device interfaces, within the device, etc.) to privileged device settings that are used to establish and administer authorization requirements.
+  - Ability to limit access to privileged device settings that are used to establish and administer authorization requirements.
   - Ability for authorized users to access privileged settings.
   - Ability to establish least privilege IoT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire.
 - Ability to support organization-defined actions for the IoT device.
