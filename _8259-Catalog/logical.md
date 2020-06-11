@@ -57,9 +57,8 @@ Ability to establish unique, privileged, organization-wide, and other types of I
   - Ability to apply least privilege settings within the device (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions).
   - Ability to limit access to privileged device settings that are used to establish and administer authorization requirements.
   - Ability for authorized users to access privileged settings.
-  - Ability to establish least privilege IoT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire.
 - Ability to support organization-defined actions for the IoT device.
-  - Ability to create organization-defined accounts that support privileged roles with assignment expirations.
+  - Ability to create organization-defined accounts that support privileged roles with automated expiration conditions.
   - Ability to establish organization-defined user actions for accessing the IoT device and/or device interface.
   - Ability to enable automation and reporting of account management activities.
     - Ability to assign access to IoT device audit controls to specific roles or organization-defined personnel.
@@ -98,31 +97,24 @@ Ability to support external connections. Capabilities that may be necessary:
 ## Interface Control
 
 Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary: 
-- Ability for only authorized entities to establish requirements for remote access to the IoT device and/or IoT device interface including:
+- Ability to establish requirements for remote access to the IoT device and/or IoT device interface including:
   - Usage restrictions
   - Configuration requirements
   - Connection requirements
   - Manufacturer established requirement
 - Ability to restrict use of IOT device components (e.g., ports, functions, protocols, services, microphones, video, etc.).
 - Ability to restrict use of IOT device services.
-- Ability for only authorized entities to enforce the established local and remote access requirements.
-- Ability for only authorized entities to prevent external access to the IoT device management interface.
-- Ability for only authorized entities to control access to the device's network interface.
-- Ability for only authorized entities to control the IoT device's logical interface through network processes.
-- Ability for only authorized entities to change IoT device logical interface(s).
-- Ability for only authorized entities to control device responses to device input.
-- Ability for only authorized entities to control output from the device.
-- Ability for only authorized entities to support wireless technologies:
+- Ability to enforce the established local and remote access requirements.
+- Ability to prevent external access to the IoT device management interface.
+- Ability to control the IoT device's logical interface (e.g., locally or remotely).
+- Ability to change IoT device logical interface(s).
+- Ability to control device responses to device input.
+- Ability to control output from the device.
+- Ability to support wireless technologies:
   - Microwave
   - Packet radio (UHF/VHF)
   - 802.11x
   - Bluetooth
   - Manufacturer defined
-- Ability for only authorized entities to establish and configure IoT device settings for wireless technologies.
-- Ability for only authorized entities to set and change IOT device settings for wireless authentication protocols (e.g., EAP/TLS, PEAP).
-- Ability for only authorized entities to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
-- Ability for only authorized entities to change IoT device execution policy settings.
-- Ability for only authorized entities to change IoT device services (e.g., VoIP, video-over-IP).
-
-
-
+- Ability to establish and configure IoT device settings for wireless technologies including wireless authentication protocols (e.g., EAP/TLS, PEAP).
+- Ability to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
