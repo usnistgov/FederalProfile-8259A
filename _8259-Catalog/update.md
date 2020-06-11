@@ -14,5 +14,5 @@ Ability to update the IoT device software within the device and/or through the I
 - Ability to update the software by authorized entities only using a secure and configurable mechanism.
 - Ability to identify the current version of the organizational audit policies and procedures governing the software update. 
 - Ability to restrict software installations to only authorized individuals or processes. 
-- Ability to restrict software changes to only authorized individuals or processes. 
+- Ability to restrict software changes/uninstallations to only authorized individuals or processes. 
 - Ability to verify software updates come from valid sources using an effective method (e.g., digital signatures, checksums, certificate validation, etc).
