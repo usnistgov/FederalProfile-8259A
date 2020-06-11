@@ -10,50 +10,24 @@ permalink: /technical/configuration/
 
 _See also the [non-technical counterpart to this section](../_8259-Control/configuration.md)_
 
-The capability to configure the IoT device to meet the baseline configurations set by the organization and to update the baseline configuration requirements of the IoT device as established by the user/organization.
+The capability to configure the IoT device through logical and/or physical interfaces to meet organizational requirements.
 
-## Privilege Configuration
+## Logical Access Privilege Configuration
 
-Ability to apply least privilege settings within the IoT device, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required functions. Configurations that may be necessary:
-  - Ability to establish least privilege IoT device settings to establish time/date/etc. when privileged roles, accounts, etc. should expire. 
-  - Ability for the IoT device user to use IoT device settings to establish access privileges through IoT device interfaces or within the IOT device.
-  - Ability to establish a defined list within the IoT device to control logical access privileges (e.g., admin, emergency, temporary, etc.).
-
+Ability for only authorized entities to apply logical access privilege settings within the IoT device and configure logical access privilege as described in Logical Access to Interfaces.
+ 
 ## Authentication and Authorization Configuration
 
-Ability to configure IoT device authentication policies and limitations. Configurations that may be necessary:
-- Ability to use IoT device-based authentication controls to set/change authentication configurations, policies and limitations settings.
-- Ability to modify IoT device configuration settings to automatically terminate the IoT device user's session.
-- Ability to set and change IoT device settings for wireless authentication protocols (e.g., EAP/TLS, PEAP).
-- Ability to set the time period for how long the IoT device will remain locked after an established configurable limit of unsuccessful login attempts has been met.
-- Ability to prohibit access to the IoT device after an established pre-defined umber of unsuccessful login authentication attempts.
-- Ability to prohibit access to the IoT device after a user-configurable number of unsuccessful login authentication attempts.
-- Ability to log previous date and time of last successful login following successful login authentication.
-- Ability to view previous date and time of last successful login following successful login authentication.
-- Ability for require a second factor of device authentication through out of band pathways.
-- Ability to require authentication prior to connecting to the IoT device through the device interface.
-- Ability for the IoT device user to view privileges settings (to be able to view a defined list of dynamic privilege management capabilities).
-- Ability for the IoT device user to change privileges settings.
-- Ability to remotely establish and administer privileged user accounts to support role-based access.
+Ability for only authorized entities to configure IoT device authentication policies and limitations as described in Logical Access to Interfaces.
 
 ## Interface Configuration
 
-Ability for only authorized entities to configure aspects related to the device's interfaces. Configurations that may be necessary: 
-  - Ability to make device configuration changes through the device's physcial interface.
-  - Ability to make device configuration changes through the device's logical interface. 
-  - Ability to change IoT device execution policy settings.
-  - Ability to change IoT device services (e.g., VoIP, video-over-IP).
-  - Ability to change IoT device logical interface(s).
-  - Ability to control the IoT device's logical interface through network processes.
-
+Ability for only authorized entities to configure aspects related to the device's interfaces as described in Logical Access to Interfaces. 
+    
 ## Display Configuration
 
-Ability to create content within a device display. Configurations that may be necessary:
-  - Ability to display an organization-defined system use notification message or banner to the IoT device user prior to successful authentication. 
-  - Ability to edit an existing IoT device display.
-  - Ability to establish the maximum size (in characters, bytes, etc.) of the available device display.
-  - Ability to retain the display on the screen until the IoT device user actively acknowledges and agrees to the usage conditions and takes an explicit action (e.g., press an agree button, enters initials) to further access the IoT device.
-
+Ability to configure content to be shown within a device display as described in Logical Access to Interfaces.
+    
 ## Device Configuration
 
 Ability to configure and change the IoT device's settings and software configurations. Configurations that may be necessary:
