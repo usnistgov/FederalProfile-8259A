@@ -40,7 +40,7 @@ Provide information to IoT device clients/customers that describe newly identifi
 - Implement policies and procedures to govern how to update IoT device and related systems malicious code protection mechanisms whenever new releases are available, in accordance with organizational configuration management policy and procedures.
 - Require the appropriate roles to subscribe to any notifications for anti-malware updates from the manufacturer or the software provider, as appropriate.
 
-## Policies and procedures govern malicious code protection updates.
+## Policies and procedures govern malicious code protection configurations.
 
 Policies and procedures provide the details necessary to implement management and operational controls for how to configure IoT device and related systems malicious code protection mechanisms. Controls that may be necessary:
 
