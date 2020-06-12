@@ -21,7 +21,7 @@ Policies and procedures provide the details necessary to implement management an
 - Provides documentation describing how their IoT device can technically support PIV card implementation, accessibility and interfaces.
 - If their IoT device cannot support PIV cards, they provide information with suggested ways in which their customers can implement compensating controls around their IoT device.
 - Provides training videos showing how to configure IoT device to technically support PIV implementation, accessibility and interfaces.
-- Provides instructions for how to integrate their IoT device with a PIV system. Or, provides some type of attestation that their IoT device can be used in compliance with Fed agency requirements, with associated descriptions for how the agency can accomplish this.
+- Provides instructions for how to integrate their IoT device with a PIV system. Or, provides some type of attestation that their IoT device can be used in compliance with Federal agency requirements, with associated descriptions for how the agency can accomplish this.
 
 **Agency:**
 
