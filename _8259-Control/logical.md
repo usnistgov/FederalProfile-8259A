@@ -51,12 +51,12 @@ Policies and procedures provide the details necessary to implement management an
   - Situations where the IoT device can be used by anyone, and roles do not need to be defined. 
     -Example: a National Park IoT device where visitors are able to ask questions, and then the IoT device provides answers. The identity of the person asking is not collected (a privacy control), but the question itself may be logged/recorded to determine topic interests.
 - Establish policies and procedures describing when certain features can be used for the IoT device without authorization by a role or individual. 
-  - For example, using a smart coffee maker in an agency's break room.
+  - Example: using a smart coffee maker in an agency's break room.
   - Include within the policies and/or procedures a description of the compensating controls necessary in such situations, such as the need to be physically present for the use of the IoT device, the requirement to lock the door after normal business hours to the room where the device is located, etc.
 
 ## Policies and procedures for managing role-based access controls.
 
-Policies and procedures provide the details necessary to implement management and operational controls in situations where access controls are not necessary on an individual basis, but are based on the role of the IoT device user. For example:
+Policies and procedures provide the details necessary to implement management and operational controls in situations where access controls are not necessary on an individual basis, but are based on the role of the IoT device user. Examples:
   - Anyone within the office can use the smart coffee maker as part of a "general use" type of role, but only those within the "admin" type of role can modify the smart coffee maker settings.
   - A device can be configured to allow anyone with access to the device to view information in a public space, e.g., a public kiosk. However, the device has an "admin" type of role that allows only those within that role to make changes to the device.
   
@@ -75,11 +75,11 @@ Controls that may be necessary:
   - Situations where IOT devices can be used by anyone, and roles do not need to be defined. For example: A National Park IoT device where visitors are able to ask questions, and then the IoT device provides answers. The identity of the person asking is not collected (a privacy control), but perhaps the question itself is logged/recorded to determine topic interests.
 - Establish policies and procedures describing situations when specified features can be used for the IoT device without authorization by a role or individual.
   - For example, turning on a smart coffee maker in an agency's break room.
-  - Include within the policies and/or procedures a description of the compensating controls necessary in such situations, such as the need to be physically present for the use of the IOT device; such as needing to be physically at the coffee maker to turn the coffee maker on.
+  - Include within the policies and/or procedures a description of the compensating controls necessary in such situations, such as the need to be physically present for the use of the IoT device; such as needing to be physically at the coffee maker to turn the coffee maker on.
 
 ## Policies and procedures for including security and privacy requirements in third party contractual agreements.
 
-Policies and procedures provide the details necessary to implement management and operational controls for including security and privacy requirements within third party contractual agreements that involve access to, and/or use of, IoT devices by third parties. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for including security and privacy requirements within third party contractual agreements that involve access to, and/or use of, the IoT device by third parties. Controls that may be necessary:
 
 **Manufacturer**
 
@@ -89,7 +89,7 @@ Policies and procedures provide the details necessary to implement management an
 - Communicate to IoT device customers:
   - A list of the third parties to whom the manufacturer provides IoT device data and/or customer information, and 
   - The types of data provided to the third parties directly by the device (e.g., device usage, entities using the device, device location, personal data, etc.).
-- Describe other types of devices, systems, etc., that will be accessing the manufacturer&#39;s IOT device during customer use of the device, and how they will be accessing it (using static IP addresses, etc.).
+- Describe other types of devices, systems, etc., that will be accessing the manufacturer's IoT device during customer use of the device, and how they will be accessing it (using static IP addresses, etc.).
 - Provide documentation, in contracts, disclosures and/or similar types of documents, for the actions the manufacturer will take for requested modification of interface capabilities, and describe how device customers should make such requests.
 - Describe how the IoT device customers will be notified of changes in the manufacturer's contractors and third parties that have access to the IoT devices, when the origination or locations (e.g., city, state, country) of the contractors or third parties change, and other related types of contractor and third-party changes.
 - Describe the methods by which the manufacturer prevents unauthorized access to the customer's IoT device by third parties not listed on the provided documentation.
@@ -101,8 +101,9 @@ Policies and procedures provide the details necessary to implement management an
 
 - Establish policies and procedures governing the security and privacy requirements that must be included in the manufacturer's third-party contractual agreements that involve access to, and/or the use of, the IoT devices by third parties
 - Establish policies and procedures:
-  - Describing the risk evaluation requirements and practices for requested IoT devices, and descriptions for how risk levels will be established for the level of risk the device brings into the system. NOTE: Often the IoT devices will be used within large systems built for the government, so the interface to the IoT device within the system will need to be used based on the risk levels within the system, and for the risk the IoT device presents to the system.
-  - Detailing the documentation requirements for third-party disclosure of IOT device use and data from the manufacturer, and the required types of security and privacy reviews of those disclosures and the related manufacturer documentation to collect that describe those disclosures, that must be performed by each agency.
+  - Describing the risk evaluation requirements and practices for requested IoT devices, and descriptions for how risk levels will be established for the level of risk the device brings into the system. 
+    - NOTE: Often the IoT devices will be used within large systems built for the government, so the interface to the IoT device within the system will need to be used based on the risk levels within the system, and for the risk the IoT device presents to the system.
+  - Detailing the documentation requirements for third-party disclosure of IoT device use and data from the manufacturer, and the required types of security and privacy reviews of those disclosures and the related manufacturer documentation to collect that describe those disclosures, that must be performed by each agency.
   - Detailing the acceptable and unacceptable types of contractors (based upon related risk factors such as data use, location of the contractors, etc.), and the acceptable and unacceptable types of data sent out from the device (e.g., personal data, intellectual property, data impacting homeland security, etc.).
   - Detailing any requirements for the IoT device manufacturer to ensure they are using FedRamp-approved cloud service providers for their back-end cloud service platform.
   - Details for working with IoT device manufacturers on possible modification of IoT device interface capabilities for the agency considering use of the manufacturer's IoT device.
@@ -129,11 +130,11 @@ Policies and procedures provide the details necessary to implement management an
   - Governing risk evaluation for IoT devices, including how risk levels will be established for the risks the device brings into the system.
   - Establishing the required documentation from IoT device manufacturers for the available logical and remote interface access controls, and the required controls to allow usage of the IoT device within agency systems.
   - Describing the acceptable and unacceptable types of data that can be sent through each IoT device interface, and the controls that need to be implemented to meet the restrictions.
-  - Governing how to work with manufacturers on possible modifications of interface controls for IOT devices.
+  - Governing how to work with manufacturers on possible modifications of interface controls for IoT devices.
   - Establishing the requirements for role-based access controls for specific types of Iot data.
   - Governing the types of compensating controls that should be use when an IoT device manufacturer will not make changes or provide support for IoT device interfaces to support necessary security controls.
 
-## Policies and procedures for required IoT control techniques. 
+## Policies and procedures for required authentication techniques. 
 
 Policies and procedures establish the capabilities necessary to support required IoT control techniques, such as PIV authentication. Controls that may be necessary:
 
