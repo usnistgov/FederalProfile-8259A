@@ -22,7 +22,7 @@ Policies and procedures provide the details necessary to implement management an
 - Provide documentation to IoT device customers describing any requirements for the manufacturer to collect data from the IoT devices.
 - Provide documentation with instructions for IoT device users to following describing how to restrict interface connections to specific activities.
 - Provide descriptions of the types of access to the device the manufacturer will require on an ongoing or regular basis prior to purchase and/or implementation.
-- Guidance: Examples of the types of IoT devices that the manufacturers would typically need access to include, but are not limited to: medical devices, smart refrigerators, HVAC, maintenance data, etc.
+  - Guidance: Examples of the types of IoT devices that the manufacturers would typically need access to include, but are not limited to: medical devices, smart refrigerators, HVAC, maintenance data, etc.
 
 **Agency:**
 
@@ -35,9 +35,9 @@ Policies and procedures provide the details necessary to implement management an
 - Provide training for how to securely establish the interfaces and connections to the manufacturer for any requirements from the manufacturer requiring such connections.
 - Establish right-to-audit clauses within IoT device manufacturers contracts where periodic or ongoing access to the IoT devices is required.
 
-## Policies and procedures for situatios where identification and authorization are not needed.
+## Policies and procedures for situations where identification and authentication are not needed.
 
-Policies and procedures provide the details necessary to implement management and operational controls to support the organizational requirements for determining circumstances when identification and authorization are not needed to be used with IoT devices for specified organization-defined user actions.
+Policies and procedures provide the details necessary to implement management and operational controls to support the organizational requirements for determining circumstances when identification and authentication are not needed to be used with IoT devices for specified organization-defined user actions.
 
 **Manufacturer:**
 
@@ -47,8 +47,9 @@ Policies and procedures provide the details necessary to implement management an
 **Agency:**
 
 - Establish policies and procedures describing:
-  - The roles within the agency that can use IoT devices without using authorization.
-  - Situations where IoT devices can be used by anyone, and roles do not need to be defined. For example, a National Park IoT device where visitors are able to ask questions, and then the IoT device provides answers. The identity of the person asking is not collected (a privacy control), but the question itself may be logged/recorded to determine topic interests.
+  - The roles that can use the IoT device without identification and authentication.
+  - Situations where the IoT device can be used by anyone, and roles do not need to be defined. 
+    -Example: a National Park IoT device where visitors are able to ask questions, and then the IoT device provides answers. The identity of the person asking is not collected (a privacy control), but the question itself may be logged/recorded to determine topic interests.
 - Establish policies and procedures describing when certain features can be used for the IoT device without authorization by a role or individual. 
   - For example, using a smart coffee maker in an agency's break room.
   - Include within the policies and/or procedures a description of the compensating controls necessary in such situations, such as the need to be physically present for the use of the IoT device, the requirement to lock the door after normal business hours to the room where the device is located, etc.
