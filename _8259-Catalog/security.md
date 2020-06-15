@@ -67,7 +67,7 @@ Ability to operate securely and safely. Capabilities that may be necessary:
 - Ability to fail in a secure state.
 - Ability to disable operations and/or functionality in the event of security violations.
 - Ability to restrict components/features of the IoT device (e.g., ports, functions, protocols, services, etc.) in accordance with organizationally-defined policies.
-- Ability to sense the environment and interface with various device components.
+- Ability to sense the environment and securely (i.e., preserving confidentiality, integrity, and availability of the device and its data) interface with the environment, either directly or through the IoT system.  Examples include:
   - Emergency shutoff mechanism
   - Emergency lighting mechanism
   - Fire protection mechanism
