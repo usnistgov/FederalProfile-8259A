@@ -10,9 +10,9 @@ permalink: /nontechnical/update/
 
 _See also the [technical counterpart to this section](../_8259-Catalog/update.md)_
 
-The management and operational controls to support secure IOT device software updates. 
+The management and operational controls to support secure IoT device software updates. 
 
-## Policies and procedures to identify, report, and correct IOT device system flaws.
+## Policies and procedures to identify, report, and correct IoT device system flaws.
 
 Policies and procedures provide the details necessary to implement management and operational controls for how to identify, report, and correct IoT device system flaws. Controls that may be necessary:
 
@@ -27,7 +27,7 @@ Policies and procedures provide the details necessary to implement management an
 - Implement policies and procedures for identifying and reporting device flaws to the manufacturer.
 - Follow documented procedures to receive device remediation reports from manufacturers.
 
-## Policies and procedures for incorporating IOT device flaw remediation into the configuration management process.
+## Policies and procedures for incorporating IoT device flaw remediation into the configuration management process.
 
 Policies and procedures provide the details necessary to implement management and operational controls for incorporating IoT device flaw remediation into the organizationally-defined configuration management process. Controls that may be necessary:
 
