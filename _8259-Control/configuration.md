@@ -52,4 +52,4 @@ Backup and recovery policies and procedures detail how to make backups of IoT de
 **Agency:**
 
 - Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
-- Incorporate the procedures for making IoT device backups into the existing set of organizational backup procedures.
+- Incorporate the procedures for including IoT device backups into the existing set of organizational backup procedures.
