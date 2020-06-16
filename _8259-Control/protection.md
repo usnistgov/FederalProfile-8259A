@@ -19,11 +19,11 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide documentation describing the IoT device capabilities for role-based controls, to establish different roles within the IoT device.
+- Provide IoT device customers with documentation describing the IoT device capabilities for role-based controls, to establish different roles within the IoT device.
 
 **Agency:**
 
-- Use the manufacturer documentation to establish policies and procedures for IoT device data security and privacy roles and responsibilities, such as for the roles to authorize IoT devices, audit devices, etc.
+- Use the manufacturer documentation to establish policies and procedures for IoT device data security and privacy organizationally-defined roles and responsibilities. Some examples: Roles to authorize IoT devices, roles to audit IoT devices, etc.
 - Create and provide training to those who will be responsible for using the IoT devices to teach them how to set and change the role-based settings.
 
 ## Policies and procedures for IoT device data integrity.
@@ -32,7 +32,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide information to the IoT device customer for the role/position within the organization that is responsible for determining the security and privacy regulatory requirements with which the IoT device capabilities comply.
+- Provide information to the IoT device customer for the role or position within the organization that is responsible for determining the security and privacy regulatory requirements with which the IoT device capabilities must comply.
 
 **Agency:**
 
@@ -46,12 +46,12 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide documentation describing the data integrity controls built into the IoT device and how to use them.
-- If there are no data integrity controls built into the IoT device, explain ways to achieve IoT device data integrity.
+- Provide the IoT device customers with documentation describing the data integrity controls built into the IoT device and how to use them.
+- If there are no data integrity controls built into the IoT device, explain to IoT device customers the ways to achieve IoT device data integrity.
 
 **Agency:**
 
-- Document the data integrity capabilities for the associated IoT device, such as for validating accuracy of input data, and how to ensure data integrity if this action is not part of the device's technical capabilities.
+- Document the data integrity capabilities for each of the associated IoT devices, such as for validating accuracy of input data, and how to ensure data integrity if this action is not part of the device's technical capabilities.
 
 ## Policies and procedures maintaining IoT device data integrity.
 
@@ -61,12 +61,12 @@ Controls that may be necessary:
 
 **Manufacturer:**
 
-- Provide information to IoT device customers for the trigger events that result in updates to their IoT devices.
+- Provide information to IoT device customers detailing the trigger events that result in updates to their IoT devices.
 - Establish a process to consistently provide communications to their IoT device customers about updates to the IoT devices.
 
 **Agency:**
 
-- Implement a policy and procedure to review and update the current IoT device and associated systems with regard to data integrity at a minimum established organizationally-defined frequency, and following organizationally-defined trigger events.
+- Implement a policy and procedure to review and update the current IoT device and associated systems with regard to data integrity at a minimum-established organizationally-defined frequency, and following organizationally-defined trigger events.
 
 ## Policies and procedures for IoT device data handling and retention.
 
@@ -74,18 +74,18 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide documentation to IoT device users describing how to wipe/delete data from the IoT device.
-- Provide information to IoT device users describing how to protect device data from being accidentally modified.
+- Provide documentation to IoT device customers describing how to wipe/delete data from the IoT device.
+- Provide information to IoT device customers describing how to protect device data from being accidentally modified.
 
 **Agency:**
 
 - Implement policies and procedures establishing the requirements for:
   - Securely handling IoT devices to prevent loss, theft and damage.
-  - Physical access security to the device.
-  - Allowing for removable storage devices to be inserted into the device.  
-  - Securely retaining IoT devices, and associated systems, after they are no longer used, along with associated retention time requirements.
+  - Physical access security to IoT devices.
+  - Allowing for removable storage devices to be inserted into IoT devices.  
+  - Securely retaining IoT devices, and associated systems, after they are no longer used, along with documentation detailing the associated retention time requirements.
   - Securely retaining IoT device data within the associated information systems, and data output from the IoT device, in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements.
-  - Appropriately marking or labeling device hardware to support distribution, handling, or dissemination of the devices throughout the organization. 
-- Implement policies and procedures for secure disposal of IoT device hardware, software and data following expiration of the established retention period.
+  - Appropriately marking or labeling device hardware to support distribution, handling, or dissemination of IoT devices throughout the organization. 
+- Implement policies and procedures for secure disposal of IoT device hardware, software and data following expiration of the established retention periods.
 - Provide training to those responsible for IoT device retention and disposal.
 - Perform periodic audits for the IoT device retention and disposal policies and procedures.
