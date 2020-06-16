@@ -24,8 +24,8 @@ Policies and procedures provide the details necessary to implement management an
 
 **Agency:**
 
-- Implement policies and procedures for identifying and reporting device flaws to the manufacturer.
-- Follow documented procedures to receive device remediation reports from manufacturers.
+- Implement policies and procedures for identifying and reporting IoT device flaws to the manufacturer.
+- Follow documented procedures to receive IoT device remediation reports from manufacturers.
 
 ## Policies and procedures for incorporating IoT device flaw remediation into the configuration management process.
 
@@ -33,30 +33,30 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Communicate to IoT device customers the processes that will be followed to communicate IoT device remediation efforts with stakeholders (IoT device customers, users, etc.).
+- Communicate to the IoT device customers the processes that will be followed to communicate the IoT device remediation efforts with stakeholders (IoT device customers, users, etc.).
 
 **Agency:**
 
 - Implement policies and procedures for receiving and responding to IoT device remediation reports from manufacturers.
-- Implement policies and procedures for incorporating flaw remediation reports from the IoT device manufacturer into the company's configuration management processes.
+- Implement policies and procedures for incorporating flaw remediation reports from IoT device manufacturers into the organizationally-defined configuration management processes.
 
 ## Policies and procedures for software and firmware updates for flaw remediation.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to establish the types of tests necessary for IoT device and related system software and firmware updates, related to flaw remediation, for effectiveness and potential side effects before installation. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to establish the types of tests necessary for IoT device and related system software and firmware updates related to flaw remediation, for effectiveness and potential side effects before installation. Controls that may be necessary:
 
 **Manufacturer:**
 
-- Communicate to IoT device customers and other stakeholders the types of security and privacy tests necessary for IoT devices, software, and firmware before installation.
+- Communicate to IoT device customers and other stakeholders the types of security and privacy tests necessary for the IoT device, software, and firmware before installation.
 
 **Agency:**
 
 - Implement policies and procedures for receiving IoT device, software and firmware test information from manufacturers.
-- Implement policies and procedures for testing for effectiveness and determining potential side effects.
-- Incorporate the manufacturer-recommended tests into organizational configuration and/or change management processes.
+- Implement policies and procedures for testing IoT devices following updates for effectiveness and determining potential side effects.
+- Incorporate IoT device manufacturer-recommended tests into organizationally-defined configuration and/or change management processes.
 
 ## Policies and procedures for security-relevant software and firmware updates.
 
-Policies and procedures provide the details necessary to implement management and operational controls for the installation of IoT device and associated systems security-relevant software and firmware updates within an organizationaly-defined time period from the vendor release of the updates. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for the installation of IoT devices and associated systems security-relevant software and firmware updates within an organizationaly-defined time period from the vendor release of the updates. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -65,5 +65,5 @@ Policies and procedures provide the details necessary to implement management an
 
 **Agency:**
 
-- Implement policies and procedures governing the time period within which manufacturer-supplied updates should be installed.
-- Incorporate these procedures within organizational configuration and/or change management procedures.
+- Implement policies and procedures governing the time period within which IoT device manufacturer-supplied updates should be installed.
+- Incorporate the IoT device update procedures within organizationally-defined configuration and/or change management procedures.
