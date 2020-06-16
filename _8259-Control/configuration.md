@@ -18,8 +18,8 @@ Policies and procedures detail the necessary management and operational controls
 
 **Manufacturer:**
 
-- Provide documentation detailing the minimum configuration settings available within the IoT devices, and how to change those settings, to meet their customers' needs and requirements.
-- Provide a process by which customers can contact the manufacturer to ask questions or obtain help related to the minimum requirements for IoT device configuration settings.
+- Provide documentation detailing the minimum configuration settings available within the IoT device, and how to change those settings, to meet their customers' needs and requirements.
+- Provide a process by which customers can contact the manufacturer to ask questions or obtain help related to the minimum requirements for the IoT device configuration settings.
 
 **Agency:**
 
@@ -28,12 +28,12 @@ Policies and procedures detail the necessary management and operational controls
 
 ## Training is provided to workers covering the IoT device configuration requirements.
 
-Policies and procedures establish the training necessary for individuals responsible for implementing the policies and procedures to establish the minimum requirements for IoT device configuration settings. Controls that may be necessary:
+Policies and procedures establish the training necessary for individuals responsible for implementing the policies and procedures for the minimum required IoT device configuration settings. Controls that may be necessary:
 
 **Manufacturer:**
 
-- Provide documentation to IoT device customers explaining how to configure the devices, and related actions to take with the devices.
-- Provide training (e.g., in person, online webinar, video, etc.) to IoT device customers to teach them how to configure the devices, and perform related actions.
+- Provide documentation to the IoT device customers explaining how to configure the devices, and related actions to take with the devices.
+- Provide training (e.g., in person, online webinar, video, etc.) to the IoT device customers to teach them how to configure the devices, and perform related actions.
 
 **Agency:**
 
@@ -42,7 +42,7 @@ Policies and procedures establish the training necessary for individuals respons
 
 ## Data on approved IoT devices are backed up according to established IoT device backup and recovery policies and procedures.
 
-Backup and recovery policies and procedures detail how to make backups of IoT device data, and software as applicable. Controls that may be necessary:
+Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -51,5 +51,5 @@ Backup and recovery policies and procedures detail how to make backups of IoT de
 
 **Agency:**
 
-- Incorporate the requirements for creating IoT backups into the existing computing and storage device backup policies.
-- Incorporate the procedures for making IoT device backups into the existing set of backup procedures.
+- Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
+- Incorporate the procedures for making IoT device backups into the existing set of organizational backup procedures.
