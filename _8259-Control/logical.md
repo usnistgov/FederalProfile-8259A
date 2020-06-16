@@ -19,9 +19,9 @@ Policies and procedures provide the details necessary to implement management an
 **Manufacturer:**
 
 - Provide information to the IoT device customer describing the needs the manufacturer will have to access the IoT device interfaces for support, updates, ongoing maintenance, etc.
-- Provide documentation to the IoT device customers describing any requirements for the manufacturer to collect data from the IoT device.
-- Provide documentation with instructions for the IoT device users to following describing how to restrict interface connections that enable specific activities.
-- Provide descriptions of the types of access to the IoT device the manufacturer will require on an ongoing or regular basis prior to purchase and/or implementation.
+- Provide documentation to the IoT device customer describing any requirements for the manufacturer to collect data from the IoT device.
+- Provide documentation with instructions for the IoT device customer to follow describing how to restrict interface connections that enable specific activities.
+- Prior to purchase and/or implementation provide descriptions of the types of access to the IoT device the manufacturer will require on an ongoing or regular basis.
   - Some examples: medical devices, smart refrigerators, HVAC devices, IoT device maintenance data, etc.
 
 **Agency:**
@@ -104,7 +104,7 @@ Policies and procedures provide the details necessary to implement management an
   - Describing the risk evaluation requirements and practices for requested IoT devices, and descriptions for how risk levels will be established for the level of risk the device brings into the system. 
     - NOTE: Often the IoT devices will be used within large systems built for the government, so the interface to the IoT device within the system will need to be used based on the risk levels within the system, and for the risk the IoT device presents to the system.
   - Detailing the documentation requirements for third-party disclosure of IoT device use and data from the manufacturer, and the required types of security and privacy reviews of those disclosures and the related manufacturer documentation to collect that describe those disclosures, that must be performed by each agency.
-  - Detailing the acceptable and unacceptable types of contractors (based upon related risk factors such as data use, location of the contractors, etc.), and the acceptable and unacceptable types of data sent out from the device, Some examples: personal data, intellectual property, data impacting homeland security, etc..
+  - Detailing the acceptable and unacceptable types of contractors (based upon related risk factors such as data use, location of the contractors, etc.), and the acceptable and unacceptable types of data sent out from the device. Some examples: personal data, intellectual property, data impacting homeland security, etc.
   - Detailing any requirements for IoT device manufacturers to ensure they are using FedRamp-approved cloud service providers for their back-end cloud service platforms.
   - Details for working with IoT device manufacturers on possible modification of IoT device interface capabilities for the agency considering use of the manufacturer's IoT device.
   - Details for implementing compensating controls for IoT devices used that do not have IoT device manufacturer support for IoT device interface software, firmware or hardware.
