@@ -14,8 +14,7 @@ The management and operational controls to support device identity capabilities 
 
 ## Policies and procedures for implementing only products in the NIST-approved products list.
 
-Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the 
-Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or apprpriate management approval. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or apprpriate management approval. Controls that may be necessary:
 
 **Manufacturer:**
 
