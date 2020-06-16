@@ -25,7 +25,7 @@ Policies and procedures provide the details necessary to implement management an
 
 - Implement policies and procedures requiring IoT devices, and associated systems, to have malicious code protection mechanisms integrated into IoT devices and related systems entry and exit points that can detect and eradicate malicious code.
 - Follow procedures to use IoT device anti--malware tools based upon the types of malware possible to be loaded onto each associated IoT device.
-- Establish, or assign to existing, roles within the organization responsibilities for ensuring anti-malware is implemented appropriately within IoT devices used within the organizational aystems.
+- Establish, or assign to existing, roles within the organization responsibilities for ensuring anti-malware is implemented appropriately within IoT devices used within the organizational systems.
 
 ## Policies and procedures govern malicious code protection updates. 
 
@@ -57,7 +57,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Agency:**
 
-Implement policies and procedures to govern how to configure malicious code protection mechanisms in IoT devices and related systems  to:
+Implement policies and procedures to govern how to configure malicious code protection mechanisms in IoT devices and related systems to:
 - Perform periodic scans of the IoT devices and associated systems on an ongoing basis.
 - Perform real-time scans of files from external sources at IoT device interfaces, and associated systems entry/exit points, as the files are downloaded, opened, or executed in accordance with organizational security policies.
 - Block and/or quarantine malicious code and send an alert to the organization administrator, as well as shutting down the IoT device if appropriate, in response to malicious code detection.
@@ -93,7 +93,6 @@ Policies and procedures provide the details necessary to implement management an
 **Agency:**
 
 - Establish or assign to existing roles within the organization responsibilities for monitoring access to IoT devices and associated systems, identifying suspicious and malicious access, and for reacting appropriately.
-
 - Establish policies and procedures to monitor IoT devices and associated systems to detect:
   - Attacks and indicators of potential attacks in accordance with organizationally-defined monitoring policies and objectives.
   - Unauthorized local, network, and remote IoT device, and associated systems, connections.
