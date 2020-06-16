@@ -27,9 +27,9 @@ Policies and procedures provide the details necessary to implement management an
 - Communicate these procedures and requirements to the device manufacturer before device purchase. For example, the manufacturer must use unique IDs/passwords for each of their clients, and for each of their workers, etc. 
 - Integrate these approval and monitoring procedures with the existing organizational procurement and monitoring activities.
 
-## Policies and procedures for removing all data from IOT devices prior to maintenance and repairs.
+## Policies and procedures for removing all data from IoT devices prior to maintenance and repairs.
 
-Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IOT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -41,9 +41,9 @@ Policies and procedures provide the details necessary to implement management an
 - Implement policies and procedures governing the timeframes within which data must be removed from IoT devices prior to being removed from organizational facilities.
 - Implement procedures to follow to remove all data from IoT devices
 
-## Policies and procedures maintaining records for nonlocal IOT device maintenance and diagnostic activities.
+## Policies and procedures maintaining records for nonlocal IoT device maintenance and diagnostic activities.
 
-Policies and procedures provide the details necessary to implement management and operational controls for maintaining records for nonlocal IOT device maintenance and diagnostic activities. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for maintaining records for nonlocal IoT device maintenance and diagnostic activities. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -57,26 +57,26 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for required maintenance personnel documentation.
 
-Policies and procedures provide the details necessary to implement management and operational controls for IOT device maintenance personnel authorization, record-keeping of maintenance organizations and personnel. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for IoT device maintenance personnel authorization, record-keeping of maintenance organizations and personnel. Controls that may be necessary:
 
 **Manufacturer:**
 
-- Provide clear communications to customers before IOT device purchase describing the type and nature of the local and/or remote maintenance activities that will involve and require manufacturer personnel, or their contractors, once the device is purchased and deployed in the organization.
+- Before the IoT device purchase provide clear communications to customers describing the type and nature of the local and/or remote maintenance activities that will involve and require manufacturer personnel, or their contractors, once the device is purchased and deployed in the organization.
 
 **Agency:**
 
 - Implement policies and procedures governing IoT device maintenance personnel authorization and record keeping of maintenance.
 - Communicate personnel authorization requirements, any necessary restrictions of personnel, and maintenance record keeping requirements to the manufacturer, and any contracted organizations they use, who will be performing IoT device maintenance.
 
-## Policies and procedures for IOT device maintenance assigned personnel or roles.
+## Policies and procedures for IoT device maintenance assigned personnel or roles.
 
 Policies and procedures provide the details necessary to implement management and operational controls to govern IoT device maintenance for assigned organizationally-defined personnel or roles to follow. Controls that may be necessary:
 
 **Manufacturer:**
 
-- Before IoT device purchase clearly indicate through documented statements to customers the type and nature of the local and/or remote maintenance activities required once the device is purchased and deployed in the organization.
+- Before the IoT device purchase clearly indicate through documented statements to customers the type and nature of the local and/or remote maintenance activities required once the device is purchased and deployed in the organization.
 - Provide documented descriptions of the specific maintenance procedures for defined maintenance tasks.
-- Provide training materials to IOT device customers to ensure they understand the requirements for specified maintenance procedures.
+- Provide training materials to IoT device customers to ensure they understand the requirements for specified maintenance procedures.
 
 **Agency:**
 
@@ -90,7 +90,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide documentation describing suggested frequency of system review and maintenance activities for IoT devices.
+- Before the IoT device purchase provide customers with the documentation describing suggested frequency of system review and maintenance activities for IoT devices.
 - Communicate to IoT device customers the events that will trigger IoT device system review and maintenance.
 
 **Agency:**
@@ -98,7 +98,7 @@ Policies and procedures provide the details necessary to implement management an
 - Implement policies for required IoT device systems review and maintenance according to organizationally-defined frequencies.
 - Implement policies for required IoT device systems review and maintenance according to established trigger events defined by the manufacturer.
 
-## Policies and procedures govern using only approved IOT device diagnostic tools.
+## Policies and procedures govern using only approved IoT device diagnostic tools.
 
 Policies and procedures provide the details necessary to implement management and operational controls for using only organizationally-approved IoT device diagnostic tools. Controls that may be necessary:
 
@@ -117,32 +117,32 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Before IoT device purchase clearly indicate to customers the type and nature of the local and/or remote maintenance activities required once the device is purchased and deployed in the organization
+- Before the IoT device purchase clearly indicate to customers the type and nature of the local and/or remote maintenance activities required once the device is purchased and deployed in the organization
 
 **Agency:**
 
-- Implement policies governing the access authorizations required to perform both unescorted and escorted device maintenance activities.
-- Develop procedures for personnel to perform both unescorted and escorted device maintenance activities.
+- Implement policies governing the access authorizations required to perform both unescorted and escorted IoT device maintenance activities.
+- Develop procedures for personnel to perform both unescorted and escorted IoT device maintenance activities.
 
 ## Policies and procedures for capabilitiies necessary for IoT device acquisitions.
 
-Policies and procedures provide the details necessary to implement management and operational controls for the acquisition of IOT devices, systems and services by assigned organizationally-defined personnel or roles who will ensure required device capabilities (compliance and implementation controls, etc.) exist for devices being considered for purchase.  Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for the acquisition of IoT devices, systems and services by assigned organizationally-defined personnel or roles who will ensure required device capabilities (compliance and implementation controls, etc.) exist for devices being considered for purchase.  Controls that may be necessary:
 
 **Manufacturer:**
 
-- Provide documentation to potential customers that clearly indicate device security and privacy capabilities and limitations.
+- Provide documentation to potential customers that clearly indicate the IoT device security and privacy capabilities and limitations.
 
 **Agency:**
 
 - Implement policies governing IoT device, systems, and services acquisition. 
 - Acquisition policies should include descriptions of required device capabilities, and address the limitations that should be considered in acquisition decisions.
 
-## Policies and procedures for review and update of IOT device, systems and services acquisition practices.
+## Policies and procedures for review and update of IoT device, systems and services acquisition practices.
 
 Policies and procedures provide the details necessary to implement management and operational controls for the review and update of organizational IoT device, systems and services acquisition practices. Controls that may be necessary:
 
 **Manufacturer:** 
-- Provide necessary information to inform the review and update of IoT device systems, and services acquisition practices by agencies.
+- Provide necessary information to inform the review and update of the IoT device systems, and services acquisition practices by agencies.
 
 **Agency:**
 
@@ -150,7 +150,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for determining IoT device security requirements as part of the organizational mission/business process planning.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how management roles determine the information security requirements for the IoT device(s) as part of the organizational mission/business process planning. Followed by determining, documenting, and allocating the resources necessary to protect the associated information system to support the organization's capital planning and investment control process. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how management roles determine the information security requirements for the IoT device(s) as part of the organizational mission/business process planning. Followed by determining, documenting, and allocating the resources necessary to protect the associated information system to support the organization's capital planning and investment control (CPIC) process. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -160,7 +160,7 @@ Policies and procedures provide the details necessary to implement management an
 **Agency:**
 
 - Determine the information security requirements of prospective IoT devices.
-- Follow organizational CPIC processes to allocate sufficient resources to obtain, maintain, and protect the acquired IoT device.
+- Follow organizational capital planning and investment control (CPIC) processes to allocate sufficient resources to obtain, maintain, and protect the acquired IoT device.
 - Update applicable existing policies and procedures as necessary to describe the requirements.
 
 ## Policies and procedures for establishing a discrete line item for IoT device information security within the organizational programming and budgeting documentation.
@@ -174,15 +174,15 @@ Policies and procedures provide the details necessary to implement management an
 **Agency:**
 
 - Establish expected information security costs for the IoT device.
-- Establish separate line items for IOT device information security within the organizational programming and budgeting documentation.
+- Establish separate line items for IoT device information security within the organizational programming and budgeting documentation.
 
-## Policies and procedures provide the details necessary to implement management and operational controls for IOT device security. 
+## Policies and procedures provide the details necessary to implement management and operational controls for IoT device security. 
 
-Policies and procedures govern IOT device security functional requirements, security strength requirements, security assurance requirements, security-related documentation requirements, requirements for protecting security-related documentation, description of the information system development environment and environment in which the IOT device and associated system is intended to operate, and acceptance criteria in the acquisition contracts for every IOT device system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs. Controls that may be necessary:
+Policies and procedures govern IoT device security functional requirements, security strength requirements, security assurance requirements, security-related documentation requirements, requirements for protecting security-related documentation, description of the information system development environment and environment in which the IoT device and associated system is intended to operate, and acceptance criteria in the acquisition contracts for every IoT device system, system component, or information system service in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs. Controls that may be necessary:
 
 **Manufacturer:**
 
-- Provide IoT device customers with information about theIoT device security capabilities, security strength capabilities, and security assurance capabilities.
+- Provide IoT device customers with information about the IoT device security capabilities, security strength capabilities, and security assurance capabilities.
 
 **Agency:**
 
@@ -191,11 +191,11 @@ Policies and procedures govern IOT device security functional requirements, secu
   - Policies and procedures detailing the security-related documentation requirements.
   - Policies and procedures detailing the requirements for protecting security-related documentation.
   - Policies and procedures detailing the description of the information system development environment and environment in which the IoT device and associated system is intended to operate.
-  - Policies and procedures detailing the acceptance criteria in the acquisition contracts for every IoT device system, system component, and information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs.
+  - Policies and procedures detailing the acceptance criteria in the acquisition contracts for every IoT device system, system component, and information system service in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs.
 
 ## Policies and Procedures for IoT device management system development life cycle.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how the organization manages the IoT information system ecosystem using the organizationally-defined system development life cycle's associated information security considerations, the individuals with assigned IoT device information security roles and responsibilities, and integrates the organizational information security risk management process. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for 1) how the organization manages the IoT information system ecosystem using the organizationally-defined system development life cycle's associated information security considerations, 2) the individuals with assigned IoT device information security roles and responsibilities, and 3) integrating the organizational information security risk management process. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -220,7 +220,7 @@ Policies and procedures provide the details necessary to implement management an
   - Secure configuration, installation, and operation of the IoT device.
   - Effective use and maintenance of IoT device security functions and mechanisms.
   - Known vulnerabilities regarding the IoT device configuration and use of administrative (i.e., privileged) functions.
-  - IOT device user-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;
+  - IoT device user-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms.
   - Methods for user interaction with the IoT device, to enable individuals to use the IoT device and any associated systems and services in a more secure manner.
   - User responsibilities in maintaining the security of the IoT device.
 
@@ -238,7 +238,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for IoT device manufacturers to comply with information security requirements and the organizationally-defined security controls.
 
-Policies and procedures provide the details necessary to implement management and operational controls for IoT device and associated systems providers to comply with organizational information security requirements and the organizationally-defined security controls in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for IoT device and associated systems providers to comply with organizational information security requirements and the organizationally-defined security controls in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and guidance. Controls that may be necessary:
 
 **Manufacturer:**
 
@@ -250,7 +250,7 @@ Policies and procedures provide the details necessary to implement management an
 - Comply with organizational risk assessment policies and procedures to support secure configuration of IoT devices when integrating them into the larger information system.
 - Verify the IoT device configurations of the device and its interactions with the organizational information system before integrating the device into the information system.
 
-## Policies and procedures requiring device manufacturers to provide documented specifications for performing IOT device maintenance and repairs.
+## Policies and procedures requiring device manufacturers to provide documented specifications for performing IoT device maintenance and repairs.
 
 Policies and procedures provide the details necessary to implement management and operational controls for to require IoT device manufacturers to provide documented specifications for performing IoT device maintenance and repairs for organizations to use to schedule and perform maintenance and repairs. Controls that may be necessary:
 
@@ -309,7 +309,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide IoT device customers with the means (tools, assistance, instructions, etc.) for the IOT device to support audit and log maintenance and repairs operations.
+- Provide IoT device customers with the means (tools, assistance, instructions, etc.) for the IoT device to support audit and log maintenance and repairs operations.
 
 **Agency:**
 
@@ -322,7 +322,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide appropriate means (tools, assistance, instructions, etc.) for the IoT device to be monitored and/or to report actions to a monitoring service. This could be included in their logging and auditing procedures.
+- Provide appropriate means (tools, assistance, instructions, etc.) for the IoT device to be monitored and/or to report actions to a monitoring service. This could be included in the IoT device logging and auditing procedures.
 - Establish a process to take feedback from IoT device customers about whether IoT device logging is sufficient for customers to follow security control compliance procedures required by external service providers.
 - Describe how the IoT device meets legal requirements, for the activities of the organizations to whom they outsource activities to support the IoT devices and their IoT device customers through contractual requirements, remote monitoring, and other means.
 - Provide auditing and monitoring requirements to the IoT device manufacturer's external service providers that outline and/or describe their responsibilities, the oversight that will be performed, and other relevant information.
@@ -332,5 +332,5 @@ Policies and procedures provide the details necessary to implement management an
 - Implement procedures to ensure the IoT device users properly implement security controls in compliance with procedures required by external service providers.
 - Follow procedures to communicate with IoT device manufacturers when the IoT device is not capable of following these compliance procedures, describing the deficiencies and the actions necessary to meet compliance, along with the effect of non-compliance within the associated information system.
 - Ensure proper language is within IoT device manufacturer contracts, and their external service providers, describing how they will monitor compliance, perform audits, etc., as appropriate to the IoT device and control.
-- Provide a clear description of the legal compliance requirements to the IoT device manufacturer detailing the compliance needs that must be fulfilled by the IOT device manufacturer to meet all associated compliance requirements, as appropriate to the IoT device and controls.
+- Provide a clear description of the legal compliance requirements to the IoT device manufacturer detailing the compliance needs that must be fulfilled by the IoT device manufacturer to meet all associated compliance requirements, as appropriate to the IoT device and controls.
 - Follow procedures to consistently ensure appropriate security and privacy controls language is included within contracts with IoT device manufacturers and service providers.
