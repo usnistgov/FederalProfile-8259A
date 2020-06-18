@@ -101,3 +101,17 @@ Backup and recovery policies and procedures detail how to make backups of IoT de
 
 - Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
 - Incorporate the procedures for including IoT device backups into the existing set of organizational backup procedures.
+
+## Policies and procedures for removing all data from IoT devices prior to maintenance and repairs.
+
+Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provide information about how to use the IoT device capabilities to remove all data from the device.
+- Provide clear communications about the IoT device these capabilities and procedures to customers.
+
+**Agency:**
+
+- Implement policies and procedures governing the timeframes within which data must be removed from IoT devices prior to being removed from organizational facilities.
+- Implement procedures to follow to remove all data from IoT devices
