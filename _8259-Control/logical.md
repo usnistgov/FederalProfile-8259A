@@ -149,3 +149,22 @@ Policies and procedures establish the capabilities necessary to support required
   - Organizationally-defined roles that require a second factor for authentication, and defining situations when a second factor must be a PIV or a PIV-derived credential.
   - Descriptions of the available logical and remote interface access controls for second factor authentication from IoT device manufacturers that must be reviewed by specified organizationally-defined agency roles.
   - Descriptions of the compensating controls to use if PIV card readers or use of a PIV-derived credential is not possible.
+
+## Policies and procedures for implementing only products in the NIST-approved products list.
+
+Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or appropriate management approval. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provides documentation describing how the IoT device can technically support PIV card implementation, accessibility and interfaces.
+- If the IoT device cannot support PIV cards, they provide information with suggested ways in which customers can implement compensating controls around the IoT device.
+- Provides training videos showing how to configure the IoT device to technically support PIV implementation, accessibility and interfaces.
+- Provides instructions for how to integrate the IoT device with a PIV system. Or, provides some type of attestation that their IoT device can be used in compliance with Federal agency requirements, with associated descriptions for how the agency can accomplish this.
+
+**Agency:**
+
+- Policies and procedures provide the requirements for how to use IoT devices
+  - That have PIV card support provided by the manufacturer.
+  - That do not have PIV card support by the manufacturer.
+- Training provides the information to roles responsible for implementing IoT devices that need to support PIV capabilities.
+- Establish processes to communicate with IoT device manufacturer about any problems or to ask any questions about IoT devices and related support of PIV cards.

@@ -39,17 +39,3 @@ Policies and procedures establish the training necessary for individuals respons
 
 - Establish policies and procedures for providing training to the roles responsible for configuring IoT devices.
 - Ensure the personnel responsible for configuring the IoT devices are provided with training covering how to appropriately configure the devices.
-
-## Data on approved IoT devices are backed up according to established IoT device backup and recovery policies and procedures.
-
-Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Controls that may be necessary:
-
-**Manufacturer:**
-
-- Provide instructions describing how to backup up data on the IoT device.
-- Communicate and demonstrate (e.g., directly in person, in videos, in an online webinar) how to backup up the IoT device.
-
-**Agency:**
-
-- Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
-- Incorporate the procedures for including IoT device backups into the existing set of organizational backup procedures.

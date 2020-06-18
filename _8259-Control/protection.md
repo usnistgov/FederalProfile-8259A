@@ -53,20 +53,18 @@ Policies and procedures provide the details necessary to implement management an
 
 - Document the data integrity capabilities for each of the associated IoT devices, such as for validating accuracy of input data, and how to ensure data integrity if this action is not part of the device's technical capabilities.
 
-## Policies and procedures maintaining IoT device data integrity.
+## Policies and procedures for maintaining IoT device data integrity during software modifications.
 
-Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems with respect to data integrity. 
-- Example: Establish organizationally-defined minimum update frequencies, and respond to organizationally-defined update trigger events. 
-Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems while preserving data integrity. Controls that may be necessary:
 
 **Manufacturer:**
 
 - Provide information to IoT device customers detailing the trigger events that result in updates to their IoT devices.
-- Establish a process to consistently provide communications to their IoT device customers about updates to the IoT devices.
+- Establish a process to consistently provide communications about updates and possible impacts to data integrity (e.g., alerting users if an update will delete data) to their IoT device.
 
 **Agency:**
 
-- Implement a policy and procedure to review and update the current IoT device and associated systems with regard to data integrity at a minimum-established organizationally-defined frequency, and following organizationally-defined trigger events.
+- Implement a policy and procedure to review and update the current IoT device and associated systems at a minimum-established organizationally-defined frequency, and following organizationally-defined trigger events while preserving data integrity.
 
 ## Policies and procedures for IoT device data handling and retention.
 
@@ -89,3 +87,31 @@ Policies and procedures provide the details necessary to implement management an
 - Implement policies and procedures for secure disposal of IoT device hardware, software and data following expiration of the established retention periods.
 - Provide training to those responsible for IoT device retention and disposal.
 - Perform periodic audits for the IoT device retention and disposal policies and procedures.
+
+## Policies and procedures establishing IoT data backup.
+
+Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provide instructions describing how to backup data on the IoT device.
+- Communicate and demonstrate (e.g., directly in person, in videos, in an online webinar) how to backup up the IoT device.
+
+**Agency:**
+
+- Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
+- Incorporate the procedures for including IoT device backups into the existing set of organizational backup procedures.
+
+## Policies and procedures for removing all data from IoT devices prior to maintenance and repairs.
+
+Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provide information about how to use the IoT device capabilities to remove all data from the device.
+- Provide clear communications about the IoT device these capabilities and procedures to customers.
+
+**Agency:**
+
+- Implement policies and procedures governing the timeframes within which data must be removed from IoT devices prior to being removed from organizational facilities.
+- Implement procedures to follow to remove all data from IoT devices

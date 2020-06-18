@@ -126,7 +126,7 @@ Policies and procedures provide the details necessary to implement management an
   - In information systems where IoT devices are used.
 - Implement policies and procedures to govern how to deploy monitoring of IoT devices and associated systems in ad hoc locations to track specific types of transactions of interest to the organization.
 
-## Policies and procedures for protecting information from unauthorized access, modification, and deletion.
+## Policies and procedures for protecting cybersecurity event information from unauthorized access, modification, and deletion.
 
 Policies and procedures provide the details necessary to implement management and operational controls for protecting information obtained from IoT devices, and associated systems and intrusion-monitoring tools, from unauthorized access, modification, and deletion. Controls that may be necessary:
 
