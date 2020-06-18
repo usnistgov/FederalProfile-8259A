@@ -89,3 +89,17 @@ Policies and procedures provide the details necessary to implement management an
 - Implement policies and procedures for secure disposal of IoT device hardware, software and data following expiration of the established retention periods.
 - Provide training to those responsible for IoT device retention and disposal.
 - Perform periodic audits for the IoT device retention and disposal policies and procedures.
+
+## Policies and procedures establishing IoT data backup.
+
+Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provide instructions describing how to backup data on the IoT device.
+- Communicate and demonstrate (e.g., directly in person, in videos, in an online webinar) how to backup up the IoT device.
+
+**Agency:**
+
+- Incorporate the requirements for creating IoT device backups into the existing organizational computing and storage device backup policies.
+- Incorporate the procedures for including IoT device backups into the existing set of organizational backup procedures.
