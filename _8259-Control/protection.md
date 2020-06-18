@@ -53,20 +53,18 @@ Policies and procedures provide the details necessary to implement management an
 
 - Document the data integrity capabilities for each of the associated IoT devices, such as for validating accuracy of input data, and how to ensure data integrity if this action is not part of the device's technical capabilities.
 
-## Policies and procedures maintaining IoT device data integrity.
+## Policies and procedures for maintaining IoT device data integrity during software modifications.
 
-Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems with respect to data integrity. 
-- Example: Establish organizationally-defined minimum update frequencies, and respond to organizationally-defined update trigger events. 
-Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems while preserving data integrity. Controls that may be necessary:
 
 **Manufacturer:**
 
 - Provide information to IoT device customers detailing the trigger events that result in updates to their IoT devices.
-- Establish a process to consistently provide communications to their IoT device customers about updates to the IoT devices.
+- Establish a process to consistently provide communications about updates and possible impacts to data integrity (e.g., alerting users if an update will delete data) to their IoT device.
 
 **Agency:**
 
-- Implement a policy and procedure to review and update the current IoT device and associated systems with regard to data integrity at a minimum-established organizationally-defined frequency, and following organizationally-defined trigger events.
+- Implement a policy and procedure to review and update the current IoT device and associated systems at a minimum-established organizationally-defined frequency, and following organizationally-defined trigger events while preserving data integrity.
 
 ## Policies and procedures for IoT device data handling and retention.
 
