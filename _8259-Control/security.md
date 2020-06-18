@@ -27,20 +27,6 @@ Policies and procedures provide the details necessary to implement management an
 - Communicate these procedures and requirements to the device manufacturer before device purchase. For example, the manufacturer must use unique IDs/passwords for each of their clients, and for each of their workers, etc. 
 - Integrate these approval and monitoring procedures with the existing organizational procurement and monitoring activities.
 
-## Policies and procedures for removing all data from IoT devices prior to maintenance and repairs.
-
-Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
-
-**Manufacturer:**
-
-- Provide information about how to use the IoT device capabilities to remove all data from the device.
-- Provide clear communications about the IoT device these capabilities and procedures to customers.
-
-**Agency:**
-
-- Implement policies and procedures governing the timeframes within which data must be removed from IoT devices prior to being removed from organizational facilities.
-- Implement procedures to follow to remove all data from IoT devices
-
 ## Policies and procedures maintaining records for nonlocal IoT device maintenance and diagnostic activities.
 
 Policies and procedures provide the details necessary to implement management and operational controls for maintaining records for nonlocal IoT device maintenance and diagnostic activities. Controls that may be necessary:
