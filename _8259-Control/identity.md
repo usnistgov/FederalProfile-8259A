@@ -12,25 +12,6 @@ _See also the [technical counterpart to this section](../_8259-Catalog/identity.
 
 The management and operational controls to support device identity capabilities to configure and use the IoT device according to the requirements established by the organization.
 
-## Policies and procedures for implementing only products in the NIST-approved products list.
-
-Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or appropriate management approval. Controls that may be necessary:
-
-**Manufacturer:**
-
-- Provides documentation describing how the IoT device can technically support PIV card implementation, accessibility and interfaces.
-- If the IoT device cannot support PIV cards, they provide information with suggested ways in which customers can implement compensating controls around the IoT device.
-- Provides training videos showing how to configure the IoT device to technically support PIV implementation, accessibility and interfaces.
-- Provides instructions for how to integrate the IoT device with a PIV system. Or, provides some type of attestation that their IoT device can be used in compliance with Federal agency requirements, with associated descriptions for how the agency can accomplish this.
-
-**Agency:**
-
-- Policies and procedures provide the requirements for how to use IoT devices
-  - That have PIV card support provided by the manufacturer.
-  - That do not have PIV card support by the manufacturer.
-- Training provides the information to roles responsible for implementing IoT devices that need to support PIV capabilities.
-- Establish processes to communicate with IoT device manufacturer about any problems or to ask any questions about IoT devices and related support of PIV cards.
-
 ## Policies and procedures requiring unique identification for each IoT device.
 
 Policies and procedures provide the details necessary to implement management and operational controls for required unique identification for each IoT device associated with the system and critical system components within which it is used. Controls that may be necessary:
