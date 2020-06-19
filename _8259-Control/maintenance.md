@@ -28,6 +28,7 @@ Policies and procedures provide the details necessary to implement management an
 Policies and procedures provide the details necessary to implement management and operational controls for the review and update of organizational IoT device, systems and services acquisition practices. Controls that may be necessary:
 
 **Manufacturer:** 
+
 - Provide necessary information to inform the review and update of the IoT device systems, and services acquisition practices by agencies.
 
 **Agency:**
