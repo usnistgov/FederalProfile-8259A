@@ -9,6 +9,7 @@ permalink: /technical/event/
 # Cybersecurity Event Awareness
 
 _See also the [non-technical counterpart to this section](../_8259-Control/event.md)_
+{:latex-ignore="true"}
 
 ## Access to Event Information
 

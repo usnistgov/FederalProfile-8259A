@@ -9,6 +9,7 @@ permalink: /nontechnical/update/
 # Software and Firmware Update
 
 _See also the [technical counterpart to this section](../_8259-Catalog/update.md)_
+{:latex-ignore="true"}
 
 The management and operational controls to support secure IoT device software updates. 
 

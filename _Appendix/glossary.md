@@ -8,12 +8,12 @@ permalink: /glossary/
 
 # Appendix Glossary of Terms, Acronyms, and Notations
 
-_This appendix is informative._ It describes the vocabulary and textual representations used in the document.
+This appendix describes the vocabulary and textual representations used in the document.
 
 
 ## Notations
 
-This Standard uses the following typographical conventions in text:
+This document uses the following typographical conventions in text:
 
 - ASN.1 data types are represented in a `monospaced font`. For example, `SignedData` and `SignerInfo` are data types
     defined for digital signatures.

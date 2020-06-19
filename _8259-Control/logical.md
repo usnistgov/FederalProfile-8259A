@@ -9,6 +9,7 @@ permalink: /nontechnical/logical/
 # Logical Access to Interfaces
 
 _See also the [technical counterpart to this section](../_8259-Catalog/logical.md)_
+{:latex-ignore="true"}
 
 The management and operational controls to support secure IoT device interface capabilities according to the requirements established by the organization.
 

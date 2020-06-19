@@ -7,9 +7,9 @@ permalink: /nontechnical/
 ---
 
 
-**IOT Non-Technical Security and Privacy Controls**
+# IOT Non-Technical Security and Privacy Controls
 
-# Non-technical security and privacy controls include such actions and things as:
+**Non-technical security and privacy controls include such actions and things as:**
 
 - Administrative
   - Policies, procedures and standards for the full range of information security and privacy domains
@@ -22,7 +22,6 @@ permalink: /nontechnical/
   - Emergency mode operations
   - Systems and applications development lifecycles (including testing, revision, change controls, etc.)
   - Vendor management
-  -
 - Physical
   - Facility access controls
   - Contingency operations (allowing for access to facilities, devices, etc., as part of disaster recovery and emergency mode operations)
@@ -34,7 +33,6 @@ permalink: /nontechnical/
   - Media re-use
   - Accountability for hardware and software movements, use, etc.
   - Data backup storage
-  -
 
 These types of non-technical security and privacy controls and activities should be considered for the use of IOT devices within organizational systems.
 
