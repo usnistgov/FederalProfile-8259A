@@ -14,6 +14,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/secur
 ## Secure Execution 
 
 Ability to protect the execution of code on the device. Capabilities that may be necessary:
+
 - Ability to enforce organizationally-defined execution policies.
   - Ability to execute code in confined virtual environments.
   - Ability to separate IoT device processes into separate execution domains.
@@ -23,6 +24,7 @@ Ability to protect the execution of code on the device. Capabilities that may be
 ## Secure Communication 
 
 Ability to securely initiate and terminate communications with other devices.  Capabilities that may be necessary:
+
 - Ability to enforce traffic flow policies.
 - Ability to utilize standardized protocols.
 - Ability to establish network connections.
@@ -32,11 +34,12 @@ Ability to securely initiate and terminate communications with other devices.  C
 - Ability to secure the communication paths.
 - Ability to interface with DNS/DNSSEC.
 - Ability to store and process session identifiers.
-- Ability to identify and track sessions with identifiers
+- Ability to identify and track sessions with identifiers.
 
 ## Secure Resource Usage 
 
 Ability to securely utilize system resources and memory. Capabilities that may be necessary:
+
 - Ability to support shared system resources.
   - Ability to release resources back to the system.
   - Ability to separate user and process resources use.
@@ -50,14 +53,16 @@ Ability to securely utilize system resources and memory. Capabilities that may b
 ## Device Integrity 
 
 Ability to protect against unauthorized changes to hardware and software. Capabilities that may be necessary:
+
 - Ability to perform security compliance checks on system components.
-- Ability to detect unauthorized hardware and software components. 
+- Ability to detect unauthorized hardware and software components.
 - Ability to take organizationally-defined actions when unauthorized hardware and software components are detected (e.g., disallow a flash drive to be connected even if a USB port is present).
 - Ability to store the operating environment (e.g., firmware image, software, applications) in read-only media (e.g., Read Only Memory).
 
 ## Secure Device Operation
 
-Ability to operate securely and safely. Capabilities that may be necessary: 
+Ability to operate securely and safely. Capabilities that may be necessary:
+
 - Ability to keep an accurate internal system time.
 - Ability to define various operational states.
 - Ability to support various modes of IoT device operation with more restrictive operational states.
