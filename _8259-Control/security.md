@@ -9,6 +9,7 @@ permalink: /nontechnical/security/
 # Device Security
 
 _See also the [technical counterpart to this section](../_8259-Catalog/security.md)_
+{:latex-ignore="true"}
 
 The management and operational controls to support IoT device security. 
 

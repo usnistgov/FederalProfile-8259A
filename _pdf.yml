@@ -1,12 +1,16 @@
 pdf:
   - basedir: ""
-    filename: 8259-Catalog
+    filename: 8259A-Federal-Profile-Technical
     template: _pdftemplate/template.tex
     workdir: _pdf
     graphics: 
       - _8259-Catalog/images/
       - _pdftemplate/images/
     sections:
+        - name: cover
+          template: _pdftemplate/cover.tex
+        - name: toc
+          template: _pdftemplate/toc.tex
         - name: body
           parts:
               - _8259-Catalog/identity.md
@@ -17,31 +21,33 @@ pdf:
               - _8259-Catalog/event.md
               - _8259-Catalog/security.md
           part_template: _pdftemplate/sectionpart.tex
-          section_template: _pdftemplate/section.tex
+          template: _pdftemplate/body.tex
         - name: appendix
           parts:
               - _Appendix/glossary.md
               - _Appendix/references.md
           part_template: _pdftemplate/sectionpart.tex
-          section_template: _pdftemplate/section.tex
-    doi_url: None
-    issued_date: December 2020
-    doc_number: 8259-Catalog
-    doc_short_title: 8259-Catalog
-    page_doc_number: 8259-Catalog
-    page_title: Recommendations for IoT Device Manufacturers
-    doc_title: Recommendations for IoT Device Manufacturers
-    pdf_title: 'Recommendations for IoT Device Manufacturers'
+          template: _pdftemplate/appendix.tex
+    doi_url: TBD
+    issued_date: July 1, 2020
+    doc_number: Federal Profile of NISTIR 8259A
+    page_doc_number: NISTIR 8259A
+    page_title: Federal Profile (Technical)
+    doc_title: 'Draft: Federal Profile of NISTIR 8259A: Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
+    pdf_title: 'Draft: Federal Profile of NISTIR 8259A: Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     lineno: true
-    category: Devices
   - basedir: ""
-    filename: 8259-Control
+    filename: 8259A-Federal-Profile-Non-Technical
     template: _pdftemplate/template.tex
     workdir: _pdf
     graphics: 
-      - _8259-Control/images/
+      - _8259-Catalog/images/
       - _pdftemplate/images/
     sections:
+        - name: cover
+          template: _pdftemplate/cover.tex
+        - name: toc
+          template: _pdftemplate/toc.tex
         - name: body
           parts:
               - _8259-Control/introduction.md
@@ -52,22 +58,20 @@ pdf:
               - _8259-Control/update.md
               - _8259-Control/event.md
               - _8259-Control/security.md
+              - _8259-Control/maintenance.md
           part_template: _pdftemplate/sectionpart.tex
-          section_template: _pdftemplate/section.tex
+          template: _pdftemplate/body.tex
         - name: appendix
           parts:
               - _Appendix/glossary.md
               - _Appendix/references.md
           part_template: _pdftemplate/sectionpart.tex
-          section_template: _pdftemplate/section.tex
-    doi_url: None
-    issued_date: December 2020
-    doc_number: 8259-Control
-    doc_short_title: 8259-Control
-    page_doc_number: 8259-Control
-    page_title: Recommendations for IoT Device Manufacturers
-    doc_title: Recommendations for IoT Device Manufacturers
-    pdf_title: 'Recommendations for IoT Device Manufacturers'
+          template: _pdftemplate/appendix.tex
+    doi_url: TBD
+    issued_date: July 1, 2020
+    doc_number: Federal Profile of NISTIR 8259A
+    page_doc_number: NISTIR 8259A
+    page_title: Federal Profile (Non-Technical)
+    doc_title: 'Draft: Federal Profile of NISTIR 8259A: Non-Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
+    pdf_title: 'Draft: Federal Profile of NISTIR 8259A: Non-Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     lineno: true
-    category: Devices
-    

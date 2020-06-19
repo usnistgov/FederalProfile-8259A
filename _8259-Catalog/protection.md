@@ -9,6 +9,7 @@ permalink: /technical/protection/
 # Data Protection
 
 _See also the [non-technical counterpart to this section](../_8259-Control/protection.md)_
+{:latex-ignore="true"}
 
 ## Cryptography Capabilities and Support
 
