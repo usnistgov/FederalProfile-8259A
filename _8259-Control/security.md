@@ -29,7 +29,7 @@ Policies and procedures govern IoT device security functional requirements, secu
   - Policies and procedures detailing the description of the information system development environment and environment in which the IoT device and associated system is intended to operate.
   - Policies and procedures detailing the acceptance criteria in the acquisition contracts for every IoT device system, system component, and information system service in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs.
 
-## Policies and Procedures for IoT device management system development life cycle.
+## Policies and Procedures for IoT device management within a system development life cycle.
 
 Policies and procedures provide the details necessary to implement management and operational controls for 1) how the organization manages the IoT information system ecosystem using the organizationally-defined system development life cycle's associated information security considerations, 2) the individuals with assigned IoT device information security roles and responsibilities, and 3) integrating the organizational information security risk management process. Controls that may be necessary:
 
@@ -85,35 +85,6 @@ Policies and procedures provide the details necessary to implement management an
 
 - Comply with organizational risk assessment policies and procedures to support secure configuration of IoT devices when integrating them into the larger information system.
 - Verify the IoT device configurations of the device and its interactions with the organizational information system before integrating the device into the information system.
-
-## Policies and procedures requiring device manufacturers to provide documented specifications for performing IoT device maintenance and repairs.
-
-Policies and procedures provide the details necessary to implement management and operational controls for to require IoT device manufacturers to provide documented specifications for performing IoT device maintenance and repairs for organizations to use to schedule and perform maintenance and repairs. Controls that may be necessary:
-
-**Manufacturer:**
-
-- Provide comprehensive documentation of the IoT device maintenance operations.
-- If such comprehensive IoT device maintenance operations documentation does not exist, clearly communicate to IoT device customers that the user must perform these operations themselves.
-
-**Agency:**
-
-- Examine IoT device documentation to determine and understand the IoT device maintenance operations provided by the manufacturer.
-- If the necessary documented actions are not provided by the manufacturer, then submit a request to the manufacturer to provide such documentations, or to determine if the agency must create a method to perform these procedures themselves.
-
-## Policies and procedures for documenting attempts to obtain IoT device components or information. 
-
-Policies and procedures provide the details necessary to implement management and operational controls for documenting attempts to obtain IoT device components, or IoT device information system service documentation when such documentation is either unavailable or nonexistent, and documenting the appropriate response for employees to follow. Controls that may be necessary:
-
-**Manufacturer:**
-
-- Obtain input from IoT device customers about the breadth and depth of the technical documentation provided with the IoT device to determine if it is acceptable to support customer needs.
-- Provide IoT device customers with procedures detailing how to submit questions about IoT device parts, use, and other related issues.
-- Describe how to get components for the IoT device, or how to get the IoT device fixed, when necessary.
-
-**Agency:**
-
-- Establish policies and procedures that govern the actions employees must take when appropriate documentation or necessary device components are not available.
-- If employees are permitted to communicate directly with the IoT device manufacturer, provide instructions for how to appropriately do so, and the documentation necessary for such communications.
 
 ## Policies and procedures to distribute IoT device policies, procedures and associated documentation.
 
