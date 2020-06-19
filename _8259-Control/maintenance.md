@@ -1,6 +1,8 @@
 # Device Acquisition and Maintenance
 
-## Policies and procedures for capabilitiies necessary for IoT device acquisitions.
+The management and operational controls to support IoT device acquistion and maintenance processes.
+
+## Policies and procedures for capabilities necessary for IoT device acquisitions.
 
 Policies and procedures provide the details necessary to implement management and operational controls for the acquisition of IoT devices, systems and services by assigned organizationally-defined personnel or roles who will ensure required device capabilities (compliance and implementation controls, etc.) exist for devices being considered for purchase.  Controls that may be necessary:
 
@@ -149,3 +151,32 @@ Policies and procedures provide the details necessary to implement management an
 
 - Implement policies governing the access authorizations required to perform both unescorted and escorted IoT device maintenance activities.
 - Develop procedures for personnel to perform both unescorted and escorted IoT device maintenance activities.
+
+## Policies and procedures requiring device manufacturers to provide documented specifications for performing IoT device maintenance and repairs.
+
+Policies and procedures provide the details necessary to implement management and operational controls requiring IoT device manufacturers to provide documented specifications for performing IoT device maintenance and repairs for organizations to use to schedule and perform maintenance and repairs. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Provide comprehensive documentation of the IoT device maintenance operations.
+- If such comprehensive IoT device maintenance operations documentation does not exist, clearly communicate to IoT device customers that the user must perform these operations themselves.
+
+**Agency:**
+
+- Examine IoT device documentation to determine and understand the IoT device maintenance operations provided by the manufacturer.
+- If the necessary documented actions are not provided by the manufacturer, then submit a request to the manufacturer to provide such documentations, or to determine if the agency must create a method to perform these procedures themselves.
+
+## Policies and procedures for documenting attempts to obtain IoT device components or information. 
+
+Policies and procedures provide the details necessary to implement management and operational controls for documenting attempts to obtain IoT device components, or IoT device information system service documentation when such documentation is either unavailable or nonexistent, and documenting the appropriate response for employees to follow. Controls that may be necessary:
+
+**Manufacturer:**
+
+- Obtain input from IoT device customers about the breadth and depth of the technical documentation provided with the IoT device to determine if it is acceptable to support customer needs.
+- Provide IoT device customers with procedures detailing how to submit questions about IoT device parts, use, and other related issues.
+- Describe how to get components for the IoT device, or how to get the IoT device fixed, when necessary.
+
+**Agency:**
+
+- Establish policies and procedures that govern the actions employees must take when appropriate documentation or necessary device components are not available.
+- If employees are permitted to communicate directly with the IoT device manufacturer, provide instructions for how to appropriately do so, and the documentation necessary for such communications.
