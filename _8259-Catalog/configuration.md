@@ -22,7 +22,7 @@ Ability for only authorized entities to configure IoT device authentication poli
 
 ## Interface Configuration
 
-Ability for only authorized entities to configure aspects related to the device's interfaces as described in Logical Access to Interfaces. 
+Ability for only authorized entities to configure aspects related to the device's interfaces as described in Logical Access to Interfaces.
     
 ## Display Configuration
 
@@ -30,5 +30,5 @@ Ability to configure content to be shown within a device display as described in
     
 ## Adaptable Configuration
 
-Ability to change configurations on the IoT device based on operational events as described in Device Security and Cybersecurity Event Awareness. 
+Ability to change configurations on the IoT device based on operational events as described in Device Security and Cybersecurity Event Awareness.
   
