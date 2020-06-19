@@ -1,3 +1,11 @@
+---
+layout: default
+title: Device Acquisition & Maintenance
+navOrder: 9
+navTitle: Maintenance
+permalink: /nontechnical/maintenance/
+---
+
 # Device Acquisition and Maintenance
 
 The management and operational controls to support IoT device acquistion and maintenance processes.
