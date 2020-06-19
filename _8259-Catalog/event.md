@@ -12,13 +12,15 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 
 ## Access to Event Information
 
-Ability to access IoT device state information.  Capabilities that may be necessary: 
+Ability to access IoT device state information.  Capabilities that may be necessary:
+
 - Ability to access information about the IoT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time).
 - Ability to preserve system state information.
 
 ## Event Identification and Monitoring
 
-Ability to provide event identification and monitoring capabilities and/or support event identification and monitoring tools interfacing with the device. Capabilities that may be necessary: 
+Ability to provide event identification and monitoring capabilities and/or support event identification and monitoring tools interfacing with the device. Capabilities that may be necessary:
+
 - Ability to identify organizationally-defined cybersecurity events (e.g., expected state change) that may occur on or involving the IoT device.
 - Ability to monitor for organizationally-defined cybersecurity events (e.g., expected state change) that may occur on or involving the IoT device.
 - Ability to support a list of events that are necessary for auditing purposes (to support the organizational auditing policy).
@@ -34,6 +36,7 @@ Ability to provide event identification and monitoring capabilities and/or suppo
 ## Event Response
 
 The device can respond to organizationally-defined cybersecurity events in an organizationally-defined way. Capabilities that may be necessary:
+
   - Ability to generate alerts for specific events (e.g., capacity thresholds).
   - Ability to respond to alerts according to predefined responses (e.g., such as those dictated by the auditing policies of the organization).
   - Ability to alert connected information systems of potential issues found during the auditing process.
@@ -47,23 +50,24 @@ The device can respond to organizationally-defined cybersecurity events in an or
 
 ## Audit Support
 
-Ability for the device, or an interfaced system, to generate, store, retain, delete, and report on specific device audit events, to run specific audit checks, and report findings in a variety of ways. Capabilities that may be necessary: 
+Ability for the device, or an interfaced system, to generate, store, retain, delete, and report on specific device audit events, to run specific audit checks, and report findings in a variety of ways. Capabilities that may be necessary:
+
 - The device can generate audit logs for defined events
   - Ability to identify and capture organizationally-defined events using a persistent method.
   - Ability to capture information related to organizationally-specified cybersecurity events (e.g., cybersecurity state, timestamp) through organizationally-defined means (e.g., logs).
   - Ability to create audit logs within the device for organizationally-defined and auditable events (e.g. account creation, modification, enabling, disabling, removal actions and notifications).
 - The device can capture required information in audit logs
-  - Ability to track users interacting with the device, the time they interacted with the device, the time the user logged out of the device, and to list this information in an audit log
-   - Ability to log information pertaining to: 
-      - The type of event that occurred 
-      - The time that the event occurred 
-      - Where the event occurred 
-      - The source of the event 
-      - The outcome of the event 
+  - Ability to track users interacting with the device, the time they interacted with the device, the time the user logged out of the device, and to list this information in an audit log.
+   - Ability to log information pertaining to:
+      - The type of event that occurred
+      - The time that the event occurred
+      - Where the event occurred
+      - The source of the event
+      - The outcome of the event
       - Identity of users/processes associated with the event
   - Ability to support auditing of configuration actions.
   - Ability to provide information as to why the device captured a particular event or set of events.
-  - Ability to capture organizationally-defined information to support examination of security incidents. 
+  - Ability to capture organizationally-defined information to support examination of security incidents.
   - Ability to record stored data access and usage.
 - Ability to maintain audit logs in accordance with organizational policy.
   - Ability to comply with organizational policy for storing persistent audit logs up to a predefined size.
