@@ -12,7 +12,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/logic
 
 ## Authentication and Identity Management
 
-Ability to require, or not require, authentication to, and/or identification of, the IoT device, and to establish authentication and identification configuration and display requirements. Capabilities that may be necessary: 
+Ability to require, or not require, authentication to, and/or identification of, the IoT device, and to establish authentication and identification configuration and display requirements. Capabilities that may be necessary:
 
 - Ability for the IoT device to support and require appropriate authentication.
   - Ability for the IoT device to require authentication prior to connecting to the device.
@@ -23,7 +23,7 @@ Ability to require, or not require, authentication to, and/or identification of,
     - Text messages
     - Hard Tokens
     - Manufacturer proprietary method
-  - Ability for the IoT device to hide or mask authentication information during authentication process
+  - Ability for the IoT device to hide or mask authentication information during authentication process.
 - Ability to set and change authentication configurations, policies and limitations settings for the IoT device.
   - Ability to set the time period for how long the device will remain locked after an established configurable limit of unsuccessful login attempts has been met.
   - Ability to disable or lock access to the device after an established pre-defined or user-configurable number of unsuccessful login authentication attempts.
@@ -31,7 +31,7 @@ Ability to require, or not require, authentication to, and/or identification of,
   - Ability to automatically disable accounts for the IoT device after an establish period of inactivity.
     - Ability to support automatic logout of inactive accounts for the IoT device after a configurable established time period.
     - Ability to support automatic removal of temporary, emergency and other special use accounts from the IoT device after an established time period.
-- Ability to display to IoT device users an organizationally-defined system use notification message or banner prior to successful IoT device authentication. (e.g., the message or banner would provide privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.)
+- Ability to display to IoT device users an organizationally-defined system use notification message or banner prior to successful IoT device authentication. (e.g., the message or banner would provide privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance).
   - Ability to create an organizationally-defined system use notification message or banner to be displayed on the IoT device.
     - Ability to edit an existing IoT device display.
     - Ability to establish the maximum size (in characters, bytes, etc.) of the available device display.
@@ -43,16 +43,17 @@ Ability to require, or not require, authentication to, and/or identification of,
 
 ## Role Support and Management
 
-Ability to establish unique, privileged, organization-wide, and other types of IoT device user accounts. Capabilities that may be necessary: 
+Ability to establish unique, privileged, organization-wide, and other types of IoT device user accounts. Capabilities that may be necessary:
+
 - Ability to create unique IoT device user accounts.
 - Ability to assign roles to IoT device user accounts.
 - Ability to identify unique IoT device user accounts.
-- Ability to support a hierarchy of logical access privileges for the IoT device based on roles (e.g., admin, emergency, user, local, temporary, etc.)
+- Ability to support a hierarchy of logical access privileges for the IoT device based on roles (e.g., admin, emergency, user, local, temporary, etc.).
   - Ability to establish user accounts to support role-based logical access privileges.
   - Ability to administer user accounts to support role-based logical access privileges.
   - Ability to use organizationally-defined roles to define each user account's access and permitted device actions.
   - Ability to support multiple levels of user/process account functionality and roles for the IoT device.
-- Ability to apply least privilege to user accounts (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions). 
+- Ability to apply least privilege to user accounts (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions).
   - Ability to create additional processes, roles (e.g., admin, emergency, temporary, etc.) and accounts as necessary to achieve least privilege.
   - Ability to apply least privilege settings within the device (i.e., to ensure that the processes operate at privilege levels no higher than necessary to accomplish required functions).
   - Ability to limit access to privileged device settings that are used to establish and administer authorization requirements.
@@ -70,12 +71,13 @@ Ability to establish unique, privileged, organization-wide, and other types of I
 - Ability to implement dynamic access control approaches (e.g., service-oriented architectures) that rely on:
   - run-time access control decisions facilitated by dynamic privilege management.
   - organizationally-defined actions to access/use device.
-- Ability to allow information sharing capabilities based upon the type and/or role of user attempting to share the information. 
+- Ability to allow information sharing capabilities based upon the type and/or role of user attempting to share the information.
 - Ability to restrict access to IoT device software, hardware, and data based on user account roles, used with proper authentication of the identity of the user to determine type of authorization.
 
 ## Limitations on Device Usage
 
-Ability to establish restrictions for how the device can be used. Capabilities that may be necessary: 
+Ability to establish restrictions for how the device can be used. Capabilities that may be necessary:
+
 - Ability to establish pre-defined restrictions for information searches within the device.
 - Ability to establish limits on authorized concurrent device sessions for:
   - User accounts
@@ -89,6 +91,7 @@ Ability to establish restrictions for how the device can be used. Capabilities t
 ## External Connections
 
 Ability to support external connections. Capabilities that may be necessary:
+
 - Ability to securely interact with external, third-party systems.
 - Ability to allow for the user/organization to establish the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
 - Ability to establish automated information sharing to identified parties/entities.
@@ -96,7 +99,8 @@ Ability to support external connections. Capabilities that may be necessary:
 
 ## Interface Control
 
-Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary: 
+Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary:
+
 - Ability to establish requirements for remote access to the IoT device and/or IoT device interface including:
   - Usage restrictions
   - Configuration requirements
