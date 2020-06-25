@@ -1,7 +1,7 @@
 # Site settings
 title: Recommendations for IoT Device Manufacturers
 description: "Recommendations for IoT Device Manufacturers: Catalog of Features and Mitigations"
-baseurl: "/8259-Catalog" # the subpath of your site, e.g. /blog
+baseurl: "/FederalProfile-8259A" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
@@ -29,17 +29,17 @@ navigation:
   collection: Frontmatter
 - text: Technical Capabilities
   url: /technical/identity/
-  collection: 8259-Technical
+  collection: Technical
 - text: Non-Technical Capabilities
   url: /nontechnical/
-  collection: 8259-Nontechnical
+  collection: Nontechnical
   
 collections:
   Frontmatter:
     output: true
-  8259-Technical:
+  Technical:
     output: true
-  8259-Nontechnical:
+  Nontechnical:
     output: true
 
 relative_links:
