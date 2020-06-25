@@ -1,77 +1,73 @@
 pdf:
   - basedir: ""
-    filename: 8259A-Federal-Profile-Technical
+    filename: Federal-Profile-of-8259A-Technical-Capabilities
     template: _pdftemplate/template.tex
     workdir: _pdf
     graphics: 
-      - _8259-Catalog/images/
+      - _Technical/images/
       - _pdftemplate/images/
     sections:
         - name: cover
           template: _pdftemplate/cover.tex
         - name: toc
           template: _pdftemplate/toc.tex
+        - name: frontmatter
+          template: _pdftemplate/frontmatter.tex
+          parts:
+              - _Frontmatter/introduction.md
         - name: body
           parts:
-              - _8259-Catalog/identity.md
-              - _8259-Catalog/configuration.md
-              - _8259-Catalog/protection.md
-              - _8259-Catalog/logical.md
-              - _8259-Catalog/update.md
-              - _8259-Catalog/event.md
-              - _8259-Catalog/security.md
+              - _Technical/identity.md
+              - _Technical/configuration.md
+              - _Technical/protection.md
+              - _Technical/logical.md
+              - _Technical/update.md
+              - _Technical/event.md
+              - _Technical/security.md
           part_template: _pdftemplate/sectionpart.tex
           template: _pdftemplate/body.tex
-        - name: appendix
-          parts:
-              - _Appendix/glossary.md
-              - _Appendix/references.md
-          part_template: _pdftemplate/sectionpart.tex
-          template: _pdftemplate/appendix.tex
-    doi_url: TBD
-    issued_date: July 1, 2020
+    doi_url: 'https://pages.nist.gov/FederalProfile-8259A/'
+    issued_date: June 30, 2020
     doc_number: Federal Profile of NISTIR 8259A
-    page_doc_number: NISTIR 8259A
-    page_title: Federal Profile (Technical)
+    page_doc_number: Federal Profile of NISTIR 8259A
+    page_title: Technical Capabilities
     doc_title: 'Draft: Federal Profile of NISTIR 8259A: Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     pdf_title: 'Draft: Federal Profile of NISTIR 8259A: Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     lineno: true
   - basedir: ""
-    filename: 8259A-Federal-Profile-Non-Technical
+    filename: Federal-Profile-of-8259A-Non-Technical-Capabilities
     template: _pdftemplate/template.tex
     workdir: _pdf
     graphics: 
-      - _8259-Catalog/images/
+      - _Nontechnical/images/
       - _pdftemplate/images/
     sections:
         - name: cover
           template: _pdftemplate/cover.tex
         - name: toc
           template: _pdftemplate/toc.tex
+        - name: frontmatter
+          template: _pdftemplate/frontmatter.tex
+          parts:
+              - _Frontmatter/introduction.md
         - name: body
           parts:
-              - _8259-Control/introduction.md
-              - _8259-Control/identity.md
-              - _8259-Control/configuration.md
-              - _8259-Control/protection.md
-              - _8259-Control/logical.md
-              - _8259-Control/update.md
-              - _8259-Control/event.md
-              - _8259-Control/security.md
-              - _8259-Control/maintenance.md
+              - _Nontechnical/introduction.md
+              - _Nontechnical/identity.md
+              - _Nontechnical/configuration.md
+              - _Nontechnical/protection.md
+              - _Nontechnical/logical.md
+              - _Nontechnical/update.md
+              - _Nontechnical/event.md
+              - _Nontechnical/security.md
+              - _Nontechnical/maintenance.md
           part_template: _pdftemplate/sectionpart.tex
           template: _pdftemplate/body.tex
-        - name: appendix
-          parts:
-              - _Appendix/glossary.md
-              - _Appendix/references.md
-          part_template: _pdftemplate/sectionpart.tex
-          template: _pdftemplate/appendix.tex
-    doi_url: TBD
-    issued_date: July 1, 2020
+    doi_url: 'https://pages.nist.gov/FederalProfile-8259A/'
+    issued_date: June 30, 2020
     doc_number: Federal Profile of NISTIR 8259A
-    page_doc_number: NISTIR 8259A
-    page_title: Federal Profile (Non-Technical)
+    page_doc_number: Federal Profile of NISTIR 8259A
+    page_title: Non-Technical Capabilities
     doc_title: 'Draft: Federal Profile of NISTIR 8259A: Non-Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     pdf_title: 'Draft: Federal Profile of NISTIR 8259A: Non-Technical Device Cybersecurity Capabilities needed to Support Federal Cybersecurity Controls'
     lineno: true
