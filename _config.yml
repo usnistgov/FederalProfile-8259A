@@ -24,7 +24,7 @@ exclude:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Frontmatter
+- text: Introduction
   url: /
   collection: Frontmatter
 - text: Technical Capabilities
@@ -33,9 +33,6 @@ navigation:
 - text: Non-Technical Capabilities
   url: /nontechnical/
   collection: 8259-Nontechnical
-- text: Appendix
-  url: /references/
-  collection: Appendix 
   
 collections:
   Frontmatter:
@@ -43,8 +40,6 @@ collections:
   8259-Technical:
     output: true
   8259-Nontechnical:
-    output: true
-  Appendix:
     output: true
 
 relative_links:
