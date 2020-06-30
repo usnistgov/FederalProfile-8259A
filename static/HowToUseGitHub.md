@@ -15,14 +15,14 @@ i.	Click on either the "Comment" link in the sidebar navigation or the "Send Fee
 ii.	Review open and closed issues to determine if a similar issue has already been created.
 iii.	Click on the "New Issue" button in the upper right of the screen.
 <p align="center">
-<img src=static/GitHub_Repo.png />
-<img src=static/GitHub_Repo2.png />
+<img src="GitHub_Repo.png" />
+<img src="GitHub_Repo2.png" />
 </p>
 
 iv.	Provide a short description in the field labelled "Title" for the feedback being provided.
 <p align="center">
-<img src=static/GitHub_Repo.png />
-<img src=static/GitHub_Issue.png />
+<img src="GitHub_Repo.png" />
+<img src="GitHub_Issue.png" />
 </p>
 
 v.	Within the field labelled "Leave a comment", fill out the comment with as much information as possible (a sample template is provided below).
@@ -45,13 +45,13 @@ v.	Within the field labelled "Leave a comment", fill out the comment with as muc
  
 vi.	Hit “Submit New Issue” and you are done!
 <p align="center">
-<img src=static/GitHub_Repo.png />
-<img src=static/GitHub_Issue2.png />
+<img src="GitHub_Repo.png" />
+<img src="GitHub_Issue2.png" />
 </p>
   
 vii.	If you want to keep up with others feedback through email and monitor future changes, make sure you choose to “Watch” the project!
 <p align="center">
-<img src=static/GitHub_Watch.png />
+<img src="GitHub_Watch.png" />
 </p>
  
 If you are familiar with GitHub, you are also welcome to provide thoughts or contributions as a pull request (PR). We prefer PRs as follows:
