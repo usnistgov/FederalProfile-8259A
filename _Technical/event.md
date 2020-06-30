@@ -31,8 +31,8 @@ Ability to provide event identification and monitoring capabilities and/or suppo
 - Ability to detect remote activation attempts.
 - Ability to detect remote activation of a collaborative computing device/component (e.g., microphone, camera, etc.).
 - Ability to detect remote activation of sensors.
-- Ability to define the characteristics of unacceptable content.
-- Ability to scan files for unacceptable content.
+- Ability to define the characteristics of unapproved content.
+- Ability to scan files for unapproved content.
 
 ## Event Response
 
@@ -45,8 +45,8 @@ The device can respond to organizationally-defined cybersecurity events in an or
   - Ability to notify users of activation of a collaborative computing device.
   - Ability to provide a physical indicator of sensor use.
   - Ability to respond following an auditing failure (either by the device or an external auditing process that interacts with the device).
-  - Ability to prevent download of unacceptable content.
-  - Ability to delete unacceptable content.
+  - Ability to prevent download of unapproved content.
+  - Ability to delete unapproved content.
   - Ability to support alternative security mechanisms when primary mechanisms (e.g., login protocol, encryption, etc.) are compromised.
 
 ## Audit Support

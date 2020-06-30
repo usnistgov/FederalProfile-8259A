@@ -75,6 +75,8 @@ Policies and procedures provide the details necessary to implement management an
 
 **Agency:**
 
+- Implement policies and procedures to perform periodic scans of the IoT devices and related systems, and real-time scans of files from external sources as the files are downloaded, opened, or executed in accordance with the organizational security policy.
+- Implement policies and procedures to block malicious code; quarantine malicious code; and send alerts to admin roles.
 - Implement policies and procedures governing how to identify and respond to malware false positives for IoT devices, and how to identify and resolve any potential impacts to the associated IoT device and associated systems.
 - Implement policies and procedures establishing how to address the receipt of false positives during IoT device and associated systems malicious code detection and eradication, and the resulting potential impact on the availability of the IoT device and associated systems.
 
@@ -158,7 +160,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide the legal (Federal regulations, state and local laws) requirements for security and privacy controls that the IoT device supports. Some examples: Federal Information Security Management Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR).
+- Provide the legal (Federal regulations, state and local laws) requirements for security and privacy controls that the IoT device supports. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR).
 
 **Agency:**
 
@@ -218,7 +220,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Management Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
+- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
 - Include a timeframe within which such IoT device compliance questions and requests will be answered.
 
 **Agency:**

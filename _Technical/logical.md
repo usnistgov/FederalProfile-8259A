@@ -93,9 +93,9 @@ Ability to establish restrictions for how the device can be used. Capabilities t
 
 Ability to support external connections. Capabilities that may be necessary:
 
-- Ability to securely interact with external, third-party systems.
+- Ability to securely interact with authorized external, third-party systems.
 - Ability to allow for the user/organization to establish the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
-- Ability to establish automated information sharing to identified parties/entities.
+- Ability to establish automated information sharing to approved identified parties/entities.
 - Ability to identify when the external user's system meets the required security requirements for a connection.
 
 ## Interface Control
@@ -115,11 +115,9 @@ Ability to establish controls for the connections made to the IoT device. Capabi
 - Ability to change IoT device logical interface(s).
 - Ability to control device responses to device input.
 - Ability to control output from the device.
-- Ability to support wireless technologies:
-  - Microwave
-  - Packet radio (UHF/VHF)
+- Ability to support communications technologies (including but not limited to):
   - 802.11x
   - Bluetooth
+  - Ethernet
   - Manufacturer defined
-- Ability to establish and configure IoT device settings for wireless technologies including wireless authentication protocols (e.g., EAP/TLS, PEAP).
-- Ability to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
+- Ability to establish and configure IoT device settings for communications technologies including authentication protocols (e.g., EAP/TLS, PEAP).

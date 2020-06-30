@@ -4,7 +4,7 @@ This repository is for development of _Recommendations for IoT Device Manufactur
 
 ## Editing
 
-Core document sections are in `_8259-Catalog` and `_8259-Control` markdown files, and appendix sections are in `_Appendix`.
+Core document sections are in `_Nontechnical` and `_Technical` markdown files, and frontmatter sections are in `_Frontmatter`.
 
 ## Viewing
 
