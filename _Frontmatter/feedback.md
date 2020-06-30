@@ -37,6 +37,6 @@ This is a moderated platform. NIST reserves the right to reject, remove, or edit
 
 Share feedback and ask questions about resources in the repository using the Issues feature. [GitHub Page](https://github.com/usnistgov/FederalProfile-8259A)
 
-Instructions on how to use the Federal Profile GitHub page can be found here. [How To Use GitHub Guide](https://github.com/usnistgov/FederalProfile-8259A/master/static/HowToUseGitHub.md)
+Instructions on how to use the Federal Profile GitHub page can be found here. [How To Use GitHub Guide](../static/HowToUseGitHub.md)
 
 If you’d like to submit feedback the traditional way, please send us feedback to our mailbox at IoTsecurity@nist.gov.
