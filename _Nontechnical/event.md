@@ -220,7 +220,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
+- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
 - Include a timeframe within which such IoT device compliance questions and requests will be answered.
 
 **Agency:**
