@@ -68,3 +68,4 @@ Policies and procedures provide the details necessary to implement management an
 
 - Implement policies and procedures governing the time period within which IoT device manufacturer-supplied updates should be installed.
 - Incorporate the IoT device update procedures within organizationally-defined configuration and/or change management procedures.
+- Implement policies and procedures for testing IoT devices following software and firmware updates for effectiveness and determining potential side effects.
