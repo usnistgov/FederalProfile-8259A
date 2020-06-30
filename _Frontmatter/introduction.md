@@ -6,7 +6,7 @@ navTitle: Introduction
 permalink: /
 ---
 
-# Next steps for the Cybersecurity for IoT program in the development of a Federal Profile of NISTIR 8259A 
+# Next Steps for the Cybersecurity for IoT Program in the Development of a Federal Profile of NISTIR 8259A 
 
 ## Introduction
 
