@@ -7,7 +7,7 @@ To View the Federal Profile: No GitHub account is needed to view this initial ca
 1.	You must establish a GitHub account to provide feedback directly through GitHub. In order to provide feedback through the GitHub “Issues” feature, you will need to create a GitHub account. 
 This can be done by proceeding to https://github.com/join. If this is a personal account, GitHub allows you to remain pseudonymous if you would like, just make sure you select the options that suit you on the “Profile” and “Emails” pages of your “Personal Settings”. We also highly encourage you to turn on two-factor authentication in the “Security” page, also part of “Personal Settings”. For issues submitted on behalf of an organization, we prefer a generic account named for the organization, rather than a personal account from someone within the organization.
 <p align="center">
-<img src=static/GitHub_NameEmail.png />
+<img src="GitHub_NameEmail.png" />
 </p>
 
 2.	Open a GitHub issue. As you are reading and identify feedback you would like to make:
