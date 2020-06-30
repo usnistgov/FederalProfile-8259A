@@ -93,9 +93,9 @@ Ability to establish restrictions for how the device can be used. Capabilities t
 
 Ability to support external connections. Capabilities that may be necessary:
 
-- Ability to securely interact with external, third-party systems.
+- Ability to securely interact with authorized external, third-party systems.
 - Ability to allow for the user/organization to establish the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
-- Ability to establish automated information sharing to identified parties/entities.
+- Ability to establish automated information sharing to approved identified parties/entities.
 - Ability to identify when the external user's system meets the required security requirements for a connection.
 
 ## Interface Control
