@@ -35,7 +35,6 @@ Ability to securely initiate and terminate communications with other devices.  C
 - Ability to interface with DNS/DNSSEC.
 - Ability to store and process session identifiers.
 - Ability to identify and track sessions with identifiers.
-- Ability to configure network interface.
 
 ## Secure Resource Usage 
 
