@@ -115,11 +115,9 @@ Ability to establish controls for the connections made to the IoT device. Capabi
 - Ability to change IoT device logical interface(s).
 - Ability to control device responses to device input.
 - Ability to control output from the device.
-- Ability to support wireless technologies:
-  - Microwave
-  - Packet radio (UHF/VHF)
+- Ability to support communications technologies (including but not limited to):
   - 802.11x
   - Bluetooth
+  - Ethernet
   - Manufacturer defined
-- Ability to establish and configure IoT device settings for wireless technologies including wireless authentication protocols (e.g., EAP/TLS, PEAP).
-- Ability to prohibit wireless access to the IoT device and/or device interfaces until after successful authentication & authorization.
+- Ability to establish and configure IoT device settings for communications technologies including authentication protocols (e.g., EAP/TLS, PEAP).

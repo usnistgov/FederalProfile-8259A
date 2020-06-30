@@ -30,8 +30,8 @@ Ability to securely initiate and terminate communications with other devices.  C
 - Ability to establish network connections.
 - Ability to terminate network connections (e.g., automatically based on organizationally-defined parameters).
 - Ability to de-allocate TCP/IP address/port pairings.
-- Ability to establish communications paths.
-- Ability to secure the communication paths.
+- Ability to establish communications channels.
+- Ability to secure the communications channels.
 - Ability to interface with DNS/DNSSEC.
 - Ability to store and process session identifiers.
 - Ability to identify and track sessions with identifiers.
