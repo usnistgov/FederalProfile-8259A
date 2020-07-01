@@ -12,7 +12,7 @@ NIST’s goal is to enable Federal agencies to securely incorporate IoT devices 
 
 ## How can I access and provide feedback on the Federal Profile?
 
-Anyone can view and submit feedback on the catalog through GitHub [link to Federal Profile landing page]. Feedback can also be sent to IoTsecurity@nist.gov.
+Anyone can view and submit feedback on the catalog through GitHub [Federal Profile of 8259A](https://github.com/usnistgov/FederalProfile-8259A). Feedback can also be sent to IoTsecurity@nist.gov.
 
 ## Has NIST provided any guidance or direction regarding the nature of the feedback it seeks?
 
