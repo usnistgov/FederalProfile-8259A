@@ -16,7 +16,7 @@ The management and operational controls to support securing IoT device data acco
 
 ## Policies and procedures for IoT device data security roles.
 
-Policies and procedures provide the details necessary to implement management and operational controls for establishing roles and responsibilities for IoT device data security. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for establishing roles and responsibilities for IoT device data security. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -29,7 +29,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for IoT device data integrity.
 
-Policies and procedures provide the details necessary to implement management and operational controls to support IoT device and associated systems data integrity, including establishing the purpose, scope, roles, responsibilities, management commitment, and coordination of IoT devices among organizational entities, and the associated compliance activities. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to support IoT device and associated systems data integrity, including establishing the purpose, scope, roles, responsibilities, management commitment, and coordination of IoT devices among organizational entities, and the associated compliance activities. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -43,7 +43,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures to establish IoT device data integrity controls.
 
-Policies and procedures provide the details necessary to implement management and operational controls that support secure implementation of the IoT device and associated systems data integrity controls. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls that support secure implementation of the IoT device and associated systems data integrity controls. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -56,7 +56,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for maintaining IoT device data integrity during software modifications.
 
-Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems while preserving data integrity. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for reviewing and updating the current IoT device and associated systems while preserving data integrity. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -69,7 +69,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for IoT device data handling and retention.
 
-Policies and procedures provide the details necessary to implement management and operational controls for securely handling and retaining IoT device data, associated systems data, and data output from the IoT device, in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for securely handling and retaining IoT device data, associated systems data, and data output from the IoT device, in accordance with applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and operational requirements. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -91,7 +91,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures establishing IoT data backup.
 
-Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Controls that may be necessary:
+Backup and recovery policies and procedures detail how to make backups of IoT device data and software as applicable. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -105,7 +105,7 @@ Backup and recovery policies and procedures detail how to make backups of IoT de
 
 ## Policies and procedures for removing all data from IoT devices prior to maintenance and repairs.
 
-Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs. Actions that may be necessary:
 
 **Manufacturer:**
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "How To Use GitHub"
-navOrder: 2
-navTitle: GitHub
+navOrder: 3
+navTitle: How To Use GitHub
 permalink: /github/
 ---
 

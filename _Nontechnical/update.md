@@ -15,7 +15,7 @@ The management and operational controls to support secure IoT device software up
 
 ## Policies and procedures to identify, report, and correct IoT device system flaws.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to identify, report, and correct IoT device system flaws. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to identify, report, and correct IoT device system flaws. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -30,7 +30,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for incorporating IoT device flaw remediation into the configuration management process.
 
-Policies and procedures provide the details necessary to implement management and operational controls for incorporating IoT device flaw remediation into the organizationally-defined configuration management process. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for incorporating IoT device flaw remediation into the organizationally-defined configuration management process. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -43,7 +43,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for software updates for flaw remediation.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to establish the types of tests necessary for IoT device and related system software updates related to flaw remediation, for effectiveness and potential side effects before installation. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to establish the types of tests necessary for IoT device and related system software updates related to flaw remediation, for effectiveness and potential side effects before installation. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -57,7 +57,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for security-relevant software updates.
 
-Policies and procedures provide the details necessary to implement management and operational controls for the installation of IoT devices and associated systems security-relevant software updates within an organizationaly-defined time period from the vendor release of the updates. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for the installation of IoT devices and associated systems security-relevant software updates within an organizationaly-defined time period from the vendor release of the updates. Actions that may be necessary:
 
 **Manufacturer:**
 

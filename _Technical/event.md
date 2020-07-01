@@ -13,14 +13,14 @@ _See also the [non-technical counterpart to this section](../_8259-Control/event
 
 ## Access to Event Information
 
-Ability to access IoT device state information.  Capabilities that may be necessary:
+Ability to access IoT device state information. Elements that may be necessary:
 
 - Ability to access information about the IoT device&#39;s cybersecurity state and other necessary data (e.g., trustworthy time).
 - Ability to preserve system state information.
 
 ## Event Identification and Monitoring
 
-Ability to provide event identification and monitoring capabilities and/or support event identification and monitoring tools interfacing with the device. Capabilities that may be necessary:
+Ability to provide event identification and monitoring capabilities and/or support event identification and monitoring tools interfacing with the device. Elements that may be necessary:
 
 - Ability to identify organizationally-defined cybersecurity events (e.g., expected state change) that may occur on or involving the IoT device.
 - Ability to monitor for organizationally-defined cybersecurity events (e.g., expected state change) that may occur on or involving the IoT device.
@@ -36,7 +36,7 @@ Ability to provide event identification and monitoring capabilities and/or suppo
 
 ## Event Response
 
-The device can respond to organizationally-defined cybersecurity events in an organizationally-defined way. Capabilities that may be necessary:
+The device can respond to organizationally-defined cybersecurity events in an organizationally-defined way. Elements that may be necessary:
 
   - Ability to generate alerts for specific events (e.g., capacity thresholds).
   - Ability to respond to alerts according to predefined responses (e.g., such as those dictated by the auditing policies of the organization).
@@ -51,7 +51,7 @@ The device can respond to organizationally-defined cybersecurity events in an or
 
 ## Audit Support
 
-Ability for the device, or an interfaced system, to generate, store, retain, delete, and report on specific device audit events, to run specific audit checks, and report findings in a variety of ways. Capabilities that may be necessary:
+Ability for the device, or an interfaced system, to generate, store, retain, delete, and report on specific device audit events, to run specific audit checks, and report findings in a variety of ways. Elements that may be necessary:
 
 - The device can generate audit logs for defined events
   - Ability to identify and capture organizationally-defined events using a persistent method.

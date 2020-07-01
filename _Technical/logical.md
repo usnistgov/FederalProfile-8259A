@@ -13,7 +13,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/logic
 
 ## Authentication and Identity Management
 
-Ability to require, or not require, authentication to, and/or identification of, the IoT device, and to establish authentication and identification configuration and display requirements. Capabilities that may be necessary:
+Ability to require, or not require, authentication to, and/or identification of, the IoT device, and to establish authentication and identification configuration and display requirements. Elements that may be necessary:
 
 - Ability for the IoT device to support and require appropriate authentication.
   - Ability for the IoT device to require authentication prior to connecting to the device.
@@ -44,7 +44,7 @@ Ability to require, or not require, authentication to, and/or identification of,
 
 ## Role Support and Management
 
-Ability to establish unique, privileged, organization-wide, and other types of IoT device user accounts. Capabilities that may be necessary:
+Ability to establish unique, privileged, organization-wide, and other types of IoT device user accounts. Elements that may be necessary:
 
 - Ability to create unique IoT device user accounts.
 - Ability to assign roles to IoT device user accounts.
@@ -77,7 +77,7 @@ Ability to establish unique, privileged, organization-wide, and other types of I
 
 ## Limitations on Device Usage
 
-Ability to establish restrictions for how the device can be used. Capabilities that may be necessary:
+Ability to establish restrictions for how the device can be used. Elements that may be necessary:
 
 - Ability to establish pre-defined restrictions for information searches within the device.
 - Ability to establish limits on authorized concurrent device sessions for:
@@ -91,7 +91,7 @@ Ability to establish restrictions for how the device can be used. Capabilities t
 
 ## External Connections
 
-Ability to support external connections. Capabilities that may be necessary:
+Ability to support external connections. Elements that may be necessary:
 
 - Ability to securely interact with authorized external, third-party systems.
 - Ability to allow for the user/organization to establish the circumstances for when information sharing from the device and/or through the device interface will be allowed and prohibited.
@@ -100,7 +100,7 @@ Ability to support external connections. Capabilities that may be necessary:
 
 ## Interface Control
 
-Ability to establish controls for the connections made to the IoT device. Capabilities that may be necessary:
+Ability to establish controls for the connections made to the IoT device. Elements that may be necessary:
 
 - Ability to establish requirements for remote access to the IoT device and/or IoT device interface including:
   - Usage restrictions

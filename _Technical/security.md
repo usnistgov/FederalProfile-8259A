@@ -13,7 +13,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/secur
 
 ## Secure Execution 
 
-Ability to protect the execution of code on the device. Capabilities that may be necessary:
+Ability to protect the execution of code on the device. Elements that may be necessary:
 
 - Ability to enforce organizationally-defined execution policies.
   - Ability to execute code in confined virtual environments.
@@ -23,7 +23,7 @@ Ability to protect the execution of code on the device. Capabilities that may be
 
 ## Secure Communication 
 
-Ability to securely initiate and terminate communications with other devices.  Capabilities that may be necessary:
+Ability to securely initiate and terminate communications with other devices. Elements that may be necessary:
 
 - Ability to enforce traffic flow policies.
 - Ability to utilize standardized protocols.
@@ -38,7 +38,7 @@ Ability to securely initiate and terminate communications with other devices.  C
 
 ## Secure Resource Usage 
 
-Ability to securely utilize system resources and memory. Capabilities that may be necessary:
+Ability to securely utilize system resources and memory. Elements that may be necessary:
 
 - Ability to support shared system resources.
   - Ability to release resources back to the system.
@@ -52,7 +52,7 @@ Ability to securely utilize system resources and memory. Capabilities that may b
 
 ## Device Integrity 
 
-Ability to protect against unauthorized changes to hardware and software. Capabilities that may be necessary:
+Ability to protect against unauthorized changes to hardware and software. Elements that may be necessary:
 
 - Ability to perform security compliance checks on system components.
 - Ability to detect unauthorized hardware and software components.
@@ -61,7 +61,7 @@ Ability to protect against unauthorized changes to hardware and software. Capabi
 
 ## Secure Device Operation
 
-Ability to operate securely and safely. Capabilities that may be necessary:
+Ability to operate securely and safely. Elements that may be necessary:
 
 - Ability to keep an accurate internal system time.
 - Ability to define various operational states.

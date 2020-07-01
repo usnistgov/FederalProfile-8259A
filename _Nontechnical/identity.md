@@ -15,7 +15,7 @@ The management and operational controls to support device identity capabilities 
 
 ## Policies and procedures requiring unique identification for each IoT device.
 
-Policies and procedures provide the details necessary to implement management and operational controls for required unique identification for each IoT device associated with the system and critical system components within which it is used. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for required unique identification for each IoT device associated with the system and critical system components within which it is used. Actions that may be necessary:
 
 **Manufacturer:**
 
