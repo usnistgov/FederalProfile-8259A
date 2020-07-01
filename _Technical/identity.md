@@ -13,7 +13,7 @@ _See also the [non-technical counterpart to this section](../_8259-Control/ident
 
 ## Asset Identifier Support
 
-Ability for device identification. Capabilities that may be necessary:
+Ability for device identification. Elements that may be necessary:
 
 - Ability to uniquely identify the IoT device physically.
 - Ability to uniquely identify the IoT device logically.
@@ -22,7 +22,7 @@ Ability for device identification. Capabilities that may be necessary:
 
 ## Actions Based on Device Identity
 
-Actions that can occur based on or using the identity of the device. Capabilities that may be necessary:
+Actions that can occur based on or using the identity of the device. Elements that may be necessary:
 
 - Ability to configure IoT device access control policies using IoT device identity.
   - Ability to hide IoT device identity from non-authorized entities.
@@ -33,8 +33,7 @@ Actions that can occur based on or using the identity of the device. Capabilitie
 
 ## Device Authentication Support
 
-Actions to support local or interfaced device authentication. Capabilities that may be necessary:
+Actions to support local or interfaced device authentication. Elements that may be necessary:
 
 - Ability for the IoT device to identify itself as an authorized entity to other devices.
 - Ability to verify the identity of an IoT device.
-
