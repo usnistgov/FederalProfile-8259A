@@ -15,7 +15,7 @@ The management and operational controls to support secure IoT device interface c
 
 ## Policies and procedures for access control capabilities.
 
-Policies and procedures provide the details necessary to implement management and operational controls to support the organizational access control requirements on IoT devices. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to support the organizational access control requirements on IoT devices. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -38,7 +38,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for situations where identification and authentication are not needed.
 
-Policies and procedures provide the details necessary to implement management and operational controls to support the organizational requirements for determining circumstances when identification and authentication are not needed to be used with IoT devices for specified organizationally-defined user actions. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to support the organizational requirements for determining circumstances when identification and authentication are not needed to be used with IoT devices for specified organizationally-defined user actions. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -61,7 +61,7 @@ Policies and procedures provide the details necessary to implement management an
   - Anyone within the office can use the smart coffee maker as part of a "general use" type of role, but only those within the "admin" type of role can modify the smart coffee maker settings.
   - A device can be configured to allow anyone with access to the device to view information in a public space, e.g., a public kiosk. However, the device has an "admin" type of role that allows only those within that role to make changes to the device.
   
-Controls that may be necessary:
+Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -80,7 +80,7 @@ Controls that may be necessary:
 
 ## Policies and procedures for including security and privacy requirements in third party contractual agreements.
 
-Policies and procedures provide the details necessary to implement management and operational controls for including security and privacy requirements within third party contractual agreements that involve access to, and/or use of, the IoT device by third parties. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for including security and privacy requirements within third party contractual agreements that involve access to, and/or use of, the IoT device by third parties. Actions that may be necessary:
 
 **Manufacturer**
 
@@ -117,7 +117,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for device interface controls.
 
-Policies and procedures provide the details necessary to implement management and operational controls for the necessary logical and remote access IoT device controls through device interfaces for information transmission between devices and subjects, objects, systems and components within the system. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for the necessary logical and remote access IoT device controls through device interfaces for information transmission between devices and subjects, objects, systems and components within the system. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -137,7 +137,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for required authentication techniques. 
 
-Policies and procedures establish the capabilities necessary to support required IoT control techniques, such as PIV authentication. Controls that may be necessary:
+Policies and procedures establish the capabilities necessary to support required IoT control techniques, such as PIV authentication. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -153,7 +153,7 @@ Policies and procedures establish the capabilities necessary to support required
 
 ## Policies and procedures for implementing only products in the NIST-approved products list.
 
-Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or appropriate management approval. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to allow the use of only IoT devices within the organizational system that are on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose for each IoT device, unless allowed by the organizational security policy or appropriate management approval. Actions that may be necessary:
 
 **Manufacturer:**
 
