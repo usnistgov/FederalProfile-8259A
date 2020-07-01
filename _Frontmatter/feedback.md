@@ -3,7 +3,7 @@ layout: default
 title: "NIST Needs Your Feedback"
 navOrder: 2
 navTitle: Feedback
-permalink: /feedback
+permalink: /feedback/
 ---
 
 # NIST Needs Your Feedback 
