@@ -11,11 +11,11 @@ permalink: /nontechnical/event/
 _See also the [technical counterpart to this section](../_8259-Catalog/event.md)_
 {:latex-ignore="true"}
 
-The management and operational controls to support reporting the IoT device cybersecurity state and associated security events within the system where the IoT device is used. Controls that may be necessary:
+The management and operational controls to support reporting the IoT device cybersecurity state and associated security events within the system where the IoT device is used. Actions that may be necessary:
 
 ## Policies and procedures govern malicious code protection.
 
-Policies and procedures provide the details necessary to implement management and operational controls for malicious code protection in the IoT device and associated systems, as well as within related systems entry and exit points, to detect and eradicate malicious code. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for malicious code protection in the IoT device and associated systems, as well as within related systems entry and exit points, to detect and eradicate malicious code. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -30,7 +30,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures govern malicious code protection updates. 
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to update IoT device and related systems malicious code protection mechanisms when new releases are available, in accordance with organizational configuration management policy and procedures. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to update IoT device and related systems malicious code protection mechanisms when new releases are available, in accordance with organizational configuration management policy and procedures. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -43,7 +43,7 @@ Provide information to the IoT device clients/customers that describe newly iden
 
 ## Policies and procedures govern malicious code protection configurations.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to configure malicious code protection mechanisms in IoT devices and related systems. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to configure malicious code protection mechanisms in IoT devices and related systems. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -65,7 +65,7 @@ Implement policies and procedures to govern how to configure malicious code prot
 
 ## Policies and procedures for malicious code detection and eradication.
 
-Policies and procedures provide the details necessary to implement management and operational controls for malicious code detection and eradication. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for malicious code detection and eradication. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -82,7 +82,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for information system monitoring.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to monitor IoT devices and associated systems. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to monitor IoT devices and associated systems. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -102,7 +102,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures to identify unauthorized use.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to identify unauthorized use of IoT devices and their associated systems, in accordance with the organizationally-defined techniques and methods. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to identify unauthorized use of IoT devices and their associated systems, in accordance with the organizationally-defined techniques and methods. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -115,7 +115,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for monitoring devices and tools.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to deploy monitoring devices and tools for IoT devices and associated systems. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to deploy monitoring devices and tools for IoT devices and associated systems. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -131,7 +131,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for protecting cybersecurity event information from unauthorized access, modification, and deletion.
 
-Policies and procedures provide the details necessary to implement management and operational controls for protecting information obtained from IoT devices, and associated systems and intrusion-monitoring tools, from unauthorized access, modification, and deletion. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for protecting information obtained from IoT devices, and associated systems and intrusion-monitoring tools, from unauthorized access, modification, and deletion. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -144,7 +144,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for security level changes.
 
-Policies and procedures provide the details necessary to implement management and operational controls to govern when to heighten the level of security for an IoT device and associated systems. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to govern when to heighten the level of security for an IoT device and associated systems. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -156,7 +156,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for ensuring legal compliance.
 
-Policies and procedures provide the details necessary to implement management and operational controls for establishing whether the IoT device, and associated systems, monitoring activities are in compliance with applicable Federal laws, Executive Orders, directives, policies, and regulations. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for establishing whether the IoT device, and associated systems, monitoring activities are in compliance with applicable Federal laws, Executive Orders, directives, policies, and regulations. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -168,7 +168,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for providing monitoring information to authorized personnel or roles.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how to provide organizationally-defined IoT device and associated systems monitoring information to authorized personnel or roles as needed and according to organizationally-defined frequencies. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how to provide organizationally-defined IoT device and associated systems monitoring information to authorized personnel or roles as needed and according to organizationally-defined frequencies. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -180,7 +180,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for receiving external security alerts, advisories, and directives.
 
-Policies and procedures provide the details necessary to implement management and operational controls for how and when to receive up-to-date security and privacy information on an ongoing basis about IoT devices and associated systems, such as information system security alerts, advisories, and directives from IoT device manufacturers, information security researchers, and other sources the organization determines to be valuable. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for how and when to receive up-to-date security and privacy information on an ongoing basis about IoT devices and associated systems, such as information system security alerts, advisories, and directives from IoT device manufacturers, information security researchers, and other sources the organization determines to be valuable. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -192,7 +192,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for receiving internal security alerts, advisories, and directives.
 
-Policies and procedures provide the details necessary to implement management and operational controls for when and how to generate internal security alerts, advisories, and directives about the IoT devices. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls for when and how to generate internal security alerts, advisories, and directives about the IoT devices. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -204,7 +204,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for disseminating privacy and security alerts, advisories, and directives outside of the organization.
 
-Policies and procedures provide the details necessary to implement management and operational controls to disseminate privacy and security alerts, advisories, and directives about the IoT devices, and associated systems outside of the organization. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to disseminate privacy and security alerts, advisories, and directives about the IoT devices, and associated systems outside of the organization. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -216,7 +216,7 @@ Policies and procedures provide the details necessary to implement management an
 
 ## Policies and procedures for implementing security control directives.
 
-Policies and procedures provide the details necessary to implement management and operational controls to govern the implementation of IoT device and associated systems security directives in accordance with established time frames, and/or to notify the IoT device manufacturer and/or vendor of the degree of noncompliance. Controls that may be necessary:
+Policies and procedures provide the details necessary to implement management and operational controls to govern the implementation of IoT device and associated systems security directives in accordance with established time frames, and/or to notify the IoT device manufacturer and/or vendor of the degree of noncompliance. Actions that may be necessary:
 
 **Manufacturer:**
 
