@@ -59,8 +59,7 @@ NIST seeks feedback from stakeholders on this initial analysis of the Federal Pr
 
  
 ## NIST IoT Device Security Publication Roadmap
-<p align="center">
-<img src="GitHub_RoadMap.png" />
-</p>
+
+![]({{site.baseurl}}/{{page.collection}}/images/GitHub_RoadMap.png){:style="width: 1047px;"}
 
 NIST also continues its active involvement and leadership role in the joint technical committee of the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) to develop an international baseline of IoT device cybersecurity capabilities. 
