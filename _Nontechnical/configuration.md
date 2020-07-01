@@ -15,7 +15,7 @@ The management and operational controls to support the capabilities to configure
 
 ## Policies and procedures establish the minimum requirements for IoT device configuration settings.
 
-Policies and procedures detail the necessary management and operational controls to support configuration of the IoT device’s software, to ensure the configuration can be securely changed, and to ensure such changes can be performed only by authorized entities. Controls that may be necessary:
+Policies and procedures detail the necessary management and operational controls to support configuration of the IoT device’s software, to ensure the configuration can be securely changed, and to ensure such changes can be performed only by authorized entities. Actions that may be necessary:
 
 **Manufacturer:**
 
@@ -29,7 +29,7 @@ Policies and procedures detail the necessary management and operational controls
 
 ## Training is provided to workers covering the IoT device configuration requirements.
 
-Policies and procedures establish the training necessary for individuals responsible for implementing the policies and procedures for the minimum required IoT device configuration settings. Controls that may be necessary:
+Policies and procedures establish the training necessary for individuals responsible for implementing the policies and procedures for the minimum required IoT device configuration settings. Actions that may be necessary:
 
 **Manufacturer:**
 
