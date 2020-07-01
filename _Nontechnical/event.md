@@ -11,7 +11,7 @@ permalink: /nontechnical/event/
 _See also the [technical counterpart to this section](../_8259-Catalog/event.md)_
 {:latex-ignore="true"}
 
-The management and operational controls to support reporting the IoT device cybersecurity state and associated security events within the system where the IoT device is used. Actions that may be necessary:
+The management and operational controls to support reporting the IoT device cybersecurity state and associated security events within the system where the IoT device is used.
 
 ## Policies and procedures govern malicious code protection.
 
