@@ -35,7 +35,7 @@ navigation:
   collection: Nontechnical
 - text: FAQs
   url: /FAQs/
-  collection: static
+  collection: FAQs
   
 collections:
   Frontmatter:

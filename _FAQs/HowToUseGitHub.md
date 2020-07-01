@@ -1,3 +1,11 @@
+---
+layout: default
+title: "How To Use GitHub"
+navOrder: 2
+navTitle: GitHub
+permalink: /github/
+---
+
 # User Guide
 # Providing Feedback on the Federal Profile via GitHub 
 
