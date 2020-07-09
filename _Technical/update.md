@@ -8,7 +8,7 @@ permalink: /technical/update/
 
 # Software Update
 
-_See also the [non-technical counterpart to this section](../_8259-Control/update.md)_
+_See also the [non-technical counterpart to this section](../_Nontechnical/update.md)_
 {:latex-ignore="true"}
 
 Ability to update the IoT device software within the device and/or through the IoT device interface. Elements that may be necessary:

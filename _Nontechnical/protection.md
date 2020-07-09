@@ -9,7 +9,7 @@ permalink: /nontechnical/protection/
 
 # Data Protection
 
-_See also the [technical counterpart to this section](../_8259-Catalog/protection.md)_
+_See also the [technical counterpart to this section](../_Technical/protection.md)_
 {:latex-ignore="true"}
 
 The management and operational controls to support securing IoT device data according to organizationally-defined requirements. 
