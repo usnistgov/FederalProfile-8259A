@@ -8,7 +8,7 @@ permalink: /technical/identity/
 
 # Device Identity
 
-_See also the [non-technical counterpart to this section](../_8259-Control/identity.md)_
+_See also the [non-technical counterpart to this section](../_Nontechnical/identity.md)_
 {:latex-ignore="true"}
 
 ## Asset Identifier Support

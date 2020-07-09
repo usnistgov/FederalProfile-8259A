@@ -8,7 +8,7 @@ permalink: /technical/configuration/
 
 # Device Configuration
 
-_See also the [non-technical counterpart to this section](../_8259-Control/configuration.md)_
+_See also the [non-technical counterpart to this section](../_Nontechnical/configuration.md)_
 {:latex-ignore="true"}
 
 The capability to configure the IoT device through logical and/or physical interfaces to meet organizational requirements.

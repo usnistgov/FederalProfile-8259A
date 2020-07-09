@@ -8,7 +8,7 @@ permalink: /nontechnical/identity/
 
 # Device Identity
 
-_See also the [technical counterpart to this section](../_8259-Catalog/identity.md)_
+_See also the [technical counterpart to this section](../_Technical/identity.md)_
 {:latex-ignore="true"}
 
 The management and operational controls to support device identity capabilities to configure and use the IoT device according to the requirements established by the organization.
