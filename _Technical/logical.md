@@ -8,7 +8,7 @@ permalink: /technical/logical/
 
 # Logical Access to Interfaces
 
-_See also the [non-technical counterpart to this section](../_8259-Control/logical.md)_
+_See also the [non-technical counterpart to this section](../_Nontechnical/logical.md)_
 {:latex-ignore="true"}
 
 ## Authentication and Identity Management
