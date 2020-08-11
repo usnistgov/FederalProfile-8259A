@@ -13,7 +13,7 @@ _See also the [non-technical counterpart to this section](../_Nontechnical/logic
 
 ## Authentication and Identity Management
 
-Ability to require, or not require, authentication to, and/or identification of, the IoT device, and to establish authentication and identification configuration and display requirements. Elements that may be necessary:
+Ability to require authentication to the IoT device and to establish authentication and identification configuration and display requirements. Elements that may be necessary:
 
 - Ability for the IoT device to support and require appropriate authentication.
   - Ability for the IoT device to require authentication prior to connecting to the device.
