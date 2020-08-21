@@ -53,15 +53,15 @@ Policies and procedures provide the details necessary to implement management an
   - How to block and/or quarantine malicious code to allow for inspection of that code by customer organizational roles with those responsibilities.
   - How to configure the IoT device to shut-down upon detecting malicious code, as appropriate to the purpose of the IoT device.
 - Provide information to IoT device customers describing the operational impacts of the anti-malware activities on mission critical processes in the system where the IoT device is used.
-  - Provide additional information on recommended responses to malware beyond just shutting down the IoT device.
-  - Provide options for responding to malicious code identification within the IoT device. Some examples: shutting down, redirecting the network traffic, sending alerts, logging the events, etc.
+- Provide additional information on recommended responses to malware beyond just shutting down the IoT device.
+- Provide options for responding to malicious code identification within the IoT device. Some examples: shutting down, redirecting the network traffic, sending alerts, logging the events, etc.
 
 **Agency:**
 
-Implement policies and procedures to govern how to configure malicious code protection mechanisms in IoT devices and related systems to:
-- Perform periodic scans of the IoT devices and associated systems on an ongoing basis.
-- Perform real-time scans of files from external sources at IoT device interfaces, and associated systems entry/exit points, as the files are downloaded, opened, or executed in accordance with organizational security policies.
-- Block and/or quarantine malicious code and send an alert to the organization administrator, as well as shutting down the IoT device if appropriate, in response to malicious code detection.
+- Implement policies and procedures to govern how to configure malicious code protection mechanisms in IoT devices and related systems to:
+  - Perform periodic scans of the IoT devices and associated systems on an ongoing basis.
+  - Perform real-time scans of files from external sources at IoT device interfaces, and associated systems entry/exit points, as the files are downloaded, opened, or executed in accordance with organizational security policies.
+  - Block and/or quarantine malicious code and send an alert to the organization administrator, as well as shutting down the IoT device if appropriate, in response to malicious code detection.
 
 ## Policies and procedures for malicious code detection and eradication.
 
