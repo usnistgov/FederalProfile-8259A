@@ -26,4 +26,4 @@ Policies and procedures provide the details necessary to implement management an
 **Agency:**
 
 - Organizational IoT device policies and procedures establish the unique identification required for each IoT device associated with the system and critical system components within which it is used.
-
+- Organizational use of automated tools (sourced from the IoT device manufacturer or a third party vendor) to identify and maintain an inventory of devices using the unique device identification.
