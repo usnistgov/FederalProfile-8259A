@@ -66,7 +66,10 @@ Ability for the device, or an interfaced system, to generate, store, retain, del
       - The source of the event
       - The outcome of the event
       - Identity of users/processes associated with the event
-  - Ability to support auditing of configuration actions.
+  - Ability to support auditing of configuration actions such as:
+      - Current configuration state, and historical configurations.
+      - When changes in configuration occurred.
+      - Which account made the configuration change.
   - Ability to provide information as to why the device captured a particular event or set of events.
   - Ability to capture organizationally-defined information to support examination of security incidents.
   - Ability to record stored data access and usage.
