@@ -11,7 +11,7 @@ permalink: /nontechnical/configuration/
 _See also the [technical counterpart to this section](../_Technical/configuration.md)_
 {:latex-ignore="true"}
 
-The management and operational controls to support the capabilities to configure the IoT device according to the requirements established by the organization. 
+The management and operational controls to support the capabilities to configure the IoT device according to the requirements established by the organization.
 
 ## Policies and procedures establish the minimum requirements for IoT device configuration settings.
 
@@ -26,6 +26,7 @@ Policies and procedures detail the necessary management and operational controls
 
 - Establish the requirements for configuration settings to meet policies and procedures governing the associated IoT devices based upon their roles and functions within the associated systems.
 - Assign roles and responsibilities for ensuring IoT devices are configured with the appropriate configuration settings before implementation within the system. For example, ensuring default passwords are changed before implementing the device into production.
+- Establish and enforce a policy for user added apps or skills if the IoT device supports users adding or running such add-on features.
 
 ## Training is provided to workers covering the IoT device configuration requirements.
 
