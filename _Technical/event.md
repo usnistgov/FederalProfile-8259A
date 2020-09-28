@@ -28,6 +28,7 @@ Ability to provide event identification and monitoring capabilities and/or suppo
 - Ability to identify unique users interacting with the device (to allow for user session monitoring).
 - Ability to support a monitoring process to check for disclosure of organizational information to unauthorized entities. (The device may be able to perform this check itself or provide the information necessary for an external process to check).
 - Ability to monitor communications traffic.
+- Ability to monitor changes to the configuration settings.
 - Ability to detect remote activation attempts.
 - Ability to detect remote activation of a collaborative computing device/component (e.g., microphone, camera, etc.).
 - Ability to detect remote activation of sensors.
