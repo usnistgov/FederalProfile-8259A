@@ -19,7 +19,7 @@ Policies and procedures detail the necessary management and operational controls
 
 **Manufacturer:**
 
-- Provide documentation detailing the minimum configuration settings available within the IoT device, and how to change those settings, to meet their customers' needs and requirements.
+- Provide documentation detailing the configuration settings available within the IoT device, and how to change those settings, to meet their customers' needs and requirements.
 - Provide a process by which customers can contact the manufacturer to ask questions or obtain help related to the minimum requirements for the IoT device configuration settings.
 
 **Agency:**
