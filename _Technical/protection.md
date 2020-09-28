@@ -18,13 +18,12 @@ Ability for the IoT device to use cryptography for data protection. Elements tha
 - Ability to utilize sufficient resources to employ cryptographic mechanisms.
 - Ability to obtain and validate certificates.
 - Ability to verify digital signatures.
-- Ability to run hashing algorithms.
 - Ability to compute and compare hashes.
 - Ability to change keys securely.
+- Ability to perform authenticated encryption algorithms.
 - Ability to manage cryptographic keys securely.
   - Ability to generate key pairs.
   - Ability to store encryption keys securely.
-  - Ability to change keys securely.
 
 ## Secure Storage
 
@@ -49,4 +48,3 @@ Ability to secure data transmissions sent to and from the IoT device. Elements t
   - Ability to support data encryption and signing to prevent data from being altered in transit.
 - Ability to utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 - Ability to use cryptographic means to validate the integrity of data transmitted.
-
