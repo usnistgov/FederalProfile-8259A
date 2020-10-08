@@ -20,7 +20,7 @@ Policies and procedures provide the details necessary to implement management an
 **Manufacturer:**
 
 - Provide information to the IoT device clients/customers that describe the vulnerabilities to malware for the associated IoT devices, and advice for the best types of anti-malware to use. If no anti-malware is needed for the IoT device, explain why.
-- Provide information about the IoT device resource restraints related to malicious code protection and possible compensating controls that IoT device customers can use for such restraints.
+- Provide information about the IoT device resource restraints related to running malicious code protection on the device itself and possible compensating controls that IoT device customers can use as an alternative way to protect the IoT device (e.g. agentless network traffic analysis).
 
 **Agency:**
 
@@ -28,7 +28,7 @@ Policies and procedures provide the details necessary to implement management an
 - Follow procedures to use IoT device anti--malware tools based upon the types of malware possible to be loaded onto each associated IoT device.
 - Establish, or assign to existing, roles within the organization responsibilities for ensuring anti-malware is implemented appropriately within IoT devices used within the organizational systems.
 
-## Policies and procedures govern malicious code protection updates. 
+## Policies and procedures govern malicious code protection updates.
 
 Policies and procedures provide the details necessary to implement management and operational controls for how to update IoT device and related systems malicious code protection mechanisms when new releases are available, in accordance with organizational configuration management policy and procedures. Actions that may be necessary:
 
@@ -90,7 +90,7 @@ Policies and procedures provide the details necessary to implement management an
   - Describing all the ways in which the IoT device can be monitored, and the recommended associated tools to perform monitoring.
   - Describing the indicators of attacks on the IoT device.
   - Describing how to identify local, network and remote IoT device access attempts and connections.
-  - Describing expected behavior of the normal operation of the IoT device. 
+  - Describing expected behavior of the normal operation of the IoT device.
   - Describe IoT device behavior indicators that could occur when an attack is being launched.
 
 **Agency:**
@@ -220,10 +220,9 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
+- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR).
 - Include a timeframe within which such IoT device compliance questions and requests will be answered.
 
 **Agency:**
 
 - Establish policies and procedures to govern the implementation of IoT devices and associated systems security directives in accordance with established compliance requirements, including time frames, and/or notices to the IoT device manufacturers and/or vendors of the degree of noncompliance.
-
