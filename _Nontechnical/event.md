@@ -90,7 +90,7 @@ Policies and procedures provide the details necessary to implement management an
   - Describing all the ways in which the IoT device can be monitored, and the recommended associated tools to perform monitoring.
   - Describing the indicators of attacks on the IoT device.
   - Describing how to identify local, network and remote IoT device access attempts and connections.
-  - Describing expected behavior of the normal operation of the IoT device. 
+  - Describing expected behavior of the normal operation of the IoT device.
   - Describe IoT device behavior indicators that could occur when an attack is being launched.
 
 **Agency:**
@@ -99,6 +99,7 @@ Policies and procedures provide the details necessary to implement management an
 - Establish policies and procedures to monitor IoT devices and associated systems to detect:
   - Attacks and indicators of potential attacks in accordance with organizationally-defined monitoring policies and objectives.
   - Unauthorized local, network, and remote IoT device, and associated systems, connections.
+- Provide incident response training, specific to the IoT device and its data, to users with assigned roles and responsibilities.
 
 ## Policies and procedures to identify unauthorized use.
 
@@ -220,10 +221,9 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR). 
+- Provide directions and procedures to IoT device customers for how to submit questions and requests for information about their IoT device related to security and privacy compliance requirements. Some examples: Federal Information Security Modernization Act (FISMA), Health Insurance Portability and Accountability Act (HIPAA), California Consumer Privacy Act (CCPA), EU General Data Protection Regulation(GDPR).
 - Include a timeframe within which such IoT device compliance questions and requests will be answered.
 
 **Agency:**
 
 - Establish policies and procedures to govern the implementation of IoT devices and associated systems security directives in accordance with established compliance requirements, including time frames, and/or notices to the IoT device manufacturers and/or vendors of the degree of noncompliance.
-
