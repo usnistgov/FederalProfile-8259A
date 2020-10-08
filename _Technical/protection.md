@@ -31,7 +31,7 @@ Ability for the IoT device to use cryptography for data protection. Elements tha
 Ability for the IoT device, or tools used through the IoT device interface, to enable secure device storage. Elements that may be necessary:
 
 - Ability to support encryption of data at rest.
-  - Ability to cryptographically store passwords at rest, as well as other authentication data.
+  - Ability to cryptographically store passwords at rest, as well as device identity and other authentication data.
   - Ability to support data encryption and signing to prevent data from being altered in device storage.
 - Ability to secure data in device storage.
   - Ability to secure data stored locally on the device.
@@ -49,4 +49,3 @@ Ability to secure data transmissions sent to and from the IoT device. Elements t
   - Ability to support data encryption and signing to prevent data from being altered in transit.
 - Ability to utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 - Ability to use cryptographic means to validate the integrity of data transmitted.
-

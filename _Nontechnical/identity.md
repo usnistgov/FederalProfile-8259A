@@ -21,9 +21,9 @@ Policies and procedures provide the details necessary to implement management an
 
 - Provides capabilities within the IoT device to allow for unique identification of each IoT device.
 - Provides instructions for implementing and using the unique IoT identifiers.
+- Provides information about device identifiers such as whether the identifier is securely stored and protected, or is derived from a network address.
 - Provides training videos showing how to implement unique identifiers for the IoT device.
 
 **Agency:**
 
 - Organizational IoT device policies and procedures establish the unique identification required for each IoT device associated with the system and critical system components within which it is used.
-
