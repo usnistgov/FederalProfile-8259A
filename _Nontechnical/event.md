@@ -99,6 +99,7 @@ Policies and procedures provide the details necessary to implement management an
 - Establish policies and procedures to monitor IoT devices and associated systems to detect:
   - Attacks and indicators of potential attacks in accordance with organizationally-defined monitoring policies and objectives.
   - Unauthorized local, network, and remote IoT device, and associated systems, connections.
+  - Unauthorized local or remote sensor activation.
 
 ## Policies and procedures to identify unauthorized use.
 
