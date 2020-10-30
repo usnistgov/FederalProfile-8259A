@@ -87,16 +87,15 @@ Policies and procedures provide the details necessary to implement management an
 **Manufacturer:**
 
 - Provide documentation to IoT device customers:
-  - Describing all the ways in which the IoT device can be monitored, and the recommended associated tools to perform monitoring.
-  - Describing the indicators of attacks on the IoT device.
+  - Describing all the ways in which the IoT device can be monitored, and the recommended associated tools to perform monitoring. (e.g. NAI - network analysis infrastructure, NDR - network detection and response)
   - Describing how to identify local, network and remote IoT device access attempts and connections.
   - Describing expected behavior of the normal operation of the IoT device. 
-  - Describe IoT device behavior indicators that could occur when an attack is being launched.
 
 **Agency:**
 
 - Establish or assign to existing roles within the organization responsibilities for monitoring access to IoT devices and associated systems, identifying suspicious and malicious access, and for reacting appropriately.
-- Establish policies and procedures to monitor IoT devices and associated systems to detect:
+- Establish policies and procedures to monitor IoT devices and associated systems to detect and respond to:
+  - Operation of the IoT device outside the described normal operation
   - Attacks and indicators of potential attacks in accordance with organizationally-defined monitoring policies and objectives.
   - Unauthorized local, network, and remote IoT device, and associated systems, connections.
 
