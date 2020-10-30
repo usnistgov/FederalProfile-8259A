@@ -38,7 +38,7 @@ Provide information to the IoT device clients/customers that describe newly iden
 
 **Agency:**
 
-- Implement policies and procedures to govern how to update IoT device and related systems malicious code protection mechanisms whenever new releases are available, in accordance with organizational configuration management policy and procedures.
+- Implement policies and procedures to govern how to update IoT device and related systems malicious code protection mechanisms whenever new releases are available, in accordance with organizational configuration management policy and procedures. Code protection mechanisms can include both signature-based detection and non-signature based detection mechanisms.
 - Require the appropriate roles to subscribe to available notifications for anti-malware updates from the manufacturer or the software provider, as appropriate.
 
 ## Policies and procedures govern malicious code protection configurations.
@@ -75,7 +75,7 @@ Policies and procedures provide the details necessary to implement management an
 
 **Agency:**
 
-- Implement policies and procedures to perform periodic scans of the IoT devices and related systems, and real-time scans of files from external sources as the files are downloaded, opened, or executed in accordance with the organizational security policy.
+- Implement policies and procedures to perform periodic scans of the IoT devices and related systems, and real-time scans of files from external sources as the files are downloaded, opened, or executed in accordance with the organizational security policy. Scans can be signature-based or non-signature based.
 - Implement policies and procedures to block malicious code; quarantine malicious code; and send alerts to admin roles.
 - Implement policies and procedures governing how to identify and respond to malware false positives for IoT devices, and how to identify and resolve any potential impacts to the associated IoT device and associated systems.
 - Implement policies and procedures establishing how to address the receipt of false positives during IoT device and associated systems malicious code detection and eradication, and the resulting potential impact on the availability of the IoT device and associated systems.
