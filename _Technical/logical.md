@@ -116,7 +116,7 @@ Ability to establish controls for the connections made to the IoT device. Elemen
 - Ability to control device responses to device input.
 - Ability to control output from the device.
 - Ability to support communications technologies (including but not limited to):
-  - 802.11x
+  - IEEE 802.11
   - Bluetooth
   - Ethernet
   - Manufacturer defined
