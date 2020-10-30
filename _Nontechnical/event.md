@@ -119,14 +119,14 @@ Policies and procedures provide the details necessary to implement management an
 
 **Manufacturer:**
 
-- Provide documentation to the IoT device customers describing how to best implement and secure the IoT device and associated systems monitoring.
+- Provide documentation to the IoT device customers describing how to best implement and secure the IoT device and associated monitoring systems.
 
 **Agency:**
 
 - Establish or assign to existing organizational roles responsibilities for monitoring use of IoT devices within the organization.
 - Implement policies and procedures to govern how to deploy monitoring of IoT devices and associated systems to collect organizationally-defined essential information:
-  - Strategically within IoT devices.
-  - In information systems where IoT devices are used.
+  - Monitoring agent within IoT devices.
+  - In information systems where IoT devices are used (e.g. network-based monitoring).
 - Implement policies and procedures to govern how to deploy monitoring of IoT devices and associated systems in ad hoc locations to track specific types of transactions of interest to the organization.
 
 ## Policies and procedures for protecting cybersecurity event information from unauthorized access, modification, and deletion.
